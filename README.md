@@ -38,6 +38,7 @@ The goal is not to collect every recruiting link on the internet. The goal is to
 
 | Resource | Count | Best for |
 |---|---:|---|
+| [Resource Library](./docs/resource-library.md) | Curated library | Reports, books, AI sourcing platforms, OSINT tools, outreach, talent intelligence, recruiting ops, productivity, and communities |
 | [Google Custom Search Engines](./List%20of%201%2C395%20Google%20Custom%20Search%20Engines%20%28CSEs%29.xlsx) | 1,395 | X-ray search, niche research, people finding, profile discovery, sourcing shortcuts |
 | [Chrome Extensions for Talent Sourcing](./List%20of%20490%20Chrome%20Extensions%20%28Applicable%20to%20Talent%20Sourcing%29.docx) | 490 | Recruiter productivity, research, workflow support, enrichment, sourcing utilities |
 | [AI Recruiting Guide](./docs/ai-recruiting.md) | Starter guide | AI sourcing, outreach, intake, research, and responsible use |
@@ -85,6 +86,7 @@ Start with a specific sourcing question:
 
 | If you need to... | Start here |
 |---|---|
+| Browse recruiting resources by category | [Resource Library](./docs/resource-library.md) |
 | Find people across the web | Google CSE archive + sourcing workflows |
 | Source engineers or technical communities | [GitHub Sourcing](./docs/github-sourcing.md) |
 | Evaluate browser tools | Chrome extension archive + [Productivity](./docs/recruiter-productivity.md) |
@@ -129,6 +131,8 @@ The real value is finding the few tools, searches, and workflows that actually m
 ### Sourcing & Search
 
 Resources for finding people, building better search strings, searching across platforms, and using public web data responsibly.
+
+Start here: [Resource Library](./docs/resource-library.md)
 
 ### GitHub & Technical Sourcing
 
