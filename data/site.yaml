@@ -1,0 +1,4359 @@
+frontmatter:
+- '# Resource Library'
+- ''
+- The searchable resource library for the [Talent Sourcing Command Center](../README.md) — the tools and resources sourcers and recruiters actually use 🕵️‍♀️, from AI sourcing platforms and OSINT to talent intelligence, outreach, and the people worth learning from.
+- ''
+- This started as a personal collection of scattered bookmarks and grew into a public resource for the whole community. We hope you find it useful!
+- ''
+- This is a work in progress and open source — if something is wrong or you want to add something, please read [CONTRIBUTING.md](CONTRIBUTING.md).
+- ''
+- '*Note: not everything here was discovered firsthand. Tools and resources are added after surfacing on Product Hunt, blogs, in the recruiting/sourcing community, and at conferences.*'
+- ''
+- '#### See this?'
+- ''
+- 💰 = no free or freemium version
+- ''
+- ❤️ = apps that I personally use A LOT and consider my favourites
+- ''
+- '---'
+- ''
+- '### Overview'
+- ''
+- '- [Start Here](#-start-here)'
+- '- [Reports & Research](#-reports--research)'
+- '- [Books & Reading Library](#-books--reading-library)'
+- '- [AI Sourcing Platforms](#-ai-sourcing-platforms)'
+- '- [Search & OSINT](#-search--osint)'
+- '- [Contact Info & Enrichment](#-contact-info--enrichment)'
+- '- [Outreach & Email](#-outreach--email)'
+- '- [Talent Intelligence](#-talent-intelligence)'
+- '- [ATS, CRM & Recruiting Ops](#-ats-crm--recruiting-ops)'
+- '- [Job Descriptions & Inclusive Hiring](#-job-descriptions--inclusive-hiring)'
+- '- [Screening & Interviews](#-screening--interviews)'
+- '- [Scraping & Automation](#-scraping--automation)'
+- '- [AI Writing & Productivity](#-ai-writing--productivity)'
+- '- [Employer Brand & Job Marketing](#-employer-brand--job-marketing)'
+- '- [Productivity & Browser Tools](#-productivity--browser-tools)'
+- '- [Search Engines & Reference](#-search-engines--reference)'
+- '- [Learning & Community](#-learning--community)'
+- '- [Relocation, Compensation & Research](#-relocation-compensation--research)'
+- ''
+- '---'
+- ''
+sections:
+- heading: '## 🚀 Start Here'
+  blocks:
+  - raw: ''
+  - raw: New to sourcing, or building your stack from scratch? Start with these. One battle-tested pick per job to be done — everything here is either free or has a usable free tier, except where marked 💰.
+  - raw: ''
+  - raw: '- **Find people** — [LinkedIn Recruiter](https://business.linkedin.com/talent-solutions/recruiter) 💰 if you have budget; [RecruitEm](https://recruitin.net) for free Google X-ray search.'
+  - raw: '- **Build boolean strings** — [Balazs Boolean Builder](https://bit.ly/balazs_boolean) for free LinkedIn search.'
+  - raw: '- **Get contact info** — [Hunter.io](https://hunter.io) (great free tier) or [ContactOut](https://contactout.com) 💰 for LinkedIn coverage.'
+  - raw: '- **Reach out** — [SourceWhale](https://sourcewhale.com) 💰 for multi-channel sequences, or [Lemlist](https://lemlist.com) 💰 for cold email.'
+  - raw: '- **Enrich & automate** — [Clay](https://clay.com) pulls candidate data from 50+ sources into one workflow.'
+  - raw: '- **Write better job posts** — [Textio](https://textio.com) 💰 predicts how your language lands with candidates.'
+  - raw: '- **Know the market** — [Levels.fyi](https://levels.fyi) for comp and [Layoffs.fyi](https://layoffs.fyi) for golden-window sourcing.'
+  - raw: '- **Think & draft** — [Claude](https://claude.ai) for outreach, playbooks, boolean, and analysis.'
+  - raw: '- **Practice** — [Sourcing Games](http://sourcing.games) to sharpen OSINT and boolean skills.'
+  - raw: '- **Stay current** — [Recruiting Brainfood](https://recruitingbrainfood.com), the essential weekly newsletter by Hung Lee.'
+  - raw: ''
+  - raw: '---'
+  - raw: ''
+- heading: '## 📊 Reports & Research'
+  blocks:
+  - raw: ''
+  - raw: '### Annual Benchmarks'
+  - raw: ''
+  - entry:
+      name: Gem Recruiting Benchmarks Report
+      url: https://www.gem.com/resource/recruiting-benchmarks
+      desc: ❤️ The definitive annual benchmark. 165M applicants, 15M candidates, 1.2M hires analyzed. Source of hire breakdown, funnel passthrough rates, recruiter productivity. 2026 edition available.
+      pricing: free
+      favorite: true
+      new_2026: true
+      status: active
+      region:
+      - global
+      _raw: '- [Gem Recruiting Benchmarks Report](https://www.gem.com/resource/recruiting-benchmarks) — ❤️ The definitive annual benchmark. 165M applicants, 15M candidates, 1.2M hires analyzed. Source of hire breakdown, funnel passthrough rates, recruiter productivity. 2026 edition available.'
+  - entry:
+      name: GRID Talent Trends Report (2026)
+      url: https://www.bullhorn.com/grid/2026-industry-trends/report/
+      desc: Annual staffing industry research. AI adoption, candidate behavior, firm performance benchmarks. Published by Bullhorn.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [GRID Talent Trends Report (2026)](https://www.bullhorn.com/grid/2026-industry-trends/report/) — Annual staffing industry research. AI adoption, candidate behavior, firm performance benchmarks. Published by Bullhorn.'
+  - entry:
+      name: HR.com Future of Talent Acquisition 2025
+      url: https://hr.com/en/resources/research_library/future-of-talent-acquisition-2025
+      desc: AI adoption in TA, hiring strategy transformation, operational priorities.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [HR.com Future of Talent Acquisition 2025](https://hr.com/en/resources/research_library/future-of-talent-acquisition-2025) — AI adoption in TA, hiring strategy transformation, operational priorities.'
+  - entry:
+      name: iHire State of Online Recruiting
+      url: https://ihire.com/resourcecenter
+      desc: AI adoption in recruiting jumped 428% between 2023-2025. Annual benchmarks on recruiter behavior and candidate job search patterns.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [iHire State of Online Recruiting](https://ihire.com/resourcecenter) — AI adoption in recruiting jumped 428% between 2023-2025. Annual benchmarks on recruiter behavior and candidate job search patterns.'
+  - entry:
+      name: LinkedIn Future of Recruiting
+      url: https://business.linkedin.com/talent-solutions/resources/future-of-recruiting
+      desc: ❤️ Annual report on recruiter trends, AI adoption, and skills-based hiring shifts.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [LinkedIn Future of Recruiting](https://business.linkedin.com/talent-solutions/resources/future-of-recruiting) — ❤️ Annual report on recruiter trends, AI adoption, and skills-based hiring shifts.'
+  - entry:
+      name: ManpowerGroup Talent Shortage Survey (2026)
+      url: https://www.manpowergroup.com
+      desc: 72% of employers worldwide can't find the talent they need. 39,000+ employers across 41 countries. Essential demand signal for any sourcing strategy.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [ManpowerGroup Talent Shortage Survey (2026)](https://www.manpowergroup.com) — 72% of employers worldwide can''t find the talent they need. 39,000+ employers across 41 countries. Essential demand signal for any sourcing strategy.'
+  - entry:
+      name: SHRM Talent Trends Report
+      url: https://www.shrm.org/topics-tools/research
+      desc: Annual survey on recruiting challenges, AI adoption rates, and HR priorities.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [SHRM Talent Trends Report](https://www.shrm.org/topics-tools/research) — Annual survey on recruiting challenges, AI adoption rates, and HR priorities.'
+  - raw: ''
+  - raw: '### Sourcing & Talent Intelligence'
+  - raw: ''
+  - entry:
+      name: 'Aptitude Research: Demystifying Talent Intelligence (2023)'
+      url: https://www.aptituderesearch.com
+      desc: 72% of companies increasing TI investment. Skills-based approach, vendor landscape, business impact.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Aptitude Research: Demystifying Talent Intelligence (2023)](https://www.aptituderesearch.com) — 72% of companies increasing TI investment. Skills-based approach, vendor landscape, business impact.'
+  - entry:
+      name: 'Aptitude Research: State of Sourcing (2023)'
+      url: https://www.aptituderesearch.com
+      desc: 75% of companies are not satisfied with their sourcing approach. AI adoption, sourcing tech landscape, ROI measurement. By Madeline Laurano.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Aptitude Research: State of Sourcing (2023)](https://www.aptituderesearch.com) — 75% of companies are not satisfied with their sourcing approach. AI adoption, sourcing tech landscape, ROI measurement. By Madeline Laurano.'
+  - entry:
+      name: 'Aptitude Research: TA Systems Index (2021)'
+      url: https://www.aptituderesearch.com
+      desc: ATS vendor profiles, top 10 TA tech trends, key drivers. Full competitive landscape snapshot.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Aptitude Research: TA Systems Index (2021)](https://www.aptituderesearch.com) — ATS vendor profiles, top 10 TA tech trends, key drivers. Full competitive landscape snapshot.'
+  - entry:
+      name: Aspect43 TA Market Landscape (2025)
+      url: https://aspect43.com
+      desc: In-depth analysis of the evolving TA tech landscape. Vendor categories, adoption patterns.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Aspect43 TA Market Landscape (2025)](https://aspect43.com) — In-depth analysis of the evolving TA tech landscape. Vendor categories, adoption patterns.'
+  - entry:
+      name: ATAP Sourcing Metrics Standard
+      url: https://atapglobal.org
+      desc: ATAP's sourcing metrics framework. Sourcing workflow, KPI definitions, measurement standards.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [ATAP Sourcing Metrics Standard](https://atapglobal.org) — ATAP''s sourcing metrics framework. Sourcing workflow, KPI definitions, measurement standards.'
+  - entry:
+      name: 'CEB: How to Measure Sourcing Effectiveness'
+      url: https://gartner.com
+      desc: Metrics for demonstrating business value and measuring individual and team performance. Available via Gartner for HR subscription.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [CEB: How to Measure Sourcing Effectiveness](https://gartner.com) — Metrics for demonstrating business value and measuring individual and team performance. Available via Gartner for HR subscription.'
+  - entry:
+      name: 'Lightcast: Talent Intelligence (2024)'
+      url: https://lightcast.io/resources
+      desc: Internal + external data intersection. Skills taxonomy, job posting analytics, workforce planning framework.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Lightcast: Talent Intelligence (2024)](https://lightcast.io/resources) — Internal + external data intersection. Skills taxonomy, job posting analytics, workforce planning framework.'
+  - entry:
+      name: Sourcing Metrics Whitepaper — Balazs Paroczay (2023)
+      url: https://thesourcecode.academy
+      desc: ❤️ Cracking the code on sourcing metrics. By Balazs Paroczay and Alexandra Gyetvai. Source Code Agency.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Sourcing Metrics Whitepaper — Balazs Paroczay (2023)](https://thesourcecode.academy) — ❤️ Cracking the code on sourcing metrics. By Balazs Paroczay and Alexandra Gyetvai. Source Code Agency.'
+  - raw: ''
+  - raw: '### Candidate Experience'
+  - raw: ''
+  - entry:
+      name: '2024: What Sets CandE Award Winners Apart'
+      url: https://survale.com/candes
+      desc: Contentment down, resentment up. What separates award-winning candidate experience from the rest.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [2024: What Sets CandE Award Winners Apart](https://survale.com/candes) — Contentment down, resentment up. What separates award-winning candidate experience from the rest.'
+  - entry:
+      name: CandE Benchmark Research (Survale)
+      url: https://survale.com/candes
+      desc: Annual candidate experience research. North America + Global editions. NPS, perception gaps, business impact.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [CandE Benchmark Research (Survale)](https://survale.com/candes) — Annual candidate experience research. North America + Global editions. NPS, perception gaps, business impact.'
+  - entry:
+      name: The 2024 Business Impact of Candidate Experience
+      url: https://survale.com/candes
+      desc: ROI of candidate experience investment. Post-pandemic volatility, relationship quality, global benchmarks.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [The 2024 Business Impact of Candidate Experience](https://survale.com/candes) — ROI of candidate experience investment. Post-pandemic volatility, relationship quality, global benchmarks.'
+  - raw: ''
+  - raw: '### Guides & Playbooks'
+  - raw: ''
+  - entry:
+      name: Avature Drip Campaigns Playbook
+      url: https://avature.net/resources
+      desc: 5 types of drip campaigns for recruiting. CRM nurture, passive candidate sequencing, buy-in framework.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Avature Drip Campaigns Playbook](https://avature.net/resources) — 5 types of drip campaigns for recruiting. CRM nurture, passive candidate sequencing, buy-in framework.'
+  - entry:
+      name: 'Greenhouse: How to Build a Talent Operation'
+      url: https://www.greenhouse.com/guidance
+      desc: Recruiting funnel, hiring manager partnership, structured process. The strategic recruiter playbook.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Greenhouse: How to Build a Talent Operation](https://www.greenhouse.com/guidance) — Recruiting funnel, hiring manager partnership, structured process. The strategic recruiter playbook.'
+  - entry:
+      name: Karat 2025-2026 AI Workforce Transformation Report
+      url: https://karat.com
+      desc: Engineering interview trends. How AI is changing technical skill assessment. Data from 400+ engineering leaders.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Karat 2025-2026 AI Workforce Transformation Report](https://karat.com) — Engineering interview trends. How AI is changing technical skill assessment. Data from 400+ engineering leaders.'
+  - entry:
+      name: 'McKinsey: Beyond the Hype — AI in TMT (2024)'
+      url: https://mckinsey.com/industries/technology-media-and-telecommunications
+      desc: AI and gen AI in tech, media, telecom. Essential context for tech talent sourcing.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [McKinsey: Beyond the Hype — AI in TMT (2024)](https://mckinsey.com/industries/technology-media-and-telecommunications) — AI and gen AI in tech, media, telecom. Essential context for tech talent sourcing.'
+  - entry:
+      name: Phenom Essential TA Toolkit
+      url: https://phenom.com/resources
+      desc: Candidate persona canvas, journey map, 7 email templates for recruiters.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Phenom Essential TA Toolkit](https://phenom.com/resources) — Candidate persona canvas, journey map, 7 email templates for recruiters.'
+  - entry:
+      name: 'RAISE: Direct Sourcing Playbook'
+      url: https://raiserecruitinggroup.com
+      desc: Employer brand-led sourcing, talent pool curation, self-sourcing vs managed direct sourcing.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [RAISE: Direct Sourcing Playbook](https://raiserecruitinggroup.com) — Employer brand-led sourcing, talent pool curation, self-sourcing vs managed direct sourcing.'
+  - entry:
+      name: Standard Recruiting Analytics Package
+      url: https://ere.net
+      desc: Five standard reports + three scorecards. 20-point report card framework for corporate recruiting programs.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Standard Recruiting Analytics Package](https://ere.net) — Five standard reports + three scorecards. 20-point report card framework for corporate recruiting programs.'
+  - entry:
+      name: Talent Leader's Guide to Reporting
+      url: https://www.gem.com/resources
+      desc: Mastering recruitment metrics. Analytics, reporting, TA team performance measurement.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Talent Leader''s Guide to Reporting](https://www.gem.com/resources) — Mastering recruitment metrics. Analytics, reporting, TA team performance measurement.'
+  - entry:
+      name: WorkTech Global Market Briefing (2025)
+      url: https://worktechresearch.com
+      desc: $3.55B in HR tech deals in H1 2025. Agentic AI, payroll, and recruitment platforms identified as hot investment categories. By George LaRoque.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [WorkTech Global Market Briefing (2025)](https://worktechresearch.com) — $3.55B in HR tech deals in H1 2025. Agentic AI, payroll, and recruitment platforms identified as hot investment categories. By George LaRoque.'
+  - raw: ''
+  - raw: '---'
+  - raw: ''
+- heading: '## 📚 Books & Reading Library'
+  blocks:
+  - raw: ''
+  - raw: '### Recruiting Fundamentals'
+  - raw: ''
+  - entry:
+      name: Digitizing Talent
+      url: https://amazon.com
+      desc: 💰 *Jessica Miller-Merrell* — Creative strategies for the digital recruiting age. By the founder of Workology.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Digitizing Talent](https://amazon.com) — 💰 *Jessica Miller-Merrell* — Creative strategies for the digital recruiting age. By the founder of Workology.'
+  - entry:
+      name: Evergreen Talent
+      url: https://amazon.com
+      desc: 💰 *Roberta Chinsky Matuson* — A guide to hiring and cultivating a sustainable workforce.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Evergreen Talent](https://amazon.com) — 💰 *Roberta Chinsky Matuson* — A guide to hiring and cultivating a sustainable workforce.'
+  - entry:
+      name: Evidence-Based Recruiting
+      url: https://amazon.com
+      desc: 💰 *Atta Tarki* — Systematic and repeatable hiring practices based on data, not gut instinct.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Evidence-Based Recruiting](https://amazon.com) — 💰 *Atta Tarki* — Systematic and repeatable hiring practices based on data, not gut instinct.'
+  - entry:
+      name: Fire Your Hiring Habits
+      url: https://amazon.com
+      desc: 💰 *John Mitchell* — Innovating the ways you hire, develop, and retain talent in the modern workforce.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Fire Your Hiring Habits](https://amazon.com) — 💰 *John Mitchell* — Innovating the ways you hire, develop, and retain talent in the modern workforce.'
+  - entry:
+      name: 'Full Stack Recruiter: New Secrets Revealed'
+      url: https://fullstackrecruiter.net
+      desc: 💰 *Jan Tegze* — Sequel with hidden tactics for top recruiters and sourcers.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Full Stack Recruiter: New Secrets Revealed](https://fullstackrecruiter.net) — 💰 *Jan Tegze* — Sequel with hidden tactics for top recruiters and sourcers.'
+  - entry:
+      name: 'Full Stack Recruiter: The Modern Recruiter''s Guide'
+      url: https://fullstackrecruiter.net
+      desc: 💰 ❤️ *Jan Tegze* — The bible. Covers sourcing, boolean, tools, outreach, and the full recruiting lifecycle.
+      pricing: paid
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Full Stack Recruiter: The Modern Recruiter''s Guide](https://fullstackrecruiter.net) — 💰 ❤️ *Jan Tegze* — The bible. Covers sourcing, boolean, tools, outreach, and the full recruiting lifecycle.'
+  - entry:
+      name: Hiring for Attitude
+      url: https://amazon.com
+      desc: 💰 *Mark Murphy* — Recruiting for attitude and cultural fit alongside skills. Includes assessment methodology.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Hiring for Attitude](https://amazon.com) — 💰 *Mark Murphy* — Recruiting for attitude and cultural fit alongside skills. Includes assessment methodology.'
+  - entry:
+      name: Hiring for Diversity
+      url: https://amazon.com
+      desc: 💰 *Arthur Woods & Susanna Tharakan* — Building inclusive and equitable hiring practices. Practical guide with tools.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Hiring for Diversity](https://amazon.com) — 💰 *Arthur Woods & Susanna Tharakan* — Building inclusive and equitable hiring practices. Practical guide with tools.'
+  - entry:
+      name: Hiring Greatness
+      url: https://amazon.com
+      desc: 💰 *David E. Perry & Mark J. Haluska* — How to recruit your dream team and outcompete for top talent.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Hiring Greatness](https://amazon.com) — 💰 *David E. Perry & Mark J. Haluska* — How to recruit your dream team and outcompete for top talent.'
+  - entry:
+      name: Recruiting Sucks...But It Doesn't Have To
+      url: https://amazon.com
+      desc: 💰 *Steve Lowisz* — Breaking through the myths holding recruiting back.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Recruiting Sucks...But It Doesn''t Have To](https://amazon.com) — 💰 *Steve Lowisz* — Breaking through the myths holding recruiting back.'
+  - entry:
+      name: Talent Magnet
+      url: https://amazon.com
+      desc: 💰 *Mark Miller* — How to attract and keep the best people.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Talent Magnet](https://amazon.com) — 💰 *Mark Miller* — How to attract and keep the best people.'
+  - entry:
+      name: The Holloway Guide to Technical Recruiting
+      url: https://holloway.com/g/technical-recruiting-hiring/about
+      desc: ❤️ *Holloway* — Free comprehensive guide to hiring engineers. Deeply practical.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [The Holloway Guide to Technical Recruiting](https://holloway.com/g/technical-recruiting-hiring/about) — ❤️ *Holloway* — Free comprehensive guide to hiring engineers. Deeply practical.'
+  - entry:
+      name: The Professional Recruiter's Handbook
+      url: https://amazon.com
+      desc: 💰 *Jane Newell Brown & Ann Swain* — Delivering excellence in recruitment practice. Classic UK-origin reference.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [The Professional Recruiter''s Handbook](https://amazon.com) — 💰 *Jane Newell Brown & Ann Swain* — Delivering excellence in recruitment practice. Classic UK-origin reference.'
+  - entry:
+      name: The Robot-Proof Recruiter (2nd ed.)
+      url: https://amazon.com
+      desc: 💰 *Katrina Collier* — Human-centered recruiting in an AI world. Updated edition with new AI chapter.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [The Robot-Proof Recruiter (2nd ed.)](https://amazon.com) — 💰 *Katrina Collier* — Human-centered recruiting in an AI world. Updated edition with new AI chapter.'
+  - entry:
+      name: The Talent Fix Vol. 2
+      url: https://shrm.org/store
+      desc: 💰 *Tim Sackett (2024)* — SHRM guide to recruiting great talent. TA tech stack, high-volume hiring, recruiter leadership.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [The Talent Fix Vol. 2](https://shrm.org/store) — 💰 *Tim Sackett (2024)* — SHRM guide to recruiting great talent. TA tech stack, high-volume hiring, recruiter leadership.'
+  - entry:
+      name: Who Is the New How
+      url: https://amazon.com
+      desc: 💰 *Justin Palmer & Jessica Schertz* — Strategies to find, recruit, and create the best teams.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Who Is the New How](https://amazon.com) — 💰 *Justin Palmer & Jessica Schertz* — Strategies to find, recruit, and create the best teams.'
+  - entry:
+      name: 'Who: The A Method for Hiring'
+      url: https://whothebook.com
+      desc: 💰 ❤️ *Geoff Smart & Randy Street* — Scorecard-based hiring methodology. The most widely used structured interviewing framework.
+      pricing: paid
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Who: The A Method for Hiring](https://whothebook.com) — 💰 ❤️ *Geoff Smart & Randy Street* — Scorecard-based hiring methodology. The most widely used structured interviewing framework.'
+  - raw: ''
+  - raw: '### Sourcing, Search & OSINT'
+  - raw: ''
+  - entry:
+      name: 300 Best Boolean Strings
+      url: https://booleanbook.com
+      desc: 💰 ❤️ *Irina Shamaeva* — Boolean string bible.
+      pricing: paid
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [300 Best Boolean Strings](https://booleanbook.com) — 💰 ❤️ *Irina Shamaeva* — Boolean string bible.'
+  - entry:
+      name: 80 Sourcing Hacks
+      url: https://therecruitmentnetwork.com
+      desc: '*The Recruitment Network* — 80 practical sourcing hacks for recruiters. Quick-reference format.'
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [80 Sourcing Hacks](https://therecruitmentnetwork.com) — *The Recruitment Network* — 80 practical sourcing hacks for recruiters. Quick-reference format.'
+  - entry:
+      name: AI Talent Sourcing
+      url: https://wizardsourcer.com
+      desc: 💰 ❤️ *Jonathan Kidder (2023)* — 500+ ChatGPT prompts for recruiting tasks. Boolean, outreach, JDs, metrics, DEI.
+      pricing: paid
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [AI Talent Sourcing](https://wizardsourcer.com) — 💰 ❤️ *Jonathan Kidder (2023)* — 500+ ChatGPT prompts for recruiting tasks. Boolean, outreach, JDs, metrics, DEI.'
+  - entry:
+      name: Guide to Recruiting Military Veterans
+      url: https://wizardsourcer.com
+      desc: 💰 *Jonathan Kidder* — Boolean strings, communities, and tools to find and recruit veterans online.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Guide to Recruiting Military Veterans](https://wizardsourcer.com) — 💰 *Jonathan Kidder* — Boolean strings, communities, and tools to find and recruit veterans online.'
+  - entry:
+      name: 'High Tech and High Touch: Headhunting'
+      url: https://amazon.com
+      desc: 💰 *Coverdill & Finlay* — Technology and economic transformation in headhunting and executive search.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [High Tech and High Touch: Headhunting](https://amazon.com) — 💰 *Coverdill & Finlay* — Technology and economic transformation in headhunting and executive search.'
+  - entry:
+      name: Open Source Intelligence Techniques
+      url: https://inteltechniques.com/book1.html
+      desc: 💰 ❤️ *Michael Bazzell* — The OSINT bible. Resources for searching and analyzing online information — updated annually.
+      pricing: paid
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Open Source Intelligence Techniques](https://inteltechniques.com/book1.html) — 💰 ❤️ *Michael Bazzell* — The OSINT bible. Resources for searching and analyzing online information — updated annually.'
+  - entry:
+      name: 'People as Merchandise: Crack the Code to LinkedIn Recruitment'
+      url: https://amazon.com
+      desc: 💰 *Josef Kadlec* — Deep LinkedIn sourcing methodology. By a SourceCon legend.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [People as Merchandise: Crack the Code to LinkedIn Recruitment](https://amazon.com) — 💰 *Josef Kadlec* — Deep LinkedIn sourcing methodology. By a SourceCon legend.'
+  - entry:
+      name: 'Power Searching the Internet: The Librarian''s Quick Guide'
+      url: https://amazon.com
+      desc: 💰 *Nicole Hennig* — Advanced web search techniques. Librarian methodology applied to sourcing.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Power Searching the Internet: The Librarian''s Quick Guide](https://amazon.com) — 💰 *Nicole Hennig* — Advanced web search techniques. Librarian methodology applied to sourcing.'
+  - entry:
+      name: Talk Tech to Me
+      url: https://amazon.com
+      desc: 💰 ❤️ *Brian Fink* — The non-technical guide to technology recruiting. Understand what engineers actually build.
+      pricing: paid
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Talk Tech to Me](https://amazon.com) — 💰 ❤️ *Brian Fink* — The non-technical guide to technology recruiting. Understand what engineers actually build.'
+  - entry:
+      name: The Joy of Search
+      url: https://amazon.com
+      desc: 💰 *Daniel M. Russell* — Google insider's guide to going beyond the basics.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [The Joy of Search](https://amazon.com) — 💰 *Daniel M. Russell* — Google insider''s guide to going beyond the basics.'
+  - entry:
+      name: The Sourcer's Playbook
+      url: https://amazon.com
+      desc: 💰 *Geoff Peterson* — Visual guide for finding talent online. Sourcing strategies, platforms, workflows.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [The Sourcer''s Playbook](https://amazon.com) — 💰 *Geoff Peterson* — Visual guide for finding talent online. Sourcing strategies, platforms, workflows.'
+  - entry:
+      name: Top Talent Sourcing Tools for Recruiters
+      url: https://wizardsourcer.com
+      desc: 💰 *Jonathan Kidder* — Beginner's guide to 50+ sourcing tools. Platforms, extensions, boolean, OSINT — all covered.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Top Talent Sourcing Tools for Recruiters](https://wizardsourcer.com) — 💰 *Jonathan Kidder* — Beginner''s guide to 50+ sourcing tools. Platforms, extensions, boolean, OSINT — all covered.'
+  - raw: ''
+  - raw: '### AIRS Certification Materials'
+  - raw: ''
+  - entry:
+      name: AIRS AdvancedLab 2.0 Certification Course
+      url: https://airsdirectory.com
+      desc: 💰 *AIRS* — The classic AIRS certification course content. Boolean, X-ray, sourcing methodology fundamentals.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [AIRS AdvancedLab 2.0 Certification Course](https://airsdirectory.com) — 💰 *AIRS* — The classic AIRS certification course content. Boolean, X-ray, sourcing methodology fundamentals.'
+  - entry:
+      name: 'AIRS: Discovering Candidate Contact Information'
+      url: https://airsdirectory.com
+      desc: 💰 *AIRS* — Finding contact info for candidates. AIRS methodology for contact research.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [AIRS: Discovering Candidate Contact Information](https://airsdirectory.com) — 💰 *AIRS* — Finding contact info for candidates. AIRS methodology for contact research.'
+  - raw: ''
+  - raw: '### AI & Talent Technology'
+  - raw: ''
+  - entry:
+      name: AI iQ for a Human-Focused Future
+      url: https://amazon.com
+      desc: 💰 *Seth Dobrin* — AI strategy, talent, and culture. Human-first AI implementation.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [AI iQ for a Human-Focused Future](https://amazon.com) — 💰 *Seth Dobrin* — AI strategy, talent, and culture. Human-first AI implementation.'
+  - entry:
+      name: Artificial Intelligence for HR (2nd ed.)
+      url: https://amazon.com
+      desc: 💰 *Ben Eubanks* — Use AI to support and develop a successful workforce. Updated edition.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Artificial Intelligence for HR (2nd ed.)](https://amazon.com) — 💰 *Ben Eubanks* — Use AI to support and develop a successful workforce. Updated edition.'
+  - entry:
+      name: Data-Driven HR (2nd ed.)
+      url: https://amazon.com
+      desc: 💰 *Bernard Marr* — How to use AI, analytics, and data to drive HR performance.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Data-Driven HR (2nd ed.)](https://amazon.com) — 💰 *Bernard Marr* — How to use AI, analytics, and data to drive HR performance.'
+  - entry:
+      name: Decoding Talent
+      url: https://amazon.com
+      desc: 💰 *Eric Sydell* — How AI and big data can solve your company's people puzzle.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Decoding Talent](https://amazon.com) — 💰 *Eric Sydell* — How AI and big data can solve your company''s people puzzle.'
+  - entry:
+      name: 'Life 3.0: Being Human in the Age of AI'
+      url: https://amazon.com
+      desc: 💰 *Max Tegmark* — The long view on AI's impact on society and work.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Life 3.0: Being Human in the Age of AI](https://amazon.com) — 💰 *Max Tegmark* — The long view on AI''s impact on society and work.'
+  - entry:
+      name: Talent Intelligence
+      url: https://amazon.com
+      desc: 💰 ❤️ *Toby Culshaw* — Using business and people data to drive organizational performance. By one of the field's defining practitioners.
+      pricing: paid
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Talent Intelligence](https://amazon.com) — 💰 ❤️ *Toby Culshaw* — Using business and people data to drive organizational performance. By one of the field''s defining practitioners.'
+  - entry:
+      name: Weapons of Math Destruction
+      url: https://amazon.com
+      desc: 💰 *Cathy O'Neil* — How big data increases inequality. Critical counterbalance when evaluating AI hiring tools.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Weapons of Math Destruction](https://amazon.com) — 💰 *Cathy O''Neil* — How big data increases inequality. Critical counterbalance when evaluating AI hiring tools.'
+  - raw: ''
+  - raw: '### Metrics & Analytics'
+  - raw: ''
+  - entry:
+      name: 'Quantifiably Better: HR Analytics'
+      url: https://amazon.com
+      desc: 💰 *Steve Vanwieren* — Delivering HR analytics from start to finish. Practical framework for TA measurement.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Quantifiably Better: HR Analytics](https://amazon.com) — 💰 *Steve Vanwieren* — Delivering HR analytics from start to finish. Practical framework for TA measurement.'
+  - entry:
+      name: Superforecasting
+      url: https://amazon.com
+      desc: 💰 *Tetlock & Gardner* — The art and science of prediction. Useful for structured hiring decisions and pipeline forecasting.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Superforecasting](https://amazon.com) — 💰 *Tetlock & Gardner* — The art and science of prediction. Useful for structured hiring decisions and pipeline forecasting.'
+  - entry:
+      name: The HR Scorecard
+      url: https://amazon.com
+      desc: 💰 *Becker, Huselid & Ulrich* — Linking people, strategy, and performance. Classic HR measurement framework.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [The HR Scorecard](https://amazon.com) — 💰 *Becker, Huselid & Ulrich* — Linking people, strategy, and performance. Classic HR measurement framework.'
+  - raw: ''
+  - raw: '### Talent Strategy & People Ops'
+  - raw: ''
+  - entry:
+      name: Agile People
+      url: https://amazon.com
+      desc: 💰 *Pia-Maria Thoren* — Radical HR approach that leads to motivated employees.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Agile People](https://amazon.com) — 💰 *Pia-Maria Thoren* — Radical HR approach that leads to motivated employees.'
+  - entry:
+      name: Good to Great
+      url: https://amazon.com
+      desc: 💰 *Jim Collins* — Why some companies make the leap and others don't. First Who, then What — talent is central.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Good to Great](https://amazon.com) — 💰 *Jim Collins* — Why some companies make the leap and others don''t. First Who, then What — talent is central.'
+  - entry:
+      name: People Strategy
+      url: https://amazon.com
+      desc: 💰 *Jack Altman* — How to invest in people and make culture your competitive advantage.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [People Strategy](https://amazon.com) — 💰 *Jack Altman* — How to invest in people and make culture your competitive advantage.'
+  - entry:
+      name: Scaling Up Excellence
+      url: https://amazon.com
+      desc: 💰 *Sutton & Rao* — Getting to more without settling for less. How to scale people and culture.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Scaling Up Excellence](https://amazon.com) — 💰 *Sutton & Rao* — Getting to more without settling for less. How to scale people and culture.'
+  - entry:
+      name: Superbosses
+      url: https://amazon.com
+      desc: 💰 *Sydney Finkelstein* — How exceptional leaders master the flow of talent in their organizations.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Superbosses](https://amazon.com) — 💰 *Sydney Finkelstein* — How exceptional leaders master the flow of talent in their organizations.'
+  - entry:
+      name: Talent Relationship Management
+      url: https://amazon.com
+      desc: 💰 *Armin Trost* — Competitive recruiting strategies in times of talent shortage.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Talent Relationship Management](https://amazon.com) — 💰 *Armin Trost* — Competitive recruiting strategies in times of talent shortage.'
+  - entry:
+      name: The Death of Best Practices
+      url: https://amazon.com
+      desc: 💰 *Susan P. Chen* — Reimagining HR through cultivating a growth mindset.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [The Death of Best Practices](https://amazon.com) — 💰 *Susan P. Chen* — Reimagining HR through cultivating a growth mindset.'
+  - entry:
+      name: Victory Through Organization
+      url: https://amazon.com
+      desc: 💰 *Dave Ulrich et al.* — Why the war for talent is failing and what to do about it.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Victory Through Organization](https://amazon.com) — 💰 *Dave Ulrich et al.* — Why the war for talent is failing and what to do about it.'
+  - entry:
+      name: Work Rules!
+      url: https://amazon.com
+      desc: 💰 ❤️ *Laszlo Bock* — Insights from inside Google. The people ops bible — how data-driven hiring actually works.
+      pricing: paid
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Work Rules!](https://amazon.com) — 💰 ❤️ *Laszlo Bock* — Insights from inside Google. The people ops bible — how data-driven hiring actually works.'
+  - raw: ''
+  - raw: '### Diversity, Equity & Inclusion'
+  - raw: ''
+  - entry:
+      name: 'Athena Rising: Why Men Should Mentor Women'
+      url: https://amazon.com
+      desc: 💰 *Johnson & Smith* — Practical guide to cross-gender mentorship in the workplace.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Athena Rising: Why Men Should Mentor Women](https://amazon.com) — 💰 *Johnson & Smith* — Practical guide to cross-gender mentorship in the workplace.'
+  - entry:
+      name: 'Good Guys: Better Allies for Women in the Workplace'
+      url: https://amazon.com
+      desc: 💰 *Smith & Johnson* — How men can be better allies for women in the workplace.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Good Guys: Better Allies for Women in the Workplace](https://amazon.com) — 💰 *Smith & Johnson* — How men can be better allies for women in the workplace.'
+  - entry:
+      name: Indivisible
+      url: https://amazon.com
+      desc: 💰 *Denise Hamilton* — How to forge our differences into a stronger future.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Indivisible](https://amazon.com) — 💰 *Denise Hamilton* — How to forge our differences into a stronger future.'
+  - entry:
+      name: 'Rebel Ideas: The Power of Diverse Thinking'
+      url: https://amazon.com
+      desc: 💰 *Matthew Syed* — Cognitive diversity as competitive advantage. Evidence-based case for inclusive hiring.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Rebel Ideas: The Power of Diverse Thinking](https://amazon.com) — 💰 *Matthew Syed* — Cognitive diversity as competitive advantage. Evidence-based case for inclusive hiring.'
+  - entry:
+      name: The Culture Map
+      url: https://amazon.com
+      desc: 💰 ❤️ *Erin Meyer* — Decoding how people think and work across cultures. Essential for global recruiting teams.
+      pricing: paid
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [The Culture Map](https://amazon.com) — 💰 ❤️ *Erin Meyer* — Decoding how people think and work across cultures. Essential for global recruiting teams.'
+  - raw: ''
+  - raw: '### Leadership & Negotiation'
+  - raw: ''
+  - entry:
+      name: 'An Elegant Puzzle: Systems of Engineering Management'
+      url: https://amazon.com
+      desc: 💰 *Will Larson* — Great context for anyone sourcing engineering leaders.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [An Elegant Puzzle: Systems of Engineering Management](https://amazon.com) — 💰 *Will Larson* — Great context for anyone sourcing engineering leaders.'
+  - entry:
+      name: 'Grit: The Power of Passion and Perseverance'
+      url: https://amazon.com
+      desc: 💰 *Angela Duckworth* — The science of success. Useful lens for evaluating candidates beyond credentials.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Grit: The Power of Passion and Perseverance](https://amazon.com) — 💰 *Angela Duckworth* — The science of success. Useful lens for evaluating candidates beyond credentials.'
+  - entry:
+      name: Never Split the Difference
+      url: https://amazon.com
+      desc: 💰 ❤️ *Chris Voss* — FBI negotiation tactics applied to everyday life. Invaluable for offer negotiations.
+      pricing: paid
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Never Split the Difference](https://amazon.com) — 💰 ❤️ *Chris Voss* — FBI negotiation tactics applied to everyday life. Invaluable for offer negotiations.'
+  - entry:
+      name: No Hard Feelings
+      url: https://amazon.com
+      desc: 💰 *Fosslien & West Duffy* — The secret power of embracing emotions at work.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [No Hard Feelings](https://amazon.com) — 💰 *Fosslien & West Duffy* — The secret power of embracing emotions at work.'
+  - entry:
+      name: Radical Candor
+      url: https://amazon.com
+      desc: 💰 *Kim Scott* — Be a kickass boss without losing your humanity. Manager/leader essential.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Radical Candor](https://amazon.com) — 💰 *Kim Scott* — Be a kickass boss without losing your humanity. Manager/leader essential.'
+  - entry:
+      name: 'Reset: How to Change What''s Not Working'
+      url: https://amazon.com
+      desc: 💰 *Dan Heath* — Framework for identifying and fixing broken systems. Useful for TA ops redesign.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Reset: How to Change What''s Not Working](https://amazon.com) — 💰 *Dan Heath* — Framework for identifying and fixing broken systems. Useful for TA ops redesign.'
+  - entry:
+      name: The Manager's Path
+      url: https://amazon.com
+      desc: 💰 *Camille Fournier* — Guide for tech leaders navigating growth and change. Essential context for technical recruiting.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [The Manager''s Path](https://amazon.com) — 💰 *Camille Fournier* — Guide for tech leaders navigating growth and change. Essential context for technical recruiting.'
+  - entry:
+      name: What Got You Here Won't Get You There
+      url: https://amazon.com
+      desc: 💰 *Marshall Goldsmith* — 20 workplace habits successful people need to break.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [What Got You Here Won''t Get You There](https://amazon.com) — 💰 *Marshall Goldsmith* — 20 workplace habits successful people need to break.'
+  - raw: ''
+  - raw: '### Tech Context for Recruiters'
+  - raw: ''
+  - entry:
+      name: A Hacker's Mind
+      url: https://amazon.com
+      desc: 💰 *Bruce Schneier* — How the powerful bend society's rules. Systems thinking for sourcers.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [A Hacker''s Mind](https://amazon.com) — 💰 *Bruce Schneier* — How the powerful bend society''s rules. Systems thinking for sourcers.'
+  - entry:
+      name: Bad Blood
+      url: https://amazon.com
+      desc: 💰 *John Carreyrou* — Theranos story. Cautionary tale about culture, hiring, and leadership failure.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Bad Blood](https://amazon.com) — 💰 *John Carreyrou* — Theranos story. Cautionary tale about culture, hiring, and leadership failure.'
+  - entry:
+      name: Employer Branding for Competitive Advantage
+      url: https://amazon.com
+      desc: 💰 *Rana, Agarwal & Sharma* — Models and implementation strategies for employer branding programs.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Employer Branding for Competitive Advantage](https://amazon.com) — 💰 *Rana, Agarwal & Sharma* — Models and implementation strategies for employer branding programs.'
+  - entry:
+      name: Fabless Semiconductor Manufacturing
+      url: https://amazon.com
+      desc: 💰 *Chinmay K. Maiti* — In the era of IoT. Context for anyone sourcing chip design and semiconductor talent.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Fabless Semiconductor Manufacturing](https://amazon.com) — 💰 *Chinmay K. Maiti* — In the era of IoT. Context for anyone sourcing chip design and semiconductor talent.'
+  - entry:
+      name: 'Palo Alto: A History of California, Capitalism, and the World'
+      url: https://amazon.com
+      desc: 💰 *Malcolm Harris* — Critical history of Silicon Valley. Useful context for tech talent markets.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Palo Alto: A History of California, Capitalism, and the World](https://amazon.com) — 💰 *Malcolm Harris* — Critical history of Silicon Valley. Useful context for tech talent markets.'
+  - entry:
+      name: Talk Tech to Me
+      url: https://amazon.com
+      desc: 💰 ❤️ *Brian Fink* — The non-technical guide to technology recruiting. Understand what engineers actually do.
+      pricing: paid
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Talk Tech to Me](https://amazon.com) — 💰 ❤️ *Brian Fink* — The non-technical guide to technology recruiting. Understand what engineers actually do.'
+  - entry:
+      name: The Innovators
+      url: https://amazon.com
+      desc: 💰 *Walter Isaacson* — How hackers, geniuses, and geeks created the digital revolution. Context for tech recruiting.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [The Innovators](https://amazon.com) — 💰 *Walter Isaacson* — How hackers, geniuses, and geeks created the digital revolution. Context for tech recruiting.'
+  - raw: ''
+  - raw: '---'
+  - raw: ''
+- heading: '## 🤖 AI Sourcing Platforms'
+  blocks:
+  - raw: ''
+  - entry:
+      name: AmazingHiring
+      url: https://amazinghiring.com
+      desc: 💰 Chrome extension + platform for tech sourcing. Aggregates 50+ professional networks including GitHub, Stack Overflow, and patent databases.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [AmazingHiring](https://amazinghiring.com) — 💰 Chrome extension + platform for tech sourcing. Aggregates 50+ professional networks including GitHub, Stack Overflow, and patent databases.'
+  - entry:
+      name: Apollo.io
+      url: https://apollo.io
+      desc: 💰 Sales intelligence + contact database. 270M+ contacts, sequences. Strong for sourcing outside LinkedIn.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Apollo.io](https://apollo.io) — 💰 Sales intelligence + contact database. 270M+ contacts, sequences. Strong for sourcing outside LinkedIn.'
+      caution: &id001
+      - privacy-data
+  - entry:
+      name: Covey Scout
+      url: https://getcovey.com
+      desc: 💰 AI sourcing assistant you train in plain language. Describe how you'd evaluate a candidate; Scout builds and runs the bot. Inbound screening reviews thousands of profiles to surface top 5% within an hour.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Covey Scout](https://getcovey.com) — 💰 AI sourcing assistant you train in plain language. Describe how you''d evaluate a candidate; Scout builds and runs the bot. Inbound screening reviews thousands of profiles to surface top 5% within an hour.'
+  - entry:
+      name: Eightfold AI
+      url: https://eightfold.ai
+      desc: 💰 Talent intelligence platform. Skills-based matching, internal mobility, DEI sourcing signals. 2B+ talent profiles. Fortune 500 standard.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Eightfold AI](https://eightfold.ai) — 💰 Talent intelligence platform. Skills-based matching, internal mobility, DEI sourcing signals. 2B+ talent profiles. Fortune 500 standard.'
+  - entry:
+      name: Fetcher
+      url: https://fetcher.ai
+      desc: 💰 AI identifies and scores candidates; a human curation team validates the shortlist before delivery. Hybrid model for teams that want automation without fully unreviewed AI output.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Fetcher](https://fetcher.ai) — 💰 AI identifies and scores candidates; a human curation team validates the shortlist before delivery. Hybrid model for teams that want automation without fully unreviewed AI output.'
+      caution:
+      - ai-screening
+  - entry:
+      name: Findem
+      url: https://findem.ai
+      desc: 💰 Attribute-based talent search. Finds candidates keyword search misses. Strong diversity and career-signal enrichment.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Findem](https://findem.ai) — 💰 Attribute-based talent search. Finds candidates keyword search misses. Strong diversity and career-signal enrichment.'
+  - entry:
+      name: Gem
+      url: https://gem.com
+      desc: '💰 All-in-one recruiting platform: ATS + CRM + AI sourcing + analytics. AI sourcing agent searches 800M+ profiles with full candidate history context. Now publicly traded.'
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Gem](https://gem.com) — 💰 All-in-one recruiting platform: ATS + CRM + AI sourcing + analytics. AI sourcing agent searches 800M+ profiles with full candidate history context. Now publicly traded.'
+  - entry:
+      name: GoPerfect
+      url: https://goperfect.com
+      desc: 💰 Autonomous AI sourcing. Scans 800M+ profiles, scores candidates, delivers shortlists. 60+ ATS integrations via Merge. Good for recurring role types at scale.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [GoPerfect](https://goperfect.com) — 💰 Autonomous AI sourcing. Scans 800M+ profiles, scores candidates, delivers shortlists. 60+ ATS integrations via Merge. Good for recurring role types at scale.'
+      caution:
+      - ai-screening
+  - entry:
+      name: HeroHunt.ai
+      url: https://herohunt.ai
+      desc: 💰 AI recruiter that searches 1B+ profiles across LinkedIn, GitHub, and Stack Overflow, then runs autopilot outreach. RecruitGPT natural-language search + contextual screening.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [HeroHunt.ai](https://herohunt.ai) — 💰 AI recruiter that searches 1B+ profiles across LinkedIn, GitHub, and Stack Overflow, then runs autopilot outreach. RecruitGPT natural-language search + contextual screening.'
+  - entry:
+      name: hireEZ
+      url: https://hireez.com
+      desc: ❤️ 💰 AI-powered outbound recruiting platform. Cross-platform candidate search, outreach sequences, Workday integration.
+      pricing: paid
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [hireEZ](https://hireez.com) — ❤️ 💰 AI-powered outbound recruiting platform. Cross-platform candidate search, outreach sequences, Workday integration.'
+  - entry:
+      name: Hireflow
+      url: https://www.hireflow.com
+      desc: 💰 Chrome extension sourcing + email drip campaigns + ATS sync. Treats recruiting like outbound sales.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Hireflow](https://www.hireflow.com) — 💰 Chrome extension sourcing + email drip campaigns + ATS sync. Treats recruiting like outbound sales.'
+  - entry:
+      name: Juicebox (PeopleGPT)
+      url: https://juicebox.ai
+      desc: 💰 Natural language candidate search. 800M+ profiles, relationship tracking, AI outreach, 50+ ATS integrations. Conversational search launched late 2025.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Juicebox (PeopleGPT)](https://juicebox.ai) — 💰 Natural language candidate search. 800M+ profiles, relationship tracking, AI outreach, 50+ ATS integrations. Conversational search launched late 2025.'
+  - entry:
+      name: Kula
+      url: https://kula.ai
+      desc: 💰 Outbound recruiting platform. Sequences, referral automation, ATS sync. Built specifically for sourcing-led teams.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Kula](https://kula.ai) — 💰 Outbound recruiting platform. Sequences, referral automation, ATS sync. Built specifically for sourcing-led teams.'
+  - entry:
+      name: LinkedIn Hiring Assistant
+      url: https://www.linkedin.com/business/talent/blog/talent-acquisition/linkedin-hiring-assistant
+      desc: 💰 LinkedIn's first agentic AI product (launched Oct 2024, globally available 2025). Takes intake, builds qualified pipelines, reviews applicants, and answers candidate questions. Learns recruiter preferences over time.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [LinkedIn Hiring Assistant](https://www.linkedin.com/business/talent/blog/talent-acquisition/linkedin-hiring-assistant) — 💰 LinkedIn''s first agentic AI product (launched Oct 2024, globally available 2025). Takes intake, builds qualified pipelines, reviews applicants, and answers candidate questions. Learns recruiter preferences over time.'
+  - entry:
+      name: LinkedIn Recruiter
+      url: https://business.linkedin.com/talent-solutions/recruiter
+      desc: ❤️ 💰 The industry standard. 1B+ profiles, InMail, advanced filters. Generative AI search enhancements launched 2025.
+      pricing: paid
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [LinkedIn Recruiter](https://business.linkedin.com/talent-solutions/recruiter) — ❤️ 💰 The industry standard. 1B+ profiles, InMail, advanced filters. Generative AI search enhancements launched 2025.'
+  - entry:
+      name: Loxo
+      url: https://loxo.co
+      desc: 💰 Talent intelligence OS. CRM + sourcing + outreach in one. Good for agency and in-house teams.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Loxo](https://loxo.co) — 💰 Talent intelligence OS. CRM + sourcing + outreach in one. Good for agency and in-house teams.'
+  - entry:
+      name: Mercor
+      url: https://mercor.com
+      desc: AI-powered hiring marketplace. Candidates complete an AI interview once; high scorers receive automated Instant Offers across future roles. Strong for sourcing pre-vetted global technical talent.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Mercor](https://mercor.com) — AI-powered hiring marketplace. Candidates complete an AI interview once; high scorers receive automated Instant Offers across future roles. Strong for sourcing pre-vetted global technical talent.'
+  - entry:
+      name: Moonhub
+      url: https://moonhub.ai
+      desc: AI sourcing via natural language. Surfaces candidates keyword search misses across public web data. Founded by Nancy Xu.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Moonhub](https://moonhub.ai) — AI sourcing via natural language. Surfaces candidates keyword search misses across public web data. Founded by Nancy Xu.'
+  - entry:
+      name: Pin
+      url: https://pin.com
+      desc: 'Full-stack AI recruiting: sourcing, outreach, screening, scheduling in one. 850M+ profiles, 48% avg reply rate, transparent pricing from $100/mo with a free tier. Strong for teams that want to replace 5 tools with one.'
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Pin](https://pin.com) — Full-stack AI recruiting: sourcing, outreach, screening, scheduling in one. 850M+ profiles, 48% avg reply rate, transparent pricing from $100/mo with a free tier. Strong for teams that want to replace 5 tools with one.'
+  - entry:
+      name: SeekOut
+      url: https://seekout.com
+      desc: 💰 Enterprise talent intelligence. Strong diversity filters, GitHub/patent enrichment, large database. Unmatched for DEI and hard-to-fill technical roles.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [SeekOut](https://seekout.com) — 💰 Enterprise talent intelligence. Strong diversity filters, GitHub/patent enrichment, large database. Unmatched for DEI and hard-to-fill technical roles.'
+  - entry:
+      name: Tezi (Max)
+      url: https://tezi.ai
+      desc: Autonomous AI recruiter. "Max" runs end-to-end — sourcing, screening, and scheduling — as a hands-off agent. For teams that want to delegate full req ownership to AI.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Tezi (Max)](https://tezi.ai) — Autonomous AI recruiter. "Max" runs end-to-end — sourcing, screening, and scheduling — as a hands-off agent. For teams that want to delegate full req ownership to AI.'
+  - entry:
+      name: Turing
+      url: https://turing.com
+      desc: 💰 Pre-vetted remote engineers matched via AI. 3M+ global developers on talent cloud, AI vetting across 100+ tech skills. Two-week risk-free trial. Good for building remote engineering teams quickly.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Turing](https://turing.com) — 💰 Pre-vetted remote engineers matched via AI. 3M+ global developers on talent cloud, AI vetting across 100+ tech skills. Two-week risk-free trial. Good for building remote engineering teams quickly.'
+  - entry:
+      name: ZoomInfo Talent
+      url: https://zoominfo.com
+      desc: 💰 B2B data + recruiting. Company org charts, direct dials, intent signals. Best combined with another sourcing platform.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [ZoomInfo Talent](https://zoominfo.com) — 💰 B2B data + recruiting. Company org charts, direct dials, intent signals. Best combined with another sourcing platform.'
+  - raw: ''
+  - raw: '---'
+  - raw: ''
+- heading: '## 🔍 Search & OSINT'
+  blocks:
+  - raw: ''
+  - raw: '#### Boolean & Sourcing Tools'
+  - raw: ''
+  - entry:
+      name: 40 Custom Search Engines by Irina Shamaeva
+      url: https://booleanstrings.com/all-the-40-forty-custom-search-engines
+      desc: Curated custom search engines for sourcing.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [40 Custom Search Engines by Irina Shamaeva](https://booleanstrings.com/all-the-40-forty-custom-search-engines) — Curated custom search engines for sourcing.'
+  - entry:
+      name: Balazs Boolean Builder
+      url: https://bit.ly/balazs_boolean
+      desc: ❤️ Boolean builder for free LinkedIn. By Balazs Paroczay.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Balazs Boolean Builder](https://bit.ly/balazs_boolean) — ❤️ Boolean builder for free LinkedIn. By Balazs Paroczay.'
+  - entry:
+      name: BooleanStrings Bank
+      url: https://scoperac.com/booleanstringbank
+      desc: String directory maintained by sourcing community.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [BooleanStrings Bank](https://scoperac.com/booleanstringbank) — String directory maintained by sourcing community.'
+  - entry:
+      name: CSE Utopia
+      url: https://start.me/p/EL84Km/cse-utopia
+      desc: ❤️ Amazing list of public CSEs by Dean Da Costa.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [CSE Utopia](https://start.me/p/EL84Km/cse-utopia) — ❤️ Amazing list of public CSEs by Dean Da Costa.'
+  - entry:
+      name: Free People Search Tool
+      url: https://freepeoplesearchtool.com
+      desc: Search candidates across LinkedIn, GitHub, Twitter, Dribbble.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Free People Search Tool](https://freepeoplesearchtool.com) — Search candidates across LinkedIn, GitHub, Twitter, Dribbble.'
+  - entry:
+      name: Grep.app
+      url: https://grep.app
+      desc: Search across all public GitHub repos by code. Find developers by what they build.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Grep.app](https://grep.app) — Search across all public GitHub repos by code. Find developers by what they build.'
+  - entry:
+      name: I Search From
+      url: http://isearchfrom.com
+      desc: Simulate Google search from a different location and device.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [I Search From](http://isearchfrom.com) — Simulate Google search from a different location and device.'
+  - entry:
+      name: Intelligence X
+      url: https://intelx.io
+      desc: OSINT search engine. Indexes dark web, leaked data, public archives.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Intelligence X](https://intelx.io) — OSINT search engine. Indexes dark web, leaked data, public archives.'
+  - entry:
+      name: RecruitEm
+      url: https://recruitin.net
+      desc: ❤️ Free Google X-ray search generator. Build boolean strings for LinkedIn, X, GitHub, Stack Overflow, and XING — paste a JD and let AI build the search.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [RecruitEm](https://recruitin.net) — ❤️ Free Google X-ray search generator. Build boolean strings for LinkedIn, X, GitHub, Stack Overflow, and XING — paste a JD and let AI build the search.'
+  - entry:
+      name: SourceGraph
+      url: https://sourcegraph.com/search
+      desc: Universal code search across GitHub, GitLab, Bitbucket.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [SourceGraph](https://sourcegraph.com/search) — Universal code search across GitHub, GitLab, Bitbucket.'
+  - entry:
+      name: Sourcing Games
+      url: http://sourcing.games
+      desc: ❤️ Gamified sourcing challenges to sharpen OSINT and boolean skills.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Sourcing Games](http://sourcing.games) — ❤️ Gamified sourcing challenges to sharpen OSINT and boolean skills.'
+  - entry:
+      name: Wayback Machine
+      url: https://archive.org/web
+      desc: Find old versions of profiles, company pages, removed content.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Wayback Machine](https://archive.org/web) — Find old versions of profiles, company pages, removed content.'
+  - raw: ''
+  - raw: '#### Social Media Search'
+  - raw: ''
+  - entry:
+      name: Answer The Public
+      url: https://answerthepublic.com
+      desc: Surface questions people search — useful for JD keywords and EVP research.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Answer The Public](https://answerthepublic.com) — Surface questions people search — useful for JD keywords and EVP research.'
+  - entry:
+      name: Followerwonk
+      url: https://followerwonk.com
+      desc: Twitter/X bio search. Find people by keywords in bios.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Followerwonk](https://followerwonk.com) — Twitter/X bio search. Find people by keywords in bios.'
+  - entry:
+      name: Searchmybio
+      url: https://www.searchmy.bio
+      desc: Search Instagram user bios.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Searchmybio](https://www.searchmy.bio) — Search Instagram user bios.'
+  - entry:
+      name: Social Searcher
+      url: https://social-searcher.com
+      desc: Free social media search across platforms.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Social Searcher](https://social-searcher.com) — Free social media search across platforms.'
+  - entry:
+      name: WhoPostedWhat
+      url: https://whopostedwhat.com
+      desc: Date-based Facebook post search. By Henk van Ess.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [WhoPostedWhat](https://whopostedwhat.com) — Date-based Facebook post search. By Henk van Ess.'
+  - raw: ''
+  - raw: '#### GitHub & Developer Search'
+  - raw: ''
+  - entry:
+      name: LinkedIn Sales Nav Email Lookup
+      url: https://www.linkedin.com/sales/gmail/profile/viewByEmail/PUTEMAILHERE
+      desc: ❤️ Replace the end of the URL with any email to find a connected LinkedIn profile.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [LinkedIn Sales Nav Email Lookup](https://www.linkedin.com/sales/gmail/profile/viewByEmail/PUTEMAILHERE) — ❤️ Replace the end of the URL with any email to find a connected LinkedIn profile.'
+  - entry:
+      name: OctoHR
+      url: https://chrome.google.com/webstore/detail/beiklbdjdmfkgchmiabjejdlpaoicbef
+      desc: GitHub Chrome extension showing recruiter-friendly profile details.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [OctoHR](https://chrome.google.com/webstore/detail/beiklbdjdmfkgchmiabjejdlpaoicbef) — GitHub Chrome extension showing recruiter-friendly profile details.'
+  - entry:
+      name: Profile Summary for GitHub
+      url: https://profile-summary-for-github.com/search
+      desc: Visual summary of any GitHub profile.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Profile Summary for GitHub](https://profile-summary-for-github.com/search) — Visual summary of any GitHub profile.'
+  - raw: ''
+  - raw: '---'
+  - raw: ''
+- heading: '## ☎️ Contact Info & Enrichment'
+  blocks:
+  - raw: ''
+  - entry:
+      name: Anymail Finder
+      url: https://anymailfinder.com
+      desc: 💰 Verified email finder. Only charges for verified results.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Anymail Finder](https://anymailfinder.com) — 💰 Verified email finder. Only charges for verified results.'
+      caution:
+      - privacy-data
+  - entry:
+      name: Apollo.io
+      url: https://apollo.io
+      desc: 💰 270M+ contacts, email sequences, enrichment.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Apollo.io](https://apollo.io) — 💰 270M+ contacts, email sequences, enrichment.'
+      caution: *id001
+  - entry:
+      name: Clay
+      url: https://clay.com
+      desc: ❤️ 💰 Data enrichment + workflow automation. Pulls from 50+ sources.
+      pricing: paid
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Clay](https://clay.com) — ❤️ 💰 Data enrichment + workflow automation. Pulls from 50+ sources.'
+      caution: &id002
+      - scraping
+  - entry:
+      name: Clearbit
+      url: https://clearbit.com
+      desc: B2B data enrichment. Company + person data via API. Now part of HubSpot — free tier via HubSpot.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: acquired
+      region:
+      - global
+      _raw: '- [Clearbit](https://clearbit.com) — B2B data enrichment. Company + person data via API. Now part of HubSpot — free tier via HubSpot.'
+      caution:
+      - privacy-data
+  - entry:
+      name: ContactOut
+      url: https://contactout.com
+      desc: ❤️ 💰 Email + phone finder. Strong LinkedIn coverage.
+      pricing: paid
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [ContactOut](https://contactout.com) — ❤️ 💰 Email + phone finder. Strong LinkedIn coverage.'
+      caution:
+      - privacy-data
+  - entry:
+      name: Datagma
+      url: https://datagma.com
+      desc: 💰 GDPR-compliant email + phone finder. Strong European coverage. Pay-per-result model.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - eu
+      _raw: '- [Datagma](https://datagma.com) — 💰 GDPR-compliant email + phone finder. Strong European coverage. Pay-per-result model.'
+      caution:
+      - privacy-data
+  - entry:
+      name: Hunter.io
+      url: https://hunter.io
+      desc: ❤️ Domain-based email search and verification. Great free tier.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Hunter.io](https://hunter.io) — ❤️ Domain-based email search and verification. Great free tier.'
+      caution:
+      - privacy-data
+  - entry:
+      name: Kaspr
+      url: https://kaspr.io
+      desc: 💰 LinkedIn email + phone finder. ~500M verified contacts, strong European coverage. Free plan with unlimited B2B email credits.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - eu
+      _raw: '- [Kaspr](https://kaspr.io) — 💰 LinkedIn email + phone finder. ~500M verified contacts, strong European coverage. Free plan with unlimited B2B email credits.'
+      caution:
+      - privacy-data
+  - entry:
+      name: Lusha
+      url: https://lusha.com
+      desc: 💰 B2B contact data. Good direct dial coverage.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Lusha](https://lusha.com) — 💰 B2B contact data. Good direct dial coverage.'
+      caution:
+      - privacy-data
+  - entry:
+      name: Nymeria
+      url: https://nymeria.io
+      desc: 💰 Email finder with LinkedIn integration.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Nymeria](https://nymeria.io) — 💰 Email finder with LinkedIn integration.'
+      caution:
+      - privacy-data
+  - entry:
+      name: RocketReach
+      url: https://rocketreach.co
+      desc: 💰 Email and phone finder. Large database, API available.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [RocketReach](https://rocketreach.co) — 💰 Email and phone finder. Large database, API available.'
+      caution:
+      - privacy-data
+  - entry:
+      name: SalesQL
+      url: https://salesql.com
+      desc: 💰 LinkedIn email + phone finder extension.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [SalesQL](https://salesql.com) — 💰 LinkedIn email + phone finder extension.'
+      caution:
+      - privacy-data
+  - entry:
+      name: Signal Hire
+      url: https://signalhire.com
+      desc: 💰 Email + phone finder with Chrome extension.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Signal Hire](https://signalhire.com) — 💰 Email + phone finder with Chrome extension.'
+      caution:
+      - privacy-data
+  - entry:
+      name: Swordfish AI
+      url: https://swordfish.ai
+      desc: 💰 Direct dials and mobile numbers. Strong phone coverage.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Swordfish AI](https://swordfish.ai) — 💰 Direct dials and mobile numbers. Strong phone coverage.'
+      caution:
+      - privacy-data
+  - entry:
+      name: Wiza
+      url: https://wiza.co
+      desc: 💰 Verified emails + phone numbers from LinkedIn and Sales Navigator. Bulk export, real-time verification, job-change alerts. Free tier available.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Wiza](https://wiza.co) — 💰 Verified emails + phone numbers from LinkedIn and Sales Navigator. Bulk export, real-time verification, job-change alerts. Free tier available.'
+      caution:
+      - privacy-data
+  - raw: ''
+  - raw: '---'
+  - raw: ''
+- heading: '## 📫 Outreach & Email'
+  blocks:
+  - raw: ''
+  - raw: '#### Sequencing & Automation'
+  - raw: ''
+  - entry:
+      name: Boomerang for Gmail
+      url: https://boomeranggmail.com
+      desc: Email scheduling and reminders.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Boomerang for Gmail](https://boomeranggmail.com) — Email scheduling and reminders.'
+  - entry:
+      name: Chatkick (formerly Trinsly)
+      url: https://chatkick.com
+      desc: 💰 Talent CRM + personalized email automation for recruiters. Trinsly rebranded to Chatkick.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: acquired
+      region:
+      - global
+      _raw: '- [Chatkick (formerly Trinsly)](https://chatkick.com) — 💰 Talent CRM + personalized email automation for recruiters. Trinsly rebranded to Chatkick.'
+  - entry:
+      name: Dripify
+      url: https://dripify.com
+      desc: 💰 LinkedIn automation for sequences and drip campaigns.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Dripify](https://dripify.com) — 💰 LinkedIn automation for sequences and drip campaigns.'
+      caution:
+      - scraping
+  - entry:
+      name: Expandi
+      url: https://expandi.io
+      desc: 💰 Safe LinkedIn automation. Mimics human behavior.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Expandi](https://expandi.io) — 💰 Safe LinkedIn automation. Mimics human behavior.'
+      caution:
+      - scraping
+  - entry:
+      name: GMass
+      url: https://gmass.co
+      desc: Mail-merge and cold email sequences right inside Gmail. Generous free tier for solo recruiters.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [GMass](https://gmass.co) — Mail-merge and cold email sequences right inside Gmail. Generous free tier for solo recruiters.'
+  - entry:
+      name: Instantly.ai
+      url: https://instantly.ai
+      desc: 💰 Cold email at scale. Unlimited sending accounts, warm-up built in. Fast becoming the default for high-volume outreach.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Instantly.ai](https://instantly.ai) — 💰 Cold email at scale. Unlimited sending accounts, warm-up built in. Fast becoming the default for high-volume outreach.'
+  - entry:
+      name: Lemlist
+      url: https://lemlist.com
+      desc: 💰 Personalized cold email with images and video. High deliverability focus.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Lemlist](https://lemlist.com) — 💰 Personalized cold email with images and video. High deliverability focus.'
+  - entry:
+      name: MixMax
+      url: https://mixmax.com
+      desc: ❤️ 💰 Gmail enhancement. Sequences, scheduling, tracking, templates.
+      pricing: paid
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [MixMax](https://mixmax.com) — ❤️ 💰 Gmail enhancement. Sequences, scheduling, tracking, templates.'
+  - entry:
+      name: Smartlead
+      url: https://smartlead.ai
+      desc: 💰 Multi-channel cold outreach (email + LinkedIn). Strong deliverability infrastructure. Popular for sourcing-as-sales workflows.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Smartlead](https://smartlead.ai) — 💰 Multi-channel cold outreach (email + LinkedIn). Strong deliverability infrastructure. Popular for sourcing-as-sales workflows.'
+  - entry:
+      name: SourceWhale
+      url: https://sourcewhale.com
+      desc: ❤️ 💰 Multi-step outreach across email, LinkedIn, SMS, WhatsApp, and phone. AI drafting, pipeline insights, 70+ ATS/CRM integrations. Built for recruiting teams.
+      pricing: paid
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [SourceWhale](https://sourcewhale.com) — ❤️ 💰 Multi-step outreach across email, LinkedIn, SMS, WhatsApp, and phone. AI drafting, pipeline insights, 70+ ATS/CRM integrations. Built for recruiting teams.'
+  - entry:
+      name: Waalaxy
+      url: https://waalaxy.com
+      desc: 💰 LinkedIn + email outreach sequences. Great for sourcers.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Waalaxy](https://waalaxy.com) — 💰 LinkedIn + email outreach sequences. Great for sourcers.'
+      caution:
+      - scraping
+  - raw: ''
+  - raw: '#### Email Utilities'
+  - raw: ''
+  - entry:
+      name: Deepl Translator
+      url: https://deepl.com/translator
+      desc: ❤️ Best-in-class AI translation. Better than Google Translate.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Deepl Translator](https://deepl.com/translator) — ❤️ Best-in-class AI translation. Better than Google Translate.'
+  - entry:
+      name: Email Subject Line Tester
+      url: https://sendcheckit.com/email-subject-line-tester
+      desc: Score and improve your subject lines.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Email Subject Line Tester](https://sendcheckit.com/email-subject-line-tester) — Score and improve your subject lines.'
+  - entry:
+      name: Grammarly
+      url: https://grammarly.com
+      desc: ❤️ Grammar, tone, and clarity check. Essential writing tool.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Grammarly](https://grammarly.com) — ❤️ Grammar, tone, and clarity check. Essential writing tool.'
+  - entry:
+      name: Hemingway Editor
+      url: http://hemingwayapp.com
+      desc: Readability check. Paste any outreach message here first.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Hemingway Editor](http://hemingwayapp.com) — Readability check. Paste any outreach message here first.'
+  - entry:
+      name: Mailinator
+      url: https://mailinator.com
+      desc: ❤️ Disposable email inboxes for one-time signups.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Mailinator](https://mailinator.com) — ❤️ Disposable email inboxes for one-time signups.'
+  - entry:
+      name: Temp-Mail
+      url: https://temp-mail.org
+      desc: Free throwaway email.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Temp-Mail](https://temp-mail.org) — Free throwaway email.'
+  - raw: ''
+  - raw: '---'
+  - raw: ''
+- heading: '## 📈 Talent Intelligence'
+  blocks:
+  - raw: ''
+  - entry:
+      name: Draup
+      url: https://draup.com
+      desc: 💰 AI-powered talent intelligence. Market mapping, skills data, competitor analysis, and location/workforce planning. Strong for strategic sourcing and workforce design.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Draup](https://draup.com) — 💰 AI-powered talent intelligence. Market mapping, skills data, competitor analysis, and location/workforce planning. Strong for strategic sourcing and workforce design.'
+  - entry:
+      name: Google Trends
+      url: https://trends.google.com
+      desc: Search volume trends. Useful for role and skills demand signals.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Google Trends](https://trends.google.com) — Search volume trends. Useful for role and skills demand signals.'
+  - entry:
+      name: Horsefly Analytics
+      url: https://horseflyanalytics.com
+      desc: 💰 Labor market analytics. Real-time, localized supply/demand and cost insights for talent acquisition and location strategy.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Horsefly Analytics](https://horseflyanalytics.com) — 💰 Labor market analytics. Real-time, localized supply/demand and cost insights for talent acquisition and location strategy.'
+  - entry:
+      name: Indeed Hiring Lab
+      url: https://www.hiringlab.org
+      desc: ❤️ Indeed's economic research arm. Labor market data, job posting trends, and wage analysis. (Replaced Indeed's retired Job Trends tool.)
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Indeed Hiring Lab](https://www.hiringlab.org) — ❤️ Indeed''s economic research arm. Labor market data, job posting trends, and wage analysis. (Replaced Indeed''s retired Job Trends tool.)'
+  - entry:
+      name: Layoffs.fyi
+      url: https://layoffs.fyi
+      desc: ❤️ Track tech layoffs in real time. Golden window sourcing.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Layoffs.fyi](https://layoffs.fyi) — ❤️ Track tech layoffs in real time. Golden window sourcing.'
+  - entry:
+      name: Levels.fyi
+      url: https://levels.fyi
+      desc: ❤️ Crowdsourced compensation at tech companies. Extremely accurate.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Levels.fyi](https://levels.fyi) — ❤️ Crowdsourced compensation at tech companies. Extremely accurate.'
+  - entry:
+      name: Lightcast (EMSI Burning Glass)
+      url: https://lightcast.io
+      desc: 💰 Labor market data. Job postings, skills demand, compensation.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Lightcast (EMSI Burning Glass)](https://lightcast.io) — 💰 Labor market data. Job postings, skills demand, compensation.'
+  - entry:
+      name: LinkedIn Talent Insights
+      url: https://business.linkedin.com/talent-solutions/talent-insights
+      desc: ❤️ 💰 Workforce analytics. Pool sizing, competitor mapping, skills trends.
+      pricing: paid
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [LinkedIn Talent Insights](https://business.linkedin.com/talent-solutions/talent-insights) — ❤️ 💰 Workforce analytics. Pool sizing, competitor mapping, skills trends.'
+  - entry:
+      name: Pave
+      url: https://pave.com
+      desc: 💰 Real-time compensation benchmarking.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Pave](https://pave.com) — 💰 Real-time compensation benchmarking.'
+  - entry:
+      name: People Data Labs
+      url: https://www.peopledatalabs.com
+      desc: 💰 Person and company data via API. Raw building block for custom talent-mapping and enrichment workflows.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [People Data Labs](https://www.peopledatalabs.com) — 💰 Person and company data via API. Raw building block for custom talent-mapping and enrichment workflows.'
+  - entry:
+      name: Progression.fyi
+      url: https://progression.fyi
+      desc: Open source career frameworks from top tech companies.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Progression.fyi](https://progression.fyi) — Open source career frameworks from top tech companies.'
+  - entry:
+      name: Ravio
+      url: https://ravio.com
+      desc: European compensation data. Free if you contribute your data.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - eu
+      _raw: '- [Ravio](https://ravio.com) — European compensation data. Free if you contribute your data.'
+  - entry:
+      name: Revelio Labs
+      url: https://reveliolabs.com
+      desc: 💰 Workforce intelligence from public employment data.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Revelio Labs](https://reveliolabs.com) — 💰 Workforce intelligence from public employment data.'
+  - entry:
+      name: TalentNeuron
+      url: https://talentneuron.com
+      desc: 💰 Global talent intelligence. Real-time labor market data.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [TalentNeuron](https://talentneuron.com) — 💰 Global talent intelligence. Real-time labor market data.'
+  - entry:
+      name: TechPays
+      url: https://techpays.com
+      desc: Open source European tech compensation.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - eu
+      _raw: '- [TechPays](https://techpays.com) — Open source European tech compensation.'
+  - entry:
+      name: U.S. Semiconductor Ecosystem Map (SIA)
+      url: https://semiconductors.org/ecosystem
+      desc: R&D, chip design, fabrication, and supplier locations across the US. Essential for semiconductor talent sourcing.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [U.S. Semiconductor Ecosystem Map (SIA)](https://semiconductors.org/ecosystem) — R&D, chip design, fabrication, and supplier locations across the US. Essential for semiconductor talent sourcing.'
+  - raw: ''
+  - raw: '---'
+  - raw: ''
+- heading: '## 🗂️ ATS, CRM & Recruiting Ops'
+  blocks:
+  - raw: ''
+  - raw: '#### ATS'
+  - raw: ''
+  - entry:
+      name: Ashby
+      url: https://ashbyhq.com
+      desc: 💰 Modern ATS with strong analytics built in. One of the fastest-growing tools in TA ops — particularly popular with tech companies.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Ashby](https://ashbyhq.com) — 💰 Modern ATS with strong analytics built in. One of the fastest-growing tools in TA ops — particularly popular with tech companies.'
+  - entry:
+      name: Greenhouse
+      url: https://www.greenhouse.com
+      desc: 💰 Structured hiring + ATS. Strong integrations ecosystem.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Greenhouse](https://www.greenhouse.com) — 💰 Structured hiring + ATS. Strong integrations ecosystem.'
+  - entry:
+      name: Lever
+      url: https://lever.co
+      desc: 💰 ATS + CRM combined. Nurture + pipeline management. Part of Employ alongside JazzHR, Jobvite, and Pillar.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Lever](https://lever.co) — 💰 ATS + CRM combined. Nurture + pipeline management. Part of Employ alongside JazzHR, Jobvite, and Pillar.'
+  - entry:
+      name: Manatal
+      url: https://manatal.com
+      desc: 💰 ATS + AI recommendations from $15/user/month. Good entry-level option for smaller or agency teams.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Manatal](https://manatal.com) — 💰 ATS + AI recommendations from $15/user/month. Good entry-level option for smaller or agency teams.'
+  - entry:
+      name: Pinpoint
+      url: https://pinpointhq.com
+      desc: 💰 ATS + talent CRM with strong candidate experience and reporting. Popular with mid-market in-house teams.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Pinpoint](https://pinpointhq.com) — 💰 ATS + talent CRM with strong candidate experience and reporting. Popular with mid-market in-house teams.'
+  - entry:
+      name: Rippling
+      url: https://rippling.com
+      desc: 💰 HR + ATS + payroll + IT in one platform. Good for teams consolidating their HR stack.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Rippling](https://rippling.com) — 💰 HR + ATS + payroll + IT in one platform. Good for teams consolidating their HR stack.'
+  - entry:
+      name: SmartRecruiters (now SAP)
+      url: https://smartrecruiters.com
+      desc: 💰 AI-enabled ATS acquired by SAP (September 2025). High-volume recruiting, strong automation, good candidate experience. 4,000+ enterprise orgs. Will replace SuccessFactors Recruiting over 3-5 years.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: acquired
+      region:
+      - global
+      _raw: '- [SmartRecruiters (now SAP)](https://smartrecruiters.com) — 💰 AI-enabled ATS acquired by SAP (September 2025). High-volume recruiting, strong automation, good candidate experience. 4,000+ enterprise orgs. Will replace SuccessFactors Recruiting over 3-5 years.'
+  - entry:
+      name: Teamtailor
+      url: https://teamtailor.com
+      desc: 💰 ATS with strong employer branding and career site tools. Popular in EMEA.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - eu
+      _raw: '- [Teamtailor](https://teamtailor.com) — 💰 ATS with strong employer branding and career site tools. Popular in EMEA.'
+  - entry:
+      name: Workable
+      url: https://workable.com
+      desc: 💰 SMB-friendly ATS with built-in sourcing, AI recommendations, and video interviews.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Workable](https://workable.com) — 💰 SMB-friendly ATS with built-in sourcing, AI recommendations, and video interviews.'
+  - entry:
+      name: Workday Recruiting
+      url: https://workday.com
+      desc: 💰 Enterprise ATS. Widely used at large orgs.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Workday Recruiting](https://workday.com) — 💰 Enterprise ATS. Widely used at large orgs.'
+  - raw: ''
+  - raw: '#### CRM & Talent Marketing'
+  - raw: ''
+  - entry:
+      name: Avature
+      url: https://avature.net
+      desc: 💰 Enterprise CRM with heavy customization. Fortune 500 standard.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Avature](https://avature.net) — 💰 Enterprise CRM with heavy customization. Fortune 500 standard.'
+  - entry:
+      name: Beamery
+      url: https://beamery.com
+      desc: 💰 Talent CRM + lifecycle platform. AI-personalized outreach, career site, interview self-scheduling. Nurture passive pipelines at scale.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Beamery](https://beamery.com) — 💰 Talent CRM + lifecycle platform. AI-personalized outreach, career site, interview self-scheduling. Nurture passive pipelines at scale.'
+  - entry:
+      name: Gem
+      url: https://gem.com
+      desc: 💰 All-in-one ATS + CRM + sourcing. Strong analytics. Now public.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Gem](https://gem.com) — 💰 All-in-one ATS + CRM + sourcing. Strong analytics. Now public.'
+  - entry:
+      name: Phenom
+      url: https://phenom.com
+      desc: 💰 Talent experience platform. CRM, career site, internal mobility, AI throughout.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Phenom](https://phenom.com) — 💰 Talent experience platform. CRM, career site, internal mobility, AI throughout.'
+  - raw: ''
+  - raw: '---'
+  - raw: ''
+- heading: '## 🙋 Job Descriptions & Inclusive Hiring'
+  blocks:
+  - raw: ''
+  - entry:
+      name: Adaface JD Generator
+      url: https://www.adaface.com/job-description-generator
+      desc: Free templates to easily create job descriptions for popular tech roles.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Adaface JD Generator](https://www.adaface.com/job-description-generator) — Free templates to easily create job descriptions for popular tech roles.'
+  - entry:
+      name: BeApplied
+      url: https://textanalysis.beapplied.com
+      desc: JD text analysis for bias.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [BeApplied](https://textanalysis.beapplied.com) — JD text analysis for bias.'
+  - entry:
+      name: Datapeople
+      url: https://datapeople.io
+      desc: 💰 Job description analytics and inclusive-writing guidance. Data-driven recommendations to reduce bias and widen candidate pools.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Datapeople](https://datapeople.io) — 💰 Job description analytics and inclusive-writing guidance. Data-driven recommendations to reduce bias and widen candidate pools.'
+  - entry:
+      name: Gender Decoder
+      url: http://gender-decoder.katmatfield.com
+      desc: ❤️ Check JDs for gendered language.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Gender Decoder](http://gender-decoder.katmatfield.com) — ❤️ Check JDs for gendered language.'
+  - entry:
+      name: Joblint
+      url: http://joblint.org
+      desc: Flag toxic, unrealistic, or discriminatory language in JDs.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Joblint](http://joblint.org) — Flag toxic, unrealistic, or discriminatory language in JDs.'
+  - entry:
+      name: Jobpage Grader
+      url: https://jobpagegrader.com
+      desc: Grade your job pages for candidate experience.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Jobpage Grader](https://jobpagegrader.com) — Grade your job pages for candidate experience.'
+  - entry:
+      name: Ongig
+      url: https://www.ongig.com
+      desc: 💰 Job description software with a 10,000+ biased-word database, inclusive replacements, readability tips, and JD templates.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Ongig](https://www.ongig.com) — 💰 Job description software with a 10,000+ biased-word database, inclusive replacements, readability tips, and JD templates.'
+  - entry:
+      name: Textio
+      url: https://textio.com
+      desc: ❤️ 💰 Augmented writing for JDs. Predicts impact of language on candidate pools.
+      pricing: paid
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Textio](https://textio.com) — ❤️ 💰 Augmented writing for JDs. Predicts impact of language on candidate pools.'
+  - raw: ''
+  - raw: '---'
+  - raw: ''
+- heading: '## 🗣 Screening & Interviews'
+  blocks:
+  - raw: ''
+  - raw: '#### AI Screening & Conversational Recruiting'
+  - raw: ''
+  - entry:
+      name: HeyMilo
+      url: https://www.heymilo.ai
+      desc: 💰 AI voice screening. Two-way conversational voice interviews that screen and rank candidates automatically. Good for phone-screen-heavy pipelines.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [HeyMilo](https://www.heymilo.ai) — 💰 AI voice screening. Two-way conversational voice interviews that screen and rank candidates automatically. Good for phone-screen-heavy pipelines.'
+      caution:
+      - ai-screening
+  - entry:
+      name: HireVue
+      url: https://hirevue.com
+      desc: 💰 Video interviews + AI assessments. Enterprise scale. Masks PII during screening to reduce bias.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [HireVue](https://hirevue.com) — 💰 Video interviews + AI assessments. Enterprise scale. Masks PII during screening to reduce bias.'
+      caution:
+      - ai-screening
+  - entry:
+      name: Humanly
+      url: https://humanly.io
+      desc: 💰 Conversational AI recruiter + talent CRM. Automates screening, scheduling, and structured interviews. Hires up to 8x faster for high-volume pipelines. Strong consent and data governance framework.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Humanly](https://humanly.io) — 💰 Conversational AI recruiter + talent CRM. Automates screening, scheduling, and structured interviews. Hires up to 8x faster for high-volume pipelines. Strong consent and data governance framework.'
+      caution:
+      - ai-screening
+  - entry:
+      name: Paradox (Olivia)
+      url: https://paradox.ai
+      desc: 💰 Conversational AI for high-volume hiring. Screens, schedules, and engages candidates via text/SMS/WhatsApp 24/7. Acquired by Workday (September 2025). Best for retail, hospitality, and logistics at scale.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: acquired
+      region:
+      - global
+      _raw: '- [Paradox (Olivia)](https://paradox.ai) — 💰 Conversational AI for high-volume hiring. Screens, schedules, and engages candidates via text/SMS/WhatsApp 24/7. Acquired by Workday (September 2025). Best for retail, hospitality, and logistics at scale.'
+      caution:
+      - ai-screening
+  - entry:
+      name: Sapia.ai
+      url: https://sapia.ai
+      desc: 💰 Text-based AI interviewing. Structured chat interviews that screen and rank candidates fairly at scale. Good for high-volume without the chatbot feel.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Sapia.ai](https://sapia.ai) — 💰 Text-based AI interviewing. Structured chat interviews that screen and rank candidates fairly at scale. Good for high-volume without the chatbot feel.'
+      caution:
+      - ai-screening
+  - raw: ''
+  - raw: '#### Interview Intelligence'
+  - raw: ''
+  - entry:
+      name: BrightHire
+      url: https://brighthire.com
+      desc: 💰 Records, transcribes, and highlights every interview. Structured guides, shared feedback, AI screening interviews. Reduces reliance on interviewer memory. Integrates with major ATS and video platforms.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [BrightHire](https://brighthire.com) — 💰 Records, transcribes, and highlights every interview. Structured guides, shared feedback, AI screening interviews. Reduces reliance on interviewer memory. Integrates with major ATS and video platforms.'
+  - entry:
+      name: Grain
+      url: https://grain.com
+      desc: Record, transcribe, and clip meeting highlights. Good for sharing interview moments with hiring managers.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Grain](https://grain.com) — Record, transcribe, and clip meeting highlights. Good for sharing interview moments with hiring managers.'
+  - entry:
+      name: Metaview
+      url: https://metaview.ai
+      desc: 💰 AI interview notes. Auto-generates structured summaries in the background — no behavior change needed.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Metaview](https://metaview.ai) — 💰 AI interview notes. Auto-generates structured summaries in the background — no behavior change needed.'
+  - entry:
+      name: Otter.ai
+      url: https://otter.ai
+      desc: Meeting transcription and notes. Good free entry point for interview notetaking.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Otter.ai](https://otter.ai) — Meeting transcription and notes. Good free entry point for interview notetaking.'
+  - entry:
+      name: Pillar → Employ
+      url: https://www.employinc.com
+      desc: 💰 Interview intelligence with scorecard completion, interviewer coaching, and first-year attrition tracking. Acquired by Employ in 2025; now integrated into Lever/Jobvite/JazzHR ecosystem.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: acquired
+      region:
+      - global
+      _raw: '- [Pillar → Employ](https://www.employinc.com) — 💰 Interview intelligence with scorecard completion, interviewer coaching, and first-year attrition tracking. Acquired by Employ in 2025; now integrated into Lever/Jobvite/JazzHR ecosystem.'
+  - entry:
+      name: Screenloop
+      url: https://screenloop.com
+      desc: 💰 AI-native hiring intelligence platform. Interview capture, structured feedback, bias reduction, recruiter analytics, and funnel optimization in one.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Screenloop](https://screenloop.com) — 💰 AI-native hiring intelligence platform. Interview capture, structured feedback, bias reduction, recruiter analytics, and funnel optimization in one.'
+  - raw: ''
+  - raw: '#### Technical Interviews'
+  - raw: ''
+  - entry:
+      name: BarRaiser
+      url: https://barraiser.com
+      desc: 💰 AI-powered interview intelligence + structured interview training. Focuses on consistency and bias reduction across hiring panels.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [BarRaiser](https://barraiser.com) — 💰 AI-powered interview intelligence + structured interview training. Focuses on consistency and bias reduction across hiring panels.'
+  - entry:
+      name: CodeInterview
+      url: https://codeinterview.io
+      desc: Browser-based live coding interviews. Lightweight collaborative IDE for take-homes and pair-programming screens.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [CodeInterview](https://codeinterview.io) — Browser-based live coding interviews. Lightweight collaborative IDE for take-homes and pair-programming screens.'
+  - entry:
+      name: CoderPad
+      url: https://coderpad.io
+      desc: ❤️ Real-time collaborative coding interviews in 40+ languages. The go-to live-coding tool for engineering panels.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [CoderPad](https://coderpad.io) — ❤️ Real-time collaborative coding interviews in 40+ languages. The go-to live-coding tool for engineering panels.'
+  - entry:
+      name: CodeSignal
+      url: https://codesignal.com
+      desc: 💰 Skills-based technical assessments + live interviewing. Standardized scoring, strong anti-cheating, popular for engineering at scale.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [CodeSignal](https://codesignal.com) — 💰 Skills-based technical assessments + live interviewing. Standardized scoring, strong anti-cheating, popular for engineering at scale.'
+  - entry:
+      name: Codility
+      url: https://codility.com
+      desc: 💰 Technical coding assessments with detailed skill reporting.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Codility](https://codility.com) — 💰 Technical coding assessments with detailed skill reporting.'
+  - entry:
+      name: HackerRank
+      url: https://hackerrank.com
+      desc: Coding challenges and assessments. Free tier available.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [HackerRank](https://hackerrank.com) — Coding challenges and assessments. Free tier available.'
+  - entry:
+      name: Karat
+      url: https://karat.com
+      desc: 💰 Human-led, AI-enabled technical interviews as a service. Standardizes engineering interviews. "NextGen Interviews" launched December 2025. Used by Meta, Lyft, and others to reduce interviewer burden.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Karat](https://karat.com) — 💰 Human-led, AI-enabled technical interviews as a service. Standardizes engineering interviews. "NextGen Interviews" launched December 2025. Used by Meta, Lyft, and others to reduce interviewer burden.'
+  - raw: ''
+  - raw: '#### Interview Scheduling'
+  - raw: ''
+  - entry:
+      name: Calendly
+      url: https://calendly.com
+      desc: ❤️ Scheduling tool. Share link, candidates pick a time. Free tier works for most individual recruiters.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Calendly](https://calendly.com) — ❤️ Scheduling tool. Share link, candidates pick a time. Free tier works for most individual recruiters.'
+  - entry:
+      name: GoodTime
+      url: https://goodtime.io
+      desc: 💰 AI-powered interview scheduling. Automates up to 90% of coordination. Panel scheduling, interviewer load balancing, self-booking, reminders via email/SMS/WhatsApp.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [GoodTime](https://goodtime.io) — 💰 AI-powered interview scheduling. Automates up to 90% of coordination. Panel scheduling, interviewer load balancing, self-booking, reminders via email/SMS/WhatsApp.'
+  - entry:
+      name: Loom
+      url: https://loom.com
+      desc: ❤️ Screen + webcam recording. Async video comms and candidate outreach.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Loom](https://loom.com) — ❤️ Screen + webcam recording. Async video comms and candidate outreach.'
+  - entry:
+      name: ModernLoop
+      url: https://www.modernloop.io
+      desc: 💰 Interview scheduling and coordination for complex panels. Load balancing, interviewer training tracking, and ATS sync.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [ModernLoop](https://www.modernloop.io) — 💰 Interview scheduling and coordination for complex panels. Load balancing, interviewer training tracking, and ATS sync.'
+  - entry:
+      name: Prelude (Calendly)
+      url: https://www.prelude.co
+      desc: '💰 Recruiting-specific scheduling: round-robin assignment, panel coordination, and native Greenhouse connectivity. Acquired by Calendly.'
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: acquired
+      region:
+      - global
+      _raw: '- [Prelude (Calendly)](https://www.prelude.co) — 💰 Recruiting-specific scheduling: round-robin assignment, panel coordination, and native Greenhouse connectivity. Acquired by Calendly.'
+  - entry:
+      name: Spark Hire
+      url: https://sparkhire.com
+      desc: 💰 One-way and live video interviews.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Spark Hire](https://sparkhire.com) — 💰 One-way and live video interviews.'
+  - entry:
+      name: Vidyard
+      url: https://vidyard.com
+      desc: Personalized video for outreach and screening.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Vidyard](https://vidyard.com) — Personalized video for outreach and screening.'
+  - raw: ''
+  - raw: '#### Assessments & Reference'
+  - raw: ''
+  - entry:
+      name: Awesome Interview Questions (GitHub)
+      url: https://github.com/DopplerHQ/awesome-interview-questions
+      desc: Repo with interview guides for devs.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Awesome Interview Questions (GitHub)](https://github.com/DopplerHQ/awesome-interview-questions) — Repo with interview guides for devs.'
+  - entry:
+      name: SkillSurvey (now iCIMS)
+      url: https://www.icims.com/products/skillsurvey/
+      desc: 💰 Automated reference checks with benchmarking. Acquired by iCIMS.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: acquired
+      region:
+      - global
+      _raw: '- [SkillSurvey (now iCIMS)](https://www.icims.com/products/skillsurvey/) — 💰 Automated reference checks with benchmarking. Acquired by iCIMS.'
+  - entry:
+      name: Workable Interview Question Templates
+      url: https://resources.workable.com/interview-questions
+      desc: 500+ interview question templates by role.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Workable Interview Question Templates](https://resources.workable.com/interview-questions) — 500+ interview question templates by role.'
+  - entry:
+      name: Xref Template Builder
+      url: https://template-builder.xref.com
+      desc: Free reference check question template builder.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Xref Template Builder](https://template-builder.xref.com) — Free reference check question template builder.'
+  - entry:
+      name: Zinc Reference Generator
+      url: https://zincwork.com
+      desc: Free culture-fit reference question generator.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Zinc Reference Generator](https://zincwork.com) — Free culture-fit reference question generator.'
+  - raw: ''
+  - raw: '---'
+  - raw: ''
+- heading: '## 🐿 Scraping & Automation'
+  blocks:
+  - raw: ''
+  - entry:
+      name: Apify
+      url: https://apify.com
+      desc: Web scraping + automation platform. 1500+ pre-built actors.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Apify](https://apify.com) — Web scraping + automation platform. 1500+ pre-built actors.'
+      caution:
+      - scraping
+  - entry:
+      name: Bardeen
+      url: https://bardeen.ai
+      desc: Browser automation for repetitive sourcing tasks.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Bardeen](https://bardeen.ai) — Browser automation for repetitive sourcing tasks.'
+      caution:
+      - scraping
+  - entry:
+      name: Browse AI
+      url: https://www.browse.ai
+      desc: No-code scraper that extracts structured data from web pages on a schedule. Good for lightweight monitoring and list extraction into sheets.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Browse AI](https://www.browse.ai) — No-code scraper that extracts structured data from web pages on a schedule. Good for lightweight monitoring and list extraction into sheets.'
+      caution:
+      - scraping
+  - entry:
+      name: Captain Data
+      url: https://www.captaindata.com
+      desc: 💰 No-code data extraction + enrichment across LinkedIn and 100+ sources. Chain scraping, enrichment, and CRM push into automated workflows.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Captain Data](https://www.captaindata.com) — 💰 No-code data extraction + enrichment across LinkedIn and 100+ sources. Chain scraping, enrichment, and CRM push into automated workflows.'
+      caution:
+      - scraping
+  - entry:
+      name: Clay
+      url: https://clay.com
+      desc: ❤️ 💰 Data enrichment + workflow automation hub. Pulls from 50+ sources. Best in class.
+      pricing: paid
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Clay](https://clay.com) — ❤️ 💰 Data enrichment + workflow automation hub. Pulls from 50+ sources. Best in class.'
+      caution: *id002
+  - entry:
+      name: Instant Data Scraper
+      url: https://chrome.google.com/webstore/detail/ofaokhiedipichpaobibbnahnkdoiiah
+      desc: Chrome extension to scrape tables from any webpage.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Instant Data Scraper](https://chrome.google.com/webstore/detail/ofaokhiedipichpaobibbnahnkdoiiah) — Chrome extension to scrape tables from any webpage.'
+      caution:
+      - scraping
+  - entry:
+      name: Make
+      url: https://make.com
+      desc: Visual workflow automation. Great for recruiting ops.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Make](https://make.com) — Visual workflow automation. Great for recruiting ops.'
+      caution:
+      - scraping
+  - entry:
+      name: n8n
+      url: https://n8n.io
+      desc: Open-source workflow automation. Self-hostable.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [n8n](https://n8n.io) — Open-source workflow automation. Self-hostable.'
+      caution:
+      - scraping
+  - entry:
+      name: Phantombuster
+      url: https://phantombuster.com
+      desc: ❤️ 💰 Automation agents for LinkedIn, Twitter, Instagram.
+      pricing: paid
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Phantombuster](https://phantombuster.com) — ❤️ 💰 Automation agents for LinkedIn, Twitter, Instagram.'
+      caution:
+      - scraping
+  - entry:
+      name: Scrapy
+      url: https://scrapy.org
+      desc: Python web scraping framework.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Scrapy](https://scrapy.org) — Python web scraping framework.'
+      caution:
+      - scraping
+  - entry:
+      name: Zapier
+      url: https://zapier.com
+      desc: App automation. Connect ATS, Slack, email, sheets.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Zapier](https://zapier.com) — App automation. Connect ATS, Slack, email, sheets.'
+      caution:
+      - scraping
+  - raw: ''
+  - raw: '---'
+  - raw: ''
+- heading: '## ✨ AI Writing & Productivity'
+  blocks:
+  - raw: ''
+  - entry:
+      name: ChatGPT
+      url: https://chatgpt.com
+      desc: General purpose AI assistant. Great for drafts, ideation, and quick research.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [ChatGPT](https://chatgpt.com) — General purpose AI assistant. Great for drafts, ideation, and quick research.'
+  - entry:
+      name: Claude (Anthropic)
+      url: https://claude.ai
+      desc: ❤️ Best for long-form drafting, analysis, strategy docs, playbooks, and complex prompting. Handles nuanced recruiting tasks well.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Claude (Anthropic)](https://claude.ai) — ❤️ Best for long-form drafting, analysis, strategy docs, playbooks, and complex prompting. Handles nuanced recruiting tasks well.'
+  - entry:
+      name: Copy.ai
+      url: https://copy.ai
+      desc: AI copywriting for JDs, outreach, and employer brand content.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Copy.ai](https://copy.ai) — AI copywriting for JDs, outreach, and employer brand content.'
+  - entry:
+      name: Gamma.app
+      url: https://gamma.app
+      desc: AI-generated presentations and docs. Fast stakeholder decks.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Gamma.app](https://gamma.app) — AI-generated presentations and docs. Fast stakeholder decks.'
+  - entry:
+      name: Gemini (Google)
+      url: https://gemini.google.com
+      desc: Google's AI assistant. Strong for research, long context, and tight Google Workspace integration.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Gemini (Google)](https://gemini.google.com) — Google''s AI assistant. Strong for research, long context, and tight Google Workspace integration.'
+  - entry:
+      name: Glasp
+      url: https://glasp.co
+      desc: Free web + PDF highlighter and summarizer. Good for building sourcing research workflows.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Glasp](https://glasp.co) — Free web + PDF highlighter and summarizer. Good for building sourcing research workflows.'
+  - entry:
+      name: NotebookLM (Google)
+      url: https://notebooklm.google.com
+      desc: Upload sources and get grounded, cited answers + audio overviews. Great for digesting market reports and research.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [NotebookLM (Google)](https://notebooklm.google.com) — Upload sources and get grounded, cited answers + audio overviews. Great for digesting market reports and research.'
+  - entry:
+      name: Notion AI
+      url: https://notion.so
+      desc: 💰 Writing assistant inside Notion. Good for playbooks and team docs.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Notion AI](https://notion.so) — 💰 Writing assistant inside Notion. Good for playbooks and team docs.'
+  - entry:
+      name: Perplexity AI
+      url: https://perplexity.ai
+      desc: AI search with citations. Great for real-time market intel and sourcing research.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Perplexity AI](https://perplexity.ai) — AI search with citations. Great for real-time market intel and sourcing research.'
+  - entry:
+      name: Textio Loop
+      url: https://textio.com
+      desc: 💰 On-brand job postings and candidate outreach copy. Predicts language impact on candidate pools.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Textio Loop](https://textio.com) — 💰 On-brand job postings and candidate outreach copy. Predicts language impact on candidate pools.'
+  - raw: ''
+  - raw: '---'
+  - raw: ''
+- heading: '## 📣 Employer Brand & Job Marketing'
+  blocks:
+  - raw: ''
+  - entry:
+      name: Big List of Places to Post Jobs (Global)
+      url: https://recruitingbrainfood.com/big-list-of-places-to-post-jobs-globally
+      desc: Comprehensive global job posting list by Hung Lee.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Big List of Places to Post Jobs (Global)](https://recruitingbrainfood.com/big-list-of-places-to-post-jobs-globally) — Comprehensive global job posting list by Hung Lee.'
+  - entry:
+      name: Canva
+      url: https://canva.com
+      desc: ❤️ Design tool. Fastest way to create employer brand assets.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Canva](https://canva.com) — ❤️ Design tool. Fastest way to create employer brand assets.'
+  - entry:
+      name: Doodle Ipsum
+      url: https://doodleipsum.com
+      desc: Free custom illustrations for design work.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Doodle Ipsum](https://doodleipsum.com) — Free custom illustrations for design work.'
+  - entry:
+      name: Flaticon
+      url: https://flaticon.com
+      desc: Free vector icons.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Flaticon](https://flaticon.com) — Free vector icons.'
+  - entry:
+      name: Jobboard Finder
+      url: https://jobboardfinder.com/search
+      desc: A search engine to find niche job boards globally.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Jobboard Finder](https://jobboardfinder.com/search) — A search engine to find niche job boards globally.'
+  - entry:
+      name: Lempod
+      url: https://lempod.com
+      desc: 💰 Growth hacking tool to increase traction on LinkedIn posts.
+      pricing: paid
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Lempod](https://lempod.com) — 💰 Growth hacking tool to increase traction on LinkedIn posts.'
+  - entry:
+      name: Pexels
+      url: https://pexels.com
+      desc: Free stock photos.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Pexels](https://pexels.com) — Free stock photos.'
+  - entry:
+      name: Remove.bg
+      url: https://remove.bg
+      desc: AI background remover for photos.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Remove.bg](https://remove.bg) — AI background remover for photos.'
+  - entry:
+      name: Simple Icons
+      url: https://simpleicons.org
+      desc: Free SVG brand icons — useful for tech stack visuals in JDs.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Simple Icons](https://simpleicons.org) — Free SVG brand icons — useful for tech stack visuals in JDs.'
+  - entry:
+      name: Undraw
+      url: https://undraw.co
+      desc: ❤️ Free open-source illustrations. Use in JDs, career sites.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Undraw](https://undraw.co) — ❤️ Free open-source illustrations. Use in JDs, career sites.'
+  - entry:
+      name: Unsplash
+      url: https://unsplash.com
+      desc: Free stock photos.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Unsplash](https://unsplash.com) — Free stock photos.'
+  - raw: ''
+  - raw: '---'
+  - raw: ''
+- heading: '## 🛠️ Productivity & Browser Tools'
+  blocks:
+  - raw: ''
+  - raw: '#### Must-Have Extensions'
+  - raw: ''
+  - entry:
+      name: Bulk URL Opener
+      url: https://chrome.google.com/webstore/detail/hgenngnjgfkdggambccohomebieocekm
+      desc: Open multiple URLs in bulk.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Bulk URL Opener](https://chrome.google.com/webstore/detail/hgenngnjgfkdggambccohomebieocekm) — Open multiple URLs in bulk.'
+  - entry:
+      name: Extensity
+      url: https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg
+      desc: ❤️ Quickly enable/disable Chrome extensions. Essential for managing a large stack.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) — ❤️ Quickly enable/disable Chrome extensions. Essential for managing a large stack.'
+  - entry:
+      name: Highlight This
+      url: https://chrome.google.com/webstore/detail/fgmbnmjmbjenlhbefngfibmjkpbcljaj
+      desc: Find and highlight keywords on any webpage.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Highlight This](https://chrome.google.com/webstore/detail/fgmbnmjmbjenlhbefngfibmjkpbcljaj) — Find and highlight keywords on any webpage.'
+  - entry:
+      name: Hypothesis
+      url: https://hypothes.is
+      desc: Collaboratively annotate and highlight web pages and PDFs.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Hypothesis](https://hypothes.is) — Collaboratively annotate and highlight web pages and PDFs.'
+  - entry:
+      name: Linkclump
+      url: https://chrome.google.com/webstore/detail/lfpjkncokllnfokkgpkobnkbkmelfefj
+      desc: ❤️ Open/copy multiple links at once.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Linkclump](https://chrome.google.com/webstore/detail/lfpjkncokllnfokkgpkobnkbkmelfefj) — ❤️ Open/copy multiple links at once.'
+  - entry:
+      name: OneTab
+      url: https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall
+      desc: Collapse all tabs into a list. Saves up to 95% memory.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) — Collapse all tabs into a list. Saves up to 95% memory.'
+  - entry:
+      name: Text Blaze
+      url: https://blaze.today
+      desc: ❤️ Text snippet expansion. Speed up repetitive typing.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Text Blaze](https://blaze.today) — ❤️ Text snippet expansion. Speed up repetitive typing.'
+  - entry:
+      name: Toggl Track
+      url: https://toggl.com
+      desc: ❤️ Time tracking. Know where your sourcing hours actually go.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Toggl Track](https://toggl.com) — ❤️ Time tracking. Know where your sourcing hours actually go.'
+  - entry:
+      name: uBlock Origin
+      url: https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm
+      desc: ❤️ Best ad + tracker blocker. Speeds up every page.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [uBlock Origin](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm) — ❤️ Best ad + tracker blocker. Speeds up every page.'
+  - raw: ''
+  - raw: '#### Dev & Data Tools'
+  - raw: ''
+  - entry:
+      name: JSON to CSV
+      url: https://konklone.io/json/
+      desc: Convert JSON to CSV instantly.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [JSON to CSV](https://konklone.io/json/) — Convert JSON to CSV instantly.'
+  - entry:
+      name: JSONView
+      url: https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc
+      desc: Format JSON in browser.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [JSONView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc) — Format JSON in browser.'
+  - entry:
+      name: Online Regex Tester
+      url: https://regex101.com
+      desc: Build and test regex patterns.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Online Regex Tester](https://regex101.com) — Build and test regex patterns.'
+  - entry:
+      name: Postman
+      url: https://postman.com
+      desc: API testing and exploration tool.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Postman](https://postman.com) — API testing and exploration tool.'
+  - entry:
+      name: Public APIs List
+      url: https://public-apis.xyz
+      desc: Directory of free public APIs.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Public APIs List](https://public-apis.xyz) — Directory of free public APIs.'
+  - entry:
+      name: VS Code
+      url: https://code.visualstudio.com
+      desc: Lightweight code/text editor. Replaced Atom/Sublime.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [VS Code](https://code.visualstudio.com) — Lightweight code/text editor. Replaced Atom/Sublime.'
+  - entry:
+      name: WhatRuns
+      url: https://chrome.google.com/webstore/detail/cmkdbmfndkfgebldhnkbfhlneefdaaip
+      desc: See what tech stack a website runs on.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [WhatRuns](https://chrome.google.com/webstore/detail/cmkdbmfndkfgebldhnkbfhlneefdaaip) — See what tech stack a website runs on.'
+  - raw: ''
+  - raw: '#### Scheduling & Meetings'
+  - raw: ''
+  - entry:
+      name: Calendly
+      url: https://calendly.com
+      desc: ❤️ Scheduling tool. Share link, candidates pick a time.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Calendly](https://calendly.com) — ❤️ Scheduling tool. Share link, candidates pick a time.'
+  - entry:
+      name: Grain
+      url: https://grain.com
+      desc: Record, transcribe, and clip meeting highlights.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Grain](https://grain.com) — Record, transcribe, and clip meeting highlights.'
+  - entry:
+      name: Krisp
+      url: https://krisp.ai
+      desc: Background noise removal for calls.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Krisp](https://krisp.ai) — Background noise removal for calls.'
+  - entry:
+      name: Otter.ai
+      url: https://otter.ai
+      desc: Meeting transcription and notes.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Otter.ai](https://otter.ai) — Meeting transcription and notes.'
+  - raw: ''
+  - raw: '#### Productivity'
+  - raw: ''
+  - entry:
+      name: Momentum
+      url: https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca
+      desc: Personal dashboard designed to eliminate distraction.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) — Personal dashboard designed to eliminate distraction.'
+  - entry:
+      name: My Time Zone
+      url: https://chrome.google.com/webstore/detail/fdmjemdmpmohggbjhmbeoipmheemmcpm
+      desc: Automatic timezone conversion for scheduling.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [My Time Zone](https://chrome.google.com/webstore/detail/fdmjemdmpmohggbjhmbeoipmheemmcpm) — Automatic timezone conversion for scheduling.'
+  - entry:
+      name: Raycast
+      url: https://www.raycast.com
+      desc: ❤️ Mac launcher + productivity hub. Snippets, clipboard history, window management, and AI in one keystroke.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Raycast](https://www.raycast.com) — ❤️ Mac launcher + productivity hub. Snippets, clipboard history, window management, and AI in one keystroke.'
+  - raw: ''
+  - raw: '---'
+  - raw: ''
+- heading: '## 🔎 Search Engines & Reference'
+  blocks:
+  - raw: ''
+  - entry:
+      name: Google
+      url: https://www.google.com
+      desc: ''
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Google](https://www.google.com)'
+  - raw: '  - [Google Dataset Search](https://toolbox.google.com/datasetsearch)'
+  - raw: '  - [Google Patents](https://patents.google.com/)'
+  - raw: '  - [Google Scholar](https://scholar.google.com)'
+  - raw: '  - [Google Trends](https://trends.google.com/trends/)'
+  - entry:
+      name: Bing
+      url: https://www.bing.com/
+      desc: ''
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Bing](https://www.bing.com/)'
+  - entry:
+      name: DuckDuckGo
+      url: https://duckduckgo.com/
+      desc: ''
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [DuckDuckGo](https://duckduckgo.com/)'
+  - entry:
+      name: Open Corporates
+      url: https://opencorporates.com/
+      desc: Largest open database of companies in the world.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Open Corporates](https://opencorporates.com/) — Largest open database of companies in the world.'
+  - entry:
+      name: Research Gate
+      url: https://www.researchgate.net/
+      desc: Find researchers and publications.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Research Gate](https://www.researchgate.net/) — Find researchers and publications.'
+  - entry:
+      name: Semantic Scholar
+      url: https://www.semanticscholar.org/
+      desc: AI-powered academic search.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Semantic Scholar](https://www.semanticscholar.org/) — AI-powered academic search.'
+  - entry:
+      name: Wayback Machine
+      url: https://archive.org/web/
+      desc: Find old versions of anything.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Wayback Machine](https://archive.org/web/) — Find old versions of anything.'
+  - entry:
+      name: World Bank Open Data
+      url: https://data.worldbank.org/
+      desc: Free and open access to global development data.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [World Bank Open Data](https://data.worldbank.org/) — Free and open access to global development data.'
+  - raw: ''
+  - raw: '---'
+  - raw: ''
+- heading: '## 📓 Learning & Community'
+  blocks:
+  - raw: ''
+  - raw: '#### Newsletters & Blogs'
+  - raw: ''
+  - entry:
+      name: AmazingHiring Blog
+      url: https://amazinghiring.com/blog/
+      desc: Sourcing tips and market insights.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [AmazingHiring Blog](https://amazinghiring.com/blog/) — Sourcing tips and market insights.'
+  - entry:
+      name: BooleanStrings
+      url: http://booleanstrings.com
+      desc: Blog by Irina Shamaeva. Deep sourcing and boolean content.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [BooleanStrings](http://booleanstrings.com) — Blog by Irina Shamaeva. Deep sourcing and boolean content.'
+  - entry:
+      name: Dr. John Sullivan
+      url: https://drjohnsullivan.com
+      desc: Data-driven recruiting strategy. Hiring manager alignment, metrics, recruiting ROI.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Dr. John Sullivan](https://drjohnsullivan.com) — Data-driven recruiting strategy. Hiring manager alignment, metrics, recruiting ROI.'
+  - entry:
+      name: GlossaryTech
+      url: https://blog.glossarytech.com
+      desc: Tech glossary for non-technical recruiters.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [GlossaryTech](https://blog.glossarytech.com) — Tech glossary for non-technical recruiters.'
+  - entry:
+      name: Katrina Collier
+      url: https://www.katrinacollier.com
+      desc: Writing and resources on candidate engagement and human-centered hiring in an AI world.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Katrina Collier](https://www.katrinacollier.com) — Writing and resources on candidate engagement and human-centered hiring in an AI world.'
+  - entry:
+      name: Recruiting Brainfood
+      url: https://recruitingbrainfood.com
+      desc: ❤️ Weekly newsletter by Hung Lee. Essential reading.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Recruiting Brainfood](https://recruitingbrainfood.com) — ❤️ Weekly newsletter by Hung Lee. Essential reading.'
+  - entry:
+      name: Recruiting Toolbox
+      url: https://recruitingtools.com
+      desc: Tools and resources for TA practitioners.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Recruiting Toolbox](https://recruitingtools.com) — Tools and resources for TA practitioners.'
+  - entry:
+      name: RecruitingDaily
+      url: https://recruitingdaily.com
+      desc: TA news, podcasts, and tools.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [RecruitingDaily](https://recruitingdaily.com) — TA news, podcasts, and tools.'
+  - entry:
+      name: SocialTalent Blog
+      url: https://socialtalent.com/blog
+      desc: Recruiter training and content.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [SocialTalent Blog](https://socialtalent.com/blog) — Recruiter training and content.'
+  - entry:
+      name: SourceCon
+      url: https://sourcecon.com
+      desc: ❤️ Sourcing conference + blog. Original content and hackathons. (Now part of ERE.)
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: acquired
+      region:
+      - global
+      _raw: '- [SourceCon](https://sourcecon.com) — ❤️ Sourcing conference + blog. Original content and hackathons. (Now part of ERE.)'
+  - entry:
+      name: Talent Edge Weekly
+      url: https://talentedgeweekly.com
+      desc: Curated weekly roundup of recruiting and TA insights. Good signal-to-noise.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Talent Edge Weekly](https://talentedgeweekly.com) — Curated weekly roundup of recruiting and TA insights. Good signal-to-noise.'
+  - entry:
+      name: WizardSourcer
+      url: https://wizardsourcer.com/blog
+      desc: Practical sourcing tutorials by Jonathan Kidder.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [WizardSourcer](https://wizardsourcer.com/blog) — Practical sourcing tutorials by Jonathan Kidder.'
+  - raw: ''
+  - raw: '#### Audio'
+  - raw: ''
+  - entry:
+      name: Big List of Recruiting / HR Podcasts
+      url: https://recruitingbrainfood.com/big-list-of-podcasts/
+      desc: Comprehensive podcast list by Hung Lee.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Big List of Recruiting / HR Podcasts](https://recruitingbrainfood.com/big-list-of-podcasts/) — Comprehensive podcast list by Hung Lee.'
+  - entry:
+      name: Hiring on All Cylinders
+      url: http://hiringonallcylinders.com
+      desc: Recruiting strategy podcast.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Hiring on All Cylinders](http://hiringonallcylinders.com) — Recruiting strategy podcast.'
+  - entry:
+      name: Recruiting Future with Matt Alder
+      url: https://recruitingfuture.com
+      desc: ❤️ The most-listened-to TA podcast. Future of recruiting, AI, and hiring innovation. Weekly interviews with practitioners and researchers.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Recruiting Future with Matt Alder](https://recruitingfuture.com) — ❤️ The most-listened-to TA podcast. Future of recruiting, AI, and hiring innovation. Weekly interviews with practitioners and researchers.'
+  - entry:
+      name: Talk Talent to Me
+      url: https://podcasts.apple.com/us/podcast/talk-talent-to-me/id1288771792
+      desc: TA strategy conversations with practitioners. (Now sponsored by LHH; still going.)
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Talk Talent to Me](https://podcasts.apple.com/us/podcast/talk-talent-to-me/id1288771792) — TA strategy conversations with practitioners. (Now sponsored by LHH; still going.)'
+  - entry:
+      name: The Chad & Cheese Podcast
+      url: https://chadcheese.com
+      desc: HRtech commentary, sometimes irreverent.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [The Chad & Cheese Podcast](https://chadcheese.com) — HRtech commentary, sometimes irreverent.'
+  - entry:
+      name: The Sourcing School
+      url: https://thesourcingschool.com
+      desc: Sourcing-focused podcast by Maisha Cannon and Jeremy Roberts. Tactics, tools, and guest sourcers.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [The Sourcing School](https://thesourcingschool.com) — Sourcing-focused podcast by Maisha Cannon and Jeremy Roberts. Tactics, tools, and guest sourcers.'
+  - raw: ''
+  - raw: '#### Video'
+  - raw: ''
+  - entry:
+      name: Dean Da Costa
+      url: https://www.youtube.com/user/star4343/videos
+      desc: Sourcing tools deep dives.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Dean Da Costa](https://www.youtube.com/user/star4343/videos) — Sourcing tools deep dives.'
+  - entry:
+      name: Glen Cathey
+      url: https://www.youtube.com/c/GlenCathey
+      desc: Sourcing pioneer. AI in sourcing, boolean, and talent strategy.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Glen Cathey](https://www.youtube.com/c/GlenCathey) — Sourcing pioneer. AI in sourcing, boolean, and talent strategy.'
+  - entry:
+      name: Jan Tegze
+      url: https://www.youtube.com/@JanTegze
+      desc: Full Stack Recruiter author. Practical Google/sourcing tutorials.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Jan Tegze](https://www.youtube.com/@JanTegze) — Full Stack Recruiter author. Practical Google/sourcing tutorials.'
+  - entry:
+      name: Josef Kadlec
+      url: https://www.youtube.com/user/josefkadlec/videos
+      desc: Tech sourcing tutorials.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Josef Kadlec](https://www.youtube.com/user/josefkadlec/videos) — Tech sourcing tutorials.'
+  - entry:
+      name: ohsusannamarie
+      url: https://www.youtube.com/channel/UCMENmamzULqh7WHzNRdd0dQ/videos
+      desc: ❤️ Sourcing tutorials and tips by Susanna Frazier.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [ohsusannamarie](https://www.youtube.com/channel/UCMENmamzULqh7WHzNRdd0dQ/videos) — ❤️ Sourcing tutorials and tips by Susanna Frazier.'
+  - entry:
+      name: Recruiting Future
+      url: https://www.youtube.com/@RecruitingFuture
+      desc: Video edition of Matt Alder's podcast.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Recruiting Future](https://www.youtube.com/@RecruitingFuture) — Video edition of Matt Alder''s podcast.'
+  - entry:
+      name: Sourcers Who Code
+      url: https://www.youtube.com/playlist?list=PLh9V7buk0vuDxX9G_acEyuZ4VVMa7b51v
+      desc: ❤️ Technical sourcing video series.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Sourcers Who Code](https://www.youtube.com/playlist?list=PLh9V7buk0vuDxX9G_acEyuZ4VVMa7b51v) — ❤️ Technical sourcing video series.'
+  - raw: ''
+  - raw: '#### Communities'
+  - raw: ''
+  - entry:
+      name: ATAP
+      url: https://atapglobal.org
+      desc: Association of Talent Acquisition Professionals.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [ATAP](https://atapglobal.org) — Association of Talent Acquisition Professionals.'
+  - entry:
+      name: Big List of Online Recruiting Communities
+      url: https://recruitingbrainfood.com/big-list-of-online-recruiter-communities
+      desc: Comprehensive list by Hung Lee.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Big List of Online Recruiting Communities](https://recruitingbrainfood.com/big-list-of-online-recruiter-communities) — Comprehensive list by Hung Lee.'
+  - entry:
+      name: Secret Sourcing Group (Facebook)
+      url: https://facebook.com/groups/secret.sourcing
+      desc: Practitioner discussions on sourcing.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Secret Sourcing Group (Facebook)](https://facebook.com/groups/secret.sourcing) — Practitioner discussions on sourcing.'
+  - entry:
+      name: SourceCon (Facebook)
+      url: https://facebook.com/groups/151466298380729
+      desc: SourceCon community group.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [SourceCon (Facebook)](https://facebook.com/groups/151466298380729) — SourceCon community group.'
+  - entry:
+      name: Sourcers Who Code (Facebook)
+      url: https://facebook.com/groups/SourcersWhoCode
+      desc: Active community for tech-savvy sourcers.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Sourcers Who Code (Facebook)](https://facebook.com/groups/SourcersWhoCode) — Active community for tech-savvy sourcers.'
+  - raw: ''
+  - raw: '#### Who to Follow'
+  - raw: ''
+  - raw: The people whose posts are worth turning on notifications for. Most active on LinkedIn.
+  - raw: ''
+  - entry:
+      name: Glen Cathey
+      url: https://www.linkedin.com/in/glencathey
+      desc: ❤️ The "Sourcing Sensei." Deep, thoughtful takes on AI in sourcing and the future of TA.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Glen Cathey](https://www.linkedin.com/in/glencathey) — ❤️ The "Sourcing Sensei." Deep, thoughtful takes on AI in sourcing and the future of TA.'
+  - entry:
+      name: Hung Lee
+      url: https://recruitingbrainfood.com
+      desc: Curator of Recruiting Brainfood and the field's best-connected aggregator of what matters this week.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Hung Lee](https://recruitingbrainfood.com) — Curator of Recruiting Brainfood and the field''s best-connected aggregator of what matters this week.'
+  - entry:
+      name: Irina Shamaeva
+      url: https://www.linkedin.com/in/irinashamaeva
+      desc: ❤️ Boolean and X-ray queen. Endless practical sourcing tips.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Irina Shamaeva](https://www.linkedin.com/in/irinashamaeva) — ❤️ Boolean and X-ray queen. Endless practical sourcing tips.'
+  - entry:
+      name: Jan Tegze
+      url: https://www.youtube.com/@JanTegze
+      desc: Full Stack Recruiter author. Tools, tactics, and sourcing experiments.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Jan Tegze](https://www.youtube.com/@JanTegze) — Full Stack Recruiter author. Tools, tactics, and sourcing experiments.'
+  - entry:
+      name: Jonathan Kidder
+      url: https://wizardsourcer.com
+      desc: WizardSourcer. Tutorials, tool reviews, and "sourcers to follow" lists.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Jonathan Kidder](https://wizardsourcer.com) — WizardSourcer. Tutorials, tool reviews, and "sourcers to follow" lists.'
+  - entry:
+      name: Katrina Collier
+      url: https://www.katrinacollier.com
+      desc: Candidate engagement and the human side of hiring.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Katrina Collier](https://www.katrinacollier.com) — Candidate engagement and the human side of hiring.'
+  - entry:
+      name: Maisha Cannon
+      url: https://www.linkedin.com/in/maishac
+      desc: The Sourcing School. Practical sourcing and community-building.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Maisha Cannon](https://www.linkedin.com/in/maishac) — The Sourcing School. Practical sourcing and community-building.'
+  - raw: ''
+  - raw: '#### Conferences & Events'
+  - raw: ''
+  - raw: Where the community gathers. (IRL = in person, Virtual = online, Hybrid = both.)
+  - raw: ''
+  - entry:
+      name: ERE Recruiting Innovation Summit
+      url: https://www.ere.net
+      desc: IRL — Premier event for in-house TA leaders and strategists. Home of SourceCon sessions.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      format: irl
+      _raw: '- [ERE Recruiting Innovation Summit](https://www.ere.net) — IRL — Premier event for in-house TA leaders and strategists. Home of SourceCon sessions.'
+  - entry:
+      name: HR Technology Conference
+      url: https://www.hrtechnologyconference.com
+      desc: IRL — The biggest HR/recruiting tech expo. See every tool on this list under one roof.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      format: irl
+      _raw: '- [HR Technology Conference](https://www.hrtechnologyconference.com) — IRL — The biggest HR/recruiting tech expo. See every tool on this list under one roof.'
+  - entry:
+      name: LinkedIn Talent Connect
+      url: https://www.linkedin.com/talent/talent-connect
+      desc: Hybrid — LinkedIn's flagship TA event. Product launches and big-picture trends.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      format: hybrid
+      _raw: '- [LinkedIn Talent Connect](https://www.linkedin.com/talent/talent-connect) — Hybrid — LinkedIn''s flagship TA event. Product launches and big-picture trends.'
+  - entry:
+      name: RecFest
+      url: https://www.recfest.com
+      desc: IRL — ❤️ Festival-style recruiting conference. UK (Knebworth) + USA (Nashville) editions. Deep sourcing, employer brand, and modern workflows.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      format: irl
+      _raw: '- [RecFest](https://www.recfest.com) — IRL — ❤️ Festival-style recruiting conference. UK (Knebworth) + USA (Nashville) editions. Deep sourcing, employer brand, and modern workflows.'
+  - entry:
+      name: SourceCon
+      url: https://www.sourcecon.com
+      desc: Hybrid — ❤️ The sourcing conference. Hackathons, boolean deep dives, OSINT. Now run under ERE.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      format: hybrid
+      _raw: '- [SourceCon](https://www.sourcecon.com) — Hybrid — ❤️ The sourcing conference. Hackathons, boolean deep dives, OSINT. Now run under ERE.'
+  - entry:
+      name: Sourcing Summit (SOSU)
+      url: https://sourcingsummit.com
+      desc: Hybrid — Global sourcing conference series (Europe, APAC, and online editions).
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - eu
+      - apac
+      format: hybrid
+      _raw: '- [Sourcing Summit (SOSU)](https://sourcingsummit.com) — Hybrid — Global sourcing conference series (Europe, APAC, and online editions).'
+  - entry:
+      name: Talent Acquisition Week
+      url: https://talentacquisitionweek.com
+      desc: 'IRL — Three co-located conferences: Talent Sourcing Strategies, Social Recruiting Strategies, and Employer Branding.'
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      format: irl
+      _raw: '- [Talent Acquisition Week](https://talentacquisitionweek.com) — IRL — Three co-located conferences: Talent Sourcing Strategies, Social Recruiting Strategies, and Employer Branding.'
+  - entry:
+      name: Talent42
+      url: https://talent42.com
+      desc: Hybrid — ❤️ The only conference built specifically for technical recruiting. In-person + virtual.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      format: hybrid
+      _raw: '- [Talent42](https://talent42.com) — Hybrid — ❤️ The only conference built specifically for technical recruiting. In-person + virtual.'
+  - entry:
+      name: UNLEASH
+      url: https://www.unleash.ai
+      desc: IRL — Future-of-work, AI, and HR innovation. America + World editions.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      format: irl
+      _raw: '- [UNLEASH](https://www.unleash.ai) — IRL — Future-of-work, AI, and HR innovation. America + World editions.'
+  - raw: ''
+  - raw: '#### Cool Lists by Cool People'
+  - raw: ''
+  - entry:
+      name: Bellingcat's Online Investigation Toolkit
+      url: https://bellingcat.gitbook.io/toolkit
+      desc: OSINT toolkit from investigative journalists. (Current GitBook edition — the old Google Doc was retired.)
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Bellingcat''s Online Investigation Toolkit](https://bellingcat.gitbook.io/toolkit) — OSINT toolkit from investigative journalists. (Current GitBook edition — the old Google Doc was retired.)'
+  - entry:
+      name: Big List of Places to Post Jobs (Global)
+      url: https://www.recruitingbrainfood.com/big-list-of-places-to-post-jobs-globally/
+      desc: By Hung Lee.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Big List of Places to Post Jobs (Global)](https://www.recruitingbrainfood.com/big-list-of-places-to-post-jobs-globally/) — By Hung Lee.'
+  - entry:
+      name: CSE Utopia
+      url: https://start.me/p/EL84Km/cse-utopia
+      desc: Amazing list of public CSEs by Dean Da Costa.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [CSE Utopia](https://start.me/p/EL84Km/cse-utopia) — Amazing list of public CSEs by Dean Da Costa.'
+  - entry:
+      name: SSaR
+      url: https://start.me/p/GE7Ebm/ssar
+      desc: Huge tools list by Dean Da Costa.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [SSaR](https://start.me/p/GE7Ebm/ssar) — Huge tools list by Dean Da Costa.'
+  - raw: ''
+  - raw: '---'
+  - raw: ''
+- heading: '## 🌍 Relocation, Compensation & Research'
+  blocks:
+  - raw: ''
+  - entry:
+      name: CB Insights
+      url: https://www.cbinsights.com/
+      desc: Company research, funding data, market maps.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [CB Insights](https://www.cbinsights.com/) — Company research, funding data, market maps.'
+  - entry:
+      name: Levels.fyi
+      url: https://levels.fyi
+      desc: ❤️ Crowdsourced compensation at tech companies.
+      pricing: free
+      favorite: true
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Levels.fyi](https://levels.fyi) — ❤️ Crowdsourced compensation at tech companies.'
+  - entry:
+      name: Numbeo
+      url: http://www.numbeo.com/cost-of-living/
+      desc: Calculate the cost of living by city.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Numbeo](http://www.numbeo.com/cost-of-living/) — Calculate the cost of living by city.'
+  - entry:
+      name: Open Corporates
+      url: https://opencorporates.com/
+      desc: Largest open database of companies globally.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Open Corporates](https://opencorporates.com/) — Largest open database of companies globally.'
+  - entry:
+      name: Payscale
+      url: https://www.payscale.com
+      desc: Salary data by role, location, and experience.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Payscale](https://www.payscale.com) — Salary data by role, location, and experience.'
+  - entry:
+      name: Progression.fyi
+      url: https://progression.fyi
+      desc: Open source career frameworks.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Progression.fyi](https://progression.fyi) — Open source career frameworks.'
+  - entry:
+      name: Ravio
+      url: https://ravio.com
+      desc: Real-time European compensation insights.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - eu
+      _raw: '- [Ravio](https://ravio.com) — Real-time European compensation insights.'
+  - entry:
+      name: Relocate.me
+      url: http://relocate.me/
+      desc: Job board for people who want to relocate.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Relocate.me](http://relocate.me/) — Job board for people who want to relocate.'
+  - entry:
+      name: Salary.com
+      url: http://salary.com/
+      desc: Compensation data and benchmarking.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Salary.com](http://salary.com/) — Compensation data and benchmarking.'
+  - entry:
+      name: TechPays
+      url: https://techpays.com
+      desc: Open source compensation info for European tech roles.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - eu
+      _raw: '- [TechPays](https://techpays.com) — Open source compensation info for European tech roles.'
+  - entry:
+      name: Travelscope
+      url: https://www.markuslerner.com/travelscope/
+      desc: Worldwide Visa check.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [Travelscope](https://www.markuslerner.com/travelscope/) — Worldwide Visa check.'
+  - raw: ''
+  - raw: '---'
+  - raw: ''
+  - raw: '*Using any of these resources is at your own risk. Most are not mine, and if they were I wouldn''t tell you. I am not responsible for your safety / compliancy / relationship / dogs & cats or anything else. Unless you hire some great people after you found this list, in that case you need to buy me pretty stuff. OKTHXBYE xoxo*'
+  - raw: ''
