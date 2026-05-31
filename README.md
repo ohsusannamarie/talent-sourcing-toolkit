@@ -1,10 +1,10 @@
-# Talent Sourcing Field Guide
+# Talent Sourcing Command Center
 
 **Formerly Talent Sourcing Toolkit.**
 
 **1,395 Google Custom Search Engines. 490 Chrome extensions. Real sourcing workflows. Less tab chaos.**
 
-A practical field guide for modern sourcers, recruiters, talent intelligence professionals, and recruiting teams who want better tools, sharper workflows, and fewer “why do I have 47 tabs open?” moments.
+A practical command center for modern sourcers, recruiters, talent intelligence professionals, and recruiting teams who want better tools, sharper workflows, and fewer “why do I have 47 tabs open?” moments.
 
 This is not just a link list.
 
@@ -18,7 +18,7 @@ Built by [Susanna Conway](https://github.com/ohsusannamarie) - talent intelligen
 
 This repo started as a sourcing resource archive: **1,395 Google Custom Search Engines** and **490 Chrome extensions** collected for talent sourcing and recruiting research.
 
-It is now evolving into a broader field guide for modern recruiting work.
+It is now evolving into a broader command center for modern recruiting work.
 
 Use it to:
 
@@ -242,7 +242,7 @@ Use AI as decision support, not decision replacement.
 
 ## Related projects
 
-These companion projects expand specific parts of the field guide:
+These companion projects expand specific parts of the command center:
 
 - [bookmarklet-os](https://github.com/ohsusannamarie/bookmarklet-os) - 475 bookmarklets organized into a searchable command center
 - [GitHub Advanced Search](https://github.com/ohsusannamarie/GitHub-advanced-search) - enhanced GitHub search workflows for sourcers and researchers
@@ -286,7 +286,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for the full contribution guide.
 
 ## Maintenance note
 
-This is a resource archive and field guide. Some tools may no longer exist, may have changed ownership, or may work differently than they did when originally collected.
+This is a resource archive and command center. Some tools may no longer exist, may have changed ownership, or may work differently than they did when originally collected.
 
 Always validate before using a tool in an active recruiting workflow.
 
@@ -298,4 +298,4 @@ I'm Susanna - a talent intelligence and sourcing strategist who builds systems, 
 
 I work at the intersection of talent intelligence, sourcing strategy, and storytelling - translating messy talent markets into practical systems recruiters can actually use.
 
-If a sourcing problem is chaotic enough, I will probably turn it into a toolkit. Or a field guide. Or a command center. Depends how many tabs are open.
+If a sourcing problem is chaotic enough, I will probably turn it into a toolkit. Or a command center. Depends how many tabs are open.
