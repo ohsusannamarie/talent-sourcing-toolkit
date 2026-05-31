@@ -15,7 +15,7 @@ It is a working library of:
 - talent intelligence systems
 - recruiting infrastructure
 
-🔎 **[Explore the searchable resource library →](https://ohsusannamarie.github.io/talent-sourcing-toolkit/)**
+🔎 **[Explore the searchable resource library →](https://ohsusannamarie.github.io/talent-sourcing-toolkit/site/)**
 
 Built by [Susanna Conway](https://github.com/ohsusannamarie) — sourcing systems builder, talent intelligence strategist, and 3x SourceCon Hackathon Champion.
 
