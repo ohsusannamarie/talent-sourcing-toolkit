@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Talent Sourcing Command Center — searchable resource library</title>
+<meta name="description" content="A searchable, filterable directory of recruiting and sourcing tools, resources, and people to follow." />
+<style>
+  :root{
+    --bg:#faf9f7; --surface:#ffffff; --line:#e6e3dc; --line2:#d3d1c7;
+    --text:#2c2c2a; --muted:#5f5e5a; --hint:#888780;
+    --accent:#0f6e56; --accent-bg:#e1f5ee; --accent-line:#9fe1cb;
+    --paid-bg:#faeeda; --paid-text:#633806;
+    --free-bg:#eaf3de; --free-text:#27500a;
+    --fav:#d4537e; --new-bg:#e6f1fb; --new-text:#0c447c;
+    --acq-bg:#f1efe8; --acq-text:#444441;
+    --radius:12px; --radius-sm:8px;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#1a1a18; --surface:#242422; --line:#34332f; --line2:#44443f;
+      --text:#ededea; --muted:#b4b2a9; --hint:#888780;
+      --accent:#5dcaa5; --accent-bg:#0f3a30; --accent-line:#0f6e56;
+      --paid-bg:#3a2a10; --paid-text:#fac775;
+      --free-bg:#21300f; --free-text:#c0dd97;
+      --new-bg:#0c2540; --new-text:#85b7eb;
+      --acq-bg:#2c2c2a; --acq-text:#b4b2a9;
+    }
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.6;-webkit-font-smoothing:antialiased}
+  a{color:var(--accent);text-decoration:none}
+  a:hover{text-decoration:underline}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+  header{padding:48px 0 24px;border-bottom:1px solid var(--line)}
+  h1{font-size:30px;font-weight:600;margin:0 0 8px}
+  .tagline{color:var(--muted);font-size:16px;margin:0;max-width:640px}
+  .legend{display:flex;gap:14px;flex-wrap:wrap;margin-top:14px;font-size:13px;color:var(--muted)}
+  .legend b{color:var(--text);font-weight:600}
+
+  .controls{position:sticky;top:0;z-index:20;background:var(--bg);padding:16px 0;border-bottom:1px solid var(--line)}
+  .searchrow{display:flex;gap:10px;align-items:center}
+  #q{flex:1;height:42px;padding:0 14px;font-size:15px;border:1px solid var(--line2);border-radius:var(--radius-sm);background:var(--surface);color:var(--text)}
+  #q:focus{outline:none;border-color:var(--accent)}
+  .count{font-size:13px;color:var(--hint);white-space:nowrap}
+  .chips{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+  .chip{font-size:13px;padding:5px 12px;border-radius:20px;border:1px solid var(--line2);background:var(--surface);color:var(--muted);cursor:pointer;user-select:none}
+  .chip:hover{border-color:var(--accent)}
+  .chip.on{background:var(--accent-bg);color:var(--accent);border-color:var(--accent-line)}
+  .chip-group{display:inline-flex;gap:8px;flex-wrap:wrap;padding-right:8px;margin-right:4px;border-right:1px solid var(--line)}
+  .chip-group:last-child{border-right:none}
+  .clearbtn{font-size:13px;color:var(--hint);background:none;border:none;cursor:pointer;text-decoration:underline}
+
+  main{padding:8px 0 80px}
+  .section{margin-top:34px}
+  .section h2{font-size:20px;font-weight:600;margin:0 0 4px;scroll-margin-top:160px}
+  .section .subhead{font-size:13px;color:var(--hint);text-transform:uppercase;letter-spacing:.04em;margin:16px 0 8px}
+  .anchor{color:var(--hint);font-size:14px;margin-left:8px;opacity:0;text-decoration:none}
+  .section h2:hover .anchor{opacity:1}
+
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:12px;margin-top:12px}
+  .card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:14px 16px;display:flex;flex-direction:column;gap:6px;position:relative}
+  .card .top{display:flex;align-items:flex-start;justify-content:space-between;gap:8px}
+  .card .name{font-weight:600;font-size:15px}
+  .card .name .fav{color:var(--fav);margin-left:5px}
+  .card .desc{font-size:13.5px;color:var(--muted);margin:0}
+  .badges{display:flex;gap:6px;flex-wrap:wrap;margin-top:2px}
+  .b{font-size:11.5px;padding:2px 8px;border-radius:20px;font-weight:500}
+  .b.paid{background:var(--paid-bg);color:var(--paid-text)}
+  .b.free{background:var(--free-bg);color:var(--free-text)}
+  .b.new{background:var(--new-bg);color:var(--new-text)}
+  .b.acq{background:var(--acq-bg);color:var(--acq-text)}
+  .b.region{background:var(--acq-bg);color:var(--acq-text)}
+  .b.fmt{background:var(--new-bg);color:var(--new-text)}
+  .b.caution{background:var(--paid-bg);color:var(--paid-text);cursor:help}
+  .caution-note{font-size:12px;color:var(--hint);margin-top:2px;display:flex;align-items:center;gap:5px}
+  .review{font-size:12.5px;color:var(--muted);border-left:2px solid var(--accent-line);padding-left:9px;margin-top:6px;font-style:italic}
+  .review .by{display:block;font-style:normal;color:var(--hint);margin-top:2px}
+  .cmp{appearance:none;width:16px;height:16px;accent-color:var(--accent);cursor:pointer;flex-shrink:0;margin-top:3px}
+  .empty{text-align:center;color:var(--hint);padding:48px 0;font-size:15px}
+
+  .tray{position:fixed;left:0;right:0;bottom:0;background:var(--surface);border-top:1px solid var(--line2);padding:12px 0;z-index:30;transform:translateY(110%);transition:transform .2s ease}
+  .tray.show{transform:translateY(0)}
+  .tray .inner{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+  .tray .label{font-weight:600;font-size:14px}
+  .tray .items{display:flex;gap:8px;flex-wrap:wrap;flex:1}
+  .tray .pill{font-size:12.5px;background:var(--accent-bg);color:var(--accent);border-radius:20px;padding:4px 10px;display:flex;gap:6px;align-items:center}
+  .tray .pill button{background:none;border:none;color:var(--accent);cursor:pointer;font-size:14px;line-height:1;padding:0}
+  .tray .go{height:38px;padding:0 16px;border:1px solid var(--accent-line);background:var(--accent-bg);color:var(--accent);border-radius:var(--radius-sm);font-size:14px;font-weight:500;cursor:pointer}
+
+  .modal{position:fixed;inset:0;background:rgba(0,0,0,.45);display:none;align-items:center;justify-content:center;z-index:40;padding:20px}
+  .modal.show{display:flex}
+  .modal .box{background:var(--surface);border-radius:var(--radius);max-width:920px;width:100%;max-height:85vh;overflow:auto;padding:20px}
+  .modal h3{margin:0 0 14px;font-size:18px}
+  .modal .x{float:right;background:none;border:none;font-size:22px;cursor:pointer;color:var(--muted);line-height:1}
+  table.cmp-t{width:100%;border-collapse:collapse;font-size:13.5px}
+  table.cmp-t th,table.cmp-t td{text-align:left;padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+  table.cmp-t th{color:var(--hint);font-weight:500;width:120px}
+  footer{border-top:1px solid var(--line);padding:24px 0 40px;color:var(--hint);font-size:13px}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>Talent Sourcing Command Center</h1>
+    <p class="tagline">The searchable resource library — tools, resources, and people sourcers and recruiters actually use. AI sourcing, OSINT, talent intelligence, outreach, and who to learn from. <a href="https://github.com/ohsusannamarie/talent-sourcing-toolkit" target="_blank" rel="noopener">View on GitHub →</a></p>
+    <div class="legend">
+      <span><b>💰</b> paid only</span>
+      <span><b>❤️</b> community favourite</span>
+      <span id="stat-count"></span>
+    </div>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="wrap">
+    <div class="searchrow">
+      <input id="q" type="search" placeholder="Search 364 tools and resources…" autocomplete="off" />
+      <span class="count" id="resultCount"></span>
+    </div>
+    <div class="chips" id="chips"></div>
+  </div>
+</div>
+
+<main class="wrap" id="results"></main>
+
+<div class="tray" id="tray">
+  <div class="wrap inner">
+    <span class="label">Compare</span>
+    <div class="items" id="trayItems"></div>
+    <button class="go" id="compareGo">Compare side by side →</button>
+  </div>
+</div>
+
+<div class="modal" id="modal">
+  <div class="box">
+    <button class="x" id="modalX" aria-label="Close">×</button>
+    <h3>Side-by-side comparison</h3>
+    <div id="modalBody"></div>
+  </div>
+</div>
+
+<footer>
+  <div class="wrap">
+    Generated from the data layer (<code>data/site.yaml</code>). Filters and search run entirely in your browser — nothing is tracked.
+    Found a broken link or want to add a tool? <a href="https://github.com/ohsusannamarie/talent-sourcing-toolkit/issues/new/choose" target="_blank" rel="noopener">Open an issue</a>.
+  </div>
+</footer>
+
+<script>
+const state = { q:"", pricing:null, fav:false, new2026:false, region:null, status:null, caution:null, compare:new Set() };
+let DATA = [];
+
+const slug = s => s.toLowerCase().replace(/[^\w]+/g,"-").replace(/(^-|-$)/g,"");
+
+function readURL(){
+  const p = new URLSearchParams(location.search);
+  state.q = p.get("q") || "";
+  state.pricing = p.get("pricing");
+  state.region = p.get("region");
+  state.status = p.get("status");
+  state.caution = p.get("caution");
+  state.fav = p.get("fav") === "1";
+  state.new2026 = p.get("new") === "1";
+}
+function writeURL(){
+  const p = new URLSearchParams();
+  if(state.q) p.set("q", state.q);
+  if(state.pricing) p.set("pricing", state.pricing);
+  if(state.region) p.set("region", state.region);
+  if(state.status) p.set("status", state.status);
+  if(state.caution) p.set("caution", state.caution);
+  if(state.fav) p.set("fav","1");
+  if(state.new2026) p.set("new","1");
+  const qs = p.toString();
+  history.replaceState(null,"", qs ? "?"+qs : location.pathname);
+}
+
+function matches(r){
+  if(state.pricing && r.pricing !== state.pricing) return false;
+  if(state.fav && !r.favorite) return false;
+  if(state.new2026 && !r.new_2026) return false;
+  if(state.status && r.status !== state.status) return false;
+  if(state.region && !(r.region||[]).includes(state.region)) return false;
+  if(state.caution && !(r.caution||[]).includes(state.caution)) return false;
+  if(state.q){
+    const hay = (r.name+" "+r.desc+" "+r.section+" "+(r.subsection||"")).toLowerCase();
+    if(!hay.includes(state.q.toLowerCase())) return false;
+  }
+  return true;
+}
+
+const CAUTION = {
+  'scraping': {label:'scraping', tip:'May scrape or automate platforms (e.g. LinkedIn) in ways that can violate their terms of service. Use within policy.'},
+  'privacy-data': {label:'personal data', tip:'Surfaces personal contact data (email/phone). Mind GDPR/CCPA and your consent/policy coverage.'},
+  'ai-screening': {label:'AI screening', tip:'Uses AI to rank, score, or screen candidates. Watch for bias and adverse impact; keep humans in the loop.'},
+};
+
+function badge(r){
+  let h = "";
+  h += r.pricing==="paid" ? '<span class="b paid">paid</span>' : '<span class="b free">free / freemium</span>';
+  if(r.new_2026) h += '<span class="b new">new 2026</span>';
+  if(r.status!=="active") h += '<span class="b acq">'+r.status+'</span>';
+  if(r.format) h += '<span class="b fmt">'+r.format.toUpperCase()+'</span>';
+  (r.region||[]).filter(x=>x!=="global").forEach(x=> h += '<span class="b region">'+x.toUpperCase()+'</span>');
+  (r.caution||[]).forEach(x=> h += '<span class="b caution" title="'+CAUTION[x].tip+'">⚠ '+CAUTION[x].label+'</span>');
+  return h;
+}
+
+function render(){
+  const root = document.getElementById("results");
+  const rows = DATA.filter(matches);
+  document.getElementById("resultCount").textContent = rows.length + " result" + (rows.length!==1?"s":"");
+  if(!rows.length){ root.innerHTML = '<div class="empty">No matches. Try clearing a filter.</div>'; return; }
+  // group by section, then subsection, preserving original order
+  const order = [];
+  const groups = {};
+  rows.forEach(r=>{
+    if(!groups[r.section]){ groups[r.section]={}; order.push(r.section); }
+    const sub = r.subsection || "_";
+    (groups[r.section][sub] = groups[r.section][sub] || []).push(r);
+  });
+  let html = "";
+  order.forEach(sec=>{
+    html += '<section class="section"><h2 id="'+slug(sec)+'">'+sec+'<a class="anchor" href="#'+slug(sec)+'">#</a></h2>';
+    Object.keys(groups[sec]).forEach(sub=>{
+      if(sub!=="_") html += '<div class="subhead">'+sub+'</div>';
+      html += '<div class="grid">';
+      groups[sec][sub].forEach(r=>{
+        const id = r.name+"|"+r.url;
+        const checked = state.compare.has(id) ? "checked" : "";
+        html += '<div class="card">'
+          + '<div class="top"><div class="name"><a href="'+r.url+'" target="_blank" rel="noopener">'+r.name+'</a>'
+          + (r.favorite?'<span class="fav">❤</span>':'')+'</div>'
+          + '<input class="cmp" type="checkbox" data-id="'+encodeURIComponent(id)+'" '+checked+' title="Add to compare" /></div>'
+          + (r.desc?'<p class="desc">'+r.desc+'</p>':'')
+          + (r.review?'<div class="review">“'+r.review.quote+'”<span class="by">— '+r.review.by+'</span></div>':'')
+          + '<div class="badges">'+badge(r)+'</div>'
+          + '</div>';
+      });
+      html += '</div>';
+    });
+    html += '</section>';
+  });
+  root.innerHTML = html;
+}
+
+function renderChips(){
+  const defs = [
+    {group:[
+      {k:"pricing",v:"free",label:"Free / freemium"},
+      {k:"pricing",v:"paid",label:"Paid"},
+    ]},
+    {group:[
+      {k:"fav",label:"❤️ Favourites"},
+      {k:"new2026",label:"New in 2026"},
+    ]},
+    {group:[
+      {k:"region",v:"eu",label:"EU"},
+      {k:"region",v:"apac",label:"APAC"},
+    ]},
+    {group:[
+      {k:"status",v:"acquired",label:"Acquired / merged"},
+    ]},
+    {group:[
+      {k:"caution",v:"scraping",label:"⚠ Scraping"},
+      {k:"caution",v:"privacy-data",label:"⚠ Personal data"},
+      {k:"caution",v:"ai-screening",label:"⚠ AI screening"},
+    ]},
+  ];
+  const wrap = document.getElementById("chips");
+  let html = "";
+  defs.forEach(g=>{
+    html += '<span class="chip-group">';
+    g.group.forEach(c=>{
+      let on=false;
+      if(c.k==="pricing") on = state.pricing===c.v;
+      else if(c.k==="region") on = state.region===c.v;
+      else if(c.k==="status") on = state.status===c.v;
+      else if(c.k==="caution") on = state.caution===c.v;
+      else if(c.k==="fav") on = state.fav;
+      else if(c.k==="new2026") on = state.new2026;
+      html += '<span class="chip'+(on?' on':'')+'" data-k="'+c.k+'" data-v="'+(c.v||"")+'">'+c.label+'</span>';
+    });
+    html += '</span>';
+  });
+  html += '<button class="clearbtn" id="clearAll">clear all</button>';
+  wrap.innerHTML = html;
+}
+
+function toggleChip(k,v){
+  if(k==="pricing") state.pricing = state.pricing===v ? null : v;
+  else if(k==="region") state.region = state.region===v ? null : v;
+  else if(k==="status") state.status = state.status===v ? null : v;
+  else if(k==="caution") state.caution = state.caution===v ? null : v;
+  else if(k==="fav") state.fav = !state.fav;
+  else if(k==="new2026") state.new2026 = !state.new2026;
+}
+
+function renderTray(){
+  const tray = document.getElementById("tray");
+  const items = document.getElementById("trayItems");
+  if(!state.compare.size){ tray.classList.remove("show"); return; }
+  tray.classList.add("show");
+  items.innerHTML = [...state.compare].map(id=>{
+    const name = id.split("|")[0];
+    return '<span class="pill">'+name+'<button data-rm="'+encodeURIComponent(id)+'" aria-label="Remove">×</button></span>';
+  }).join("");
+}
+
+function openCompare(){
+  const ids = [...state.compare];
+  const recs = ids.map(id=>{
+    const [name,url] = id.split("|");
+    return DATA.find(r=>r.name===name && r.url===url);
+  }).filter(Boolean);
+  if(!recs.length) return;
+  const fields = [
+    ["Pricing", r=> r.pricing==="paid"?"Paid":"Free / freemium"],
+    ["Favourite", r=> r.favorite?"❤️ yes":"—"],
+    ["Status", r=> r.status],
+    ["Region", r=> (r.region||["global"]).join(", ")],
+    ["Caution", r=> (r.caution||[]).length ? r.caution.map(x=>CAUTION[x].label).join(", ") : "—"],
+    ["Section", r=> r.section + (r.subsection?(" · "+r.subsection):"")],
+    ["What it is", r=> r.desc || "—"],
+    ["Link", r=> '<a href="'+r.url+'" target="_blank" rel="noopener">'+r.url.replace(/^https?:\/\//,"")+'</a>'],
+  ];
+  let h = '<table class="cmp-t"><tr><th></th>'+recs.map(r=>'<th style="color:var(--text);font-weight:600;width:auto">'+r.name+'</th>').join("")+'</tr>';
+  fields.forEach(([label,fn])=>{
+    h += '<tr><th>'+label+'</th>'+recs.map(r=>'<td>'+fn(r)+'</td>').join("")+'</tr>';
+  });
+  h += '</table>';
+  document.getElementById("modalBody").innerHTML = h;
+  document.getElementById("modal").classList.add("show");
+}
+
+function wire(){
+  document.getElementById("q").addEventListener("input", e=>{
+    state.q = e.target.value; writeURL(); render();
+  });
+  document.getElementById("chips").addEventListener("click", e=>{
+    if(e.target.id==="clearAll"){
+      Object.assign(state,{pricing:null,fav:false,new2026:false,region:null,status:null,caution:null});
+      renderChips(); writeURL(); render(); return;
+    }
+    const chip = e.target.closest(".chip");
+    if(!chip) return;
+    toggleChip(chip.dataset.k, chip.dataset.v);
+    renderChips(); writeURL(); render();
+  });
+  document.getElementById("results").addEventListener("change", e=>{
+    if(!e.target.classList.contains("cmp")) return;
+    const id = decodeURIComponent(e.target.dataset.id);
+    if(e.target.checked){
+      if(state.compare.size>=4){ e.target.checked=false; alert("Compare up to 4 at a time."); return; }
+      state.compare.add(id);
+    } else state.compare.delete(id);
+    renderTray();
+  });
+  document.getElementById("trayItems").addEventListener("click", e=>{
+    if(e.target.dataset.rm){
+      state.compare.delete(decodeURIComponent(e.target.dataset.rm));
+      renderTray(); render();
+    }
+  });
+  document.getElementById("compareGo").addEventListener("click", openCompare);
+  document.getElementById("modalX").addEventListener("click", ()=>document.getElementById("modal").classList.remove("show"));
+  document.getElementById("modal").addEventListener("click", e=>{ if(e.target.id==="modal") e.currentTarget.classList.remove("show"); });
+}
+
+fetch("tools.json").then(r=>r.json()).then(d=>{
+  DATA = d;
+  document.getElementById("stat-count").innerHTML = "<b>"+d.length+"</b> entries";
+  document.getElementById("q").placeholder = "Search "+d.length+" tools and resources…";
+  readURL();
+  document.getElementById("q").value = state.q;
+  renderChips(); wire(); render(); renderTray();
+  if(location.hash){ const el=document.getElementById(location.hash.slice(1)); if(el) el.scrollIntoView(); }
+}).catch(()=>{
+  document.getElementById("results").innerHTML = '<div class="empty">Could not load tools.json. If viewing locally, run a local server (the file:// protocol blocks fetch).</div>';
+});
+</script>
+</body>
+</html>

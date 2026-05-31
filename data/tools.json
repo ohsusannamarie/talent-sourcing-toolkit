@@ -1,0 +1,6263 @@
+[
+  {
+    "name": "Gem Recruiting Benchmarks Report",
+    "url": "https://www.gem.com/resource/recruiting-benchmarks",
+    "section": "📊 Reports & Research",
+    "subsection": "Annual Benchmarks",
+    "desc": "The definitive annual benchmark. 165M applicants, 15M candidates, 1.2M hires analyzed. Source of hire breakdown, funnel passthrough rates, recruiter productivity. 2026 edition available.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": true,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "GRID Talent Trends Report (2026)",
+    "url": "https://www.bullhorn.com/grid/2026-industry-trends/report/",
+    "section": "📊 Reports & Research",
+    "subsection": "Annual Benchmarks",
+    "desc": "Annual staffing industry research. AI adoption, candidate behavior, firm performance benchmarks. Published by Bullhorn.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "HR.com Future of Talent Acquisition 2025",
+    "url": "https://hr.com/en/resources/research_library/future-of-talent-acquisition-2025",
+    "section": "📊 Reports & Research",
+    "subsection": "Annual Benchmarks",
+    "desc": "AI adoption in TA, hiring strategy transformation, operational priorities.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "iHire State of Online Recruiting",
+    "url": "https://ihire.com/resourcecenter",
+    "section": "📊 Reports & Research",
+    "subsection": "Annual Benchmarks",
+    "desc": "AI adoption in recruiting jumped 428% between 2023-2025. Annual benchmarks on recruiter behavior and candidate job search patterns.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "LinkedIn Future of Recruiting",
+    "url": "https://business.linkedin.com/talent-solutions/resources/future-of-recruiting",
+    "section": "📊 Reports & Research",
+    "subsection": "Annual Benchmarks",
+    "desc": "Annual report on recruiter trends, AI adoption, and skills-based hiring shifts.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "ManpowerGroup Talent Shortage Survey (2026)",
+    "url": "https://www.manpowergroup.com",
+    "section": "📊 Reports & Research",
+    "subsection": "Annual Benchmarks",
+    "desc": "72% of employers worldwide can't find the talent they need. 39,000+ employers across 41 countries. Essential demand signal for any sourcing strategy.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "SHRM Talent Trends Report",
+    "url": "https://www.shrm.org/topics-tools/research",
+    "section": "📊 Reports & Research",
+    "subsection": "Annual Benchmarks",
+    "desc": "Annual survey on recruiting challenges, AI adoption rates, and HR priorities.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Aptitude Research: Demystifying Talent Intelligence (2023)",
+    "url": "https://www.aptituderesearch.com",
+    "section": "📊 Reports & Research",
+    "subsection": "Sourcing & Talent Intelligence",
+    "desc": "72% of companies increasing TI investment. Skills-based approach, vendor landscape, business impact.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Aptitude Research: State of Sourcing (2023)",
+    "url": "https://www.aptituderesearch.com",
+    "section": "📊 Reports & Research",
+    "subsection": "Sourcing & Talent Intelligence",
+    "desc": "75% of companies are not satisfied with their sourcing approach. AI adoption, sourcing tech landscape, ROI measurement. By Madeline Laurano.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Aptitude Research: TA Systems Index (2021)",
+    "url": "https://www.aptituderesearch.com",
+    "section": "📊 Reports & Research",
+    "subsection": "Sourcing & Talent Intelligence",
+    "desc": "ATS vendor profiles, top 10 TA tech trends, key drivers. Full competitive landscape snapshot.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Aspect43 TA Market Landscape (2025)",
+    "url": "https://aspect43.com",
+    "section": "📊 Reports & Research",
+    "subsection": "Sourcing & Talent Intelligence",
+    "desc": "In-depth analysis of the evolving TA tech landscape. Vendor categories, adoption patterns.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "ATAP Sourcing Metrics Standard",
+    "url": "https://atapglobal.org",
+    "section": "📊 Reports & Research",
+    "subsection": "Sourcing & Talent Intelligence",
+    "desc": "ATAP's sourcing metrics framework. Sourcing workflow, KPI definitions, measurement standards.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "CEB: How to Measure Sourcing Effectiveness",
+    "url": "https://gartner.com",
+    "section": "📊 Reports & Research",
+    "subsection": "Sourcing & Talent Intelligence",
+    "desc": "Metrics for demonstrating business value and measuring individual and team performance. Available via Gartner for HR subscription.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Lightcast: Talent Intelligence (2024)",
+    "url": "https://lightcast.io/resources",
+    "section": "📊 Reports & Research",
+    "subsection": "Sourcing & Talent Intelligence",
+    "desc": "Internal + external data intersection. Skills taxonomy, job posting analytics, workforce planning framework.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Sourcing Metrics Whitepaper — Balazs Paroczay (2023)",
+    "url": "https://thesourcecode.academy",
+    "section": "📊 Reports & Research",
+    "subsection": "Sourcing & Talent Intelligence",
+    "desc": "Cracking the code on sourcing metrics. By Balazs Paroczay and Alexandra Gyetvai. Source Code Agency.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "2024: What Sets CandE Award Winners Apart",
+    "url": "https://survale.com/candes",
+    "section": "📊 Reports & Research",
+    "subsection": "Candidate Experience",
+    "desc": "Contentment down, resentment up. What separates award-winning candidate experience from the rest.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "CandE Benchmark Research (Survale)",
+    "url": "https://survale.com/candes",
+    "section": "📊 Reports & Research",
+    "subsection": "Candidate Experience",
+    "desc": "Annual candidate experience research. North America + Global editions. NPS, perception gaps, business impact.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "The 2024 Business Impact of Candidate Experience",
+    "url": "https://survale.com/candes",
+    "section": "📊 Reports & Research",
+    "subsection": "Candidate Experience",
+    "desc": "ROI of candidate experience investment. Post-pandemic volatility, relationship quality, global benchmarks.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Avature Drip Campaigns Playbook",
+    "url": "https://avature.net/resources",
+    "section": "📊 Reports & Research",
+    "subsection": "Guides & Playbooks",
+    "desc": "5 types of drip campaigns for recruiting. CRM nurture, passive candidate sequencing, buy-in framework.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Greenhouse: How to Build a Talent Operation",
+    "url": "https://www.greenhouse.com/guidance",
+    "section": "📊 Reports & Research",
+    "subsection": "Guides & Playbooks",
+    "desc": "Recruiting funnel, hiring manager partnership, structured process. The strategic recruiter playbook.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Karat 2025-2026 AI Workforce Transformation Report",
+    "url": "https://karat.com",
+    "section": "📊 Reports & Research",
+    "subsection": "Guides & Playbooks",
+    "desc": "Engineering interview trends. How AI is changing technical skill assessment. Data from 400+ engineering leaders.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "McKinsey: Beyond the Hype — AI in TMT (2024)",
+    "url": "https://mckinsey.com/industries/technology-media-and-telecommunications",
+    "section": "📊 Reports & Research",
+    "subsection": "Guides & Playbooks",
+    "desc": "AI and gen AI in tech, media, telecom. Essential context for tech talent sourcing.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Phenom Essential TA Toolkit",
+    "url": "https://phenom.com/resources",
+    "section": "📊 Reports & Research",
+    "subsection": "Guides & Playbooks",
+    "desc": "Candidate persona canvas, journey map, 7 email templates for recruiters.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "RAISE: Direct Sourcing Playbook",
+    "url": "https://raiserecruitinggroup.com",
+    "section": "📊 Reports & Research",
+    "subsection": "Guides & Playbooks",
+    "desc": "Employer brand-led sourcing, talent pool curation, self-sourcing vs managed direct sourcing.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Standard Recruiting Analytics Package",
+    "url": "https://ere.net",
+    "section": "📊 Reports & Research",
+    "subsection": "Guides & Playbooks",
+    "desc": "Five standard reports + three scorecards. 20-point report card framework for corporate recruiting programs.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Talent Leader's Guide to Reporting",
+    "url": "https://www.gem.com/resources",
+    "section": "📊 Reports & Research",
+    "subsection": "Guides & Playbooks",
+    "desc": "Mastering recruitment metrics. Analytics, reporting, TA team performance measurement.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "WorkTech Global Market Briefing (2025)",
+    "url": "https://worktechresearch.com",
+    "section": "📊 Reports & Research",
+    "subsection": "Guides & Playbooks",
+    "desc": "$3.55B in HR tech deals in H1 2025. Agentic AI, payroll, and recruitment platforms identified as hot investment categories. By George LaRoque.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Digitizing Talent",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Recruiting Fundamentals",
+    "desc": "Jessica Miller-Merrell — Creative strategies for the digital recruiting age. By the founder of Workology.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Evergreen Talent",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Recruiting Fundamentals",
+    "desc": "Roberta Chinsky Matuson — A guide to hiring and cultivating a sustainable workforce.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Evidence-Based Recruiting",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Recruiting Fundamentals",
+    "desc": "Atta Tarki — Systematic and repeatable hiring practices based on data, not gut instinct.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Fire Your Hiring Habits",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Recruiting Fundamentals",
+    "desc": "John Mitchell — Innovating the ways you hire, develop, and retain talent in the modern workforce.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Full Stack Recruiter: New Secrets Revealed",
+    "url": "https://fullstackrecruiter.net",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Recruiting Fundamentals",
+    "desc": "Jan Tegze — Sequel with hidden tactics for top recruiters and sourcers.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Full Stack Recruiter: The Modern Recruiter's Guide",
+    "url": "https://fullstackrecruiter.net",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Recruiting Fundamentals",
+    "desc": "Jan Tegze — The bible. Covers sourcing, boolean, tools, outreach, and the full recruiting lifecycle.",
+    "pricing": "paid",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Hiring for Attitude",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Recruiting Fundamentals",
+    "desc": "Mark Murphy — Recruiting for attitude and cultural fit alongside skills. Includes assessment methodology.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Hiring for Diversity",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Recruiting Fundamentals",
+    "desc": "Arthur Woods & Susanna Tharakan — Building inclusive and equitable hiring practices. Practical guide with tools.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Hiring Greatness",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Recruiting Fundamentals",
+    "desc": "David E. Perry & Mark J. Haluska — How to recruit your dream team and outcompete for top talent.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Recruiting Sucks...But It Doesn't Have To",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Recruiting Fundamentals",
+    "desc": "Steve Lowisz — Breaking through the myths holding recruiting back.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Talent Magnet",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Recruiting Fundamentals",
+    "desc": "Mark Miller — How to attract and keep the best people.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "The Holloway Guide to Technical Recruiting",
+    "url": "https://holloway.com/g/technical-recruiting-hiring/about",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Recruiting Fundamentals",
+    "desc": "Holloway — Free comprehensive guide to hiring engineers. Deeply practical.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "The Professional Recruiter's Handbook",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Recruiting Fundamentals",
+    "desc": "Jane Newell Brown & Ann Swain — Delivering excellence in recruitment practice. Classic UK-origin reference.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "The Robot-Proof Recruiter (2nd ed.)",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Recruiting Fundamentals",
+    "desc": "Katrina Collier — Human-centered recruiting in an AI world. Updated edition with new AI chapter.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "The Talent Fix Vol. 2",
+    "url": "https://shrm.org/store",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Recruiting Fundamentals",
+    "desc": "Tim Sackett (2024) — SHRM guide to recruiting great talent. TA tech stack, high-volume hiring, recruiter leadership.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Who Is the New How",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Recruiting Fundamentals",
+    "desc": "Justin Palmer & Jessica Schertz — Strategies to find, recruit, and create the best teams.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Who: The A Method for Hiring",
+    "url": "https://whothebook.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Recruiting Fundamentals",
+    "desc": "Geoff Smart & Randy Street — Scorecard-based hiring methodology. The most widely used structured interviewing framework.",
+    "pricing": "paid",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "300 Best Boolean Strings",
+    "url": "https://booleanbook.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Sourcing, Search & OSINT",
+    "desc": "Irina Shamaeva — Boolean string bible.",
+    "pricing": "paid",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "80 Sourcing Hacks",
+    "url": "https://therecruitmentnetwork.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Sourcing, Search & OSINT",
+    "desc": "The Recruitment Network — 80 practical sourcing hacks for recruiters. Quick-reference format.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "AI Talent Sourcing",
+    "url": "https://wizardsourcer.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Sourcing, Search & OSINT",
+    "desc": "Jonathan Kidder (2023) — 500+ ChatGPT prompts for recruiting tasks. Boolean, outreach, JDs, metrics, DEI.",
+    "pricing": "paid",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Guide to Recruiting Military Veterans",
+    "url": "https://wizardsourcer.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Sourcing, Search & OSINT",
+    "desc": "Jonathan Kidder — Boolean strings, communities, and tools to find and recruit veterans online.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "High Tech and High Touch: Headhunting",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Sourcing, Search & OSINT",
+    "desc": "Coverdill & Finlay — Technology and economic transformation in headhunting and executive search.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Open Source Intelligence Techniques",
+    "url": "https://inteltechniques.com/book1.html",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Sourcing, Search & OSINT",
+    "desc": "Michael Bazzell — The OSINT bible. Resources for searching and analyzing online information — updated annually.",
+    "pricing": "paid",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "People as Merchandise: Crack the Code to LinkedIn Recruitment",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Sourcing, Search & OSINT",
+    "desc": "Josef Kadlec — Deep LinkedIn sourcing methodology. By a SourceCon legend.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Power Searching the Internet: The Librarian's Quick Guide",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Sourcing, Search & OSINT",
+    "desc": "Nicole Hennig — Advanced web search techniques. Librarian methodology applied to sourcing.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Talk Tech to Me",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Sourcing, Search & OSINT",
+    "desc": "Brian Fink — The non-technical guide to technology recruiting. Understand what engineers actually build.",
+    "pricing": "paid",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "The Joy of Search",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Sourcing, Search & OSINT",
+    "desc": "Daniel M. Russell — Google insider's guide to going beyond the basics.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "The Sourcer's Playbook",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Sourcing, Search & OSINT",
+    "desc": "Geoff Peterson — Visual guide for finding talent online. Sourcing strategies, platforms, workflows.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Top Talent Sourcing Tools for Recruiters",
+    "url": "https://wizardsourcer.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Sourcing, Search & OSINT",
+    "desc": "Jonathan Kidder — Beginner's guide to 50+ sourcing tools. Platforms, extensions, boolean, OSINT — all covered.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "AIRS AdvancedLab 2.0 Certification Course",
+    "url": "https://airsdirectory.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "AIRS Certification Materials",
+    "desc": "AIRS — The classic AIRS certification course content. Boolean, X-ray, sourcing methodology fundamentals.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "AIRS: Discovering Candidate Contact Information",
+    "url": "https://airsdirectory.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "AIRS Certification Materials",
+    "desc": "AIRS — Finding contact info for candidates. AIRS methodology for contact research.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "AI iQ for a Human-Focused Future",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "AI & Talent Technology",
+    "desc": "Seth Dobrin — AI strategy, talent, and culture. Human-first AI implementation.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Artificial Intelligence for HR (2nd ed.)",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "AI & Talent Technology",
+    "desc": "Ben Eubanks — Use AI to support and develop a successful workforce. Updated edition.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Data-Driven HR (2nd ed.)",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "AI & Talent Technology",
+    "desc": "Bernard Marr — How to use AI, analytics, and data to drive HR performance.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Decoding Talent",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "AI & Talent Technology",
+    "desc": "Eric Sydell — How AI and big data can solve your company's people puzzle.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Life 3.0: Being Human in the Age of AI",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "AI & Talent Technology",
+    "desc": "Max Tegmark — The long view on AI's impact on society and work.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Talent Intelligence",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "AI & Talent Technology",
+    "desc": "Toby Culshaw — Using business and people data to drive organizational performance. By one of the field's defining practitioners.",
+    "pricing": "paid",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Weapons of Math Destruction",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "AI & Talent Technology",
+    "desc": "Cathy O'Neil — How big data increases inequality. Critical counterbalance when evaluating AI hiring tools.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Quantifiably Better: HR Analytics",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Metrics & Analytics",
+    "desc": "Steve Vanwieren — Delivering HR analytics from start to finish. Practical framework for TA measurement.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Superforecasting",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Metrics & Analytics",
+    "desc": "Tetlock & Gardner — The art and science of prediction. Useful for structured hiring decisions and pipeline forecasting.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "The HR Scorecard",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Metrics & Analytics",
+    "desc": "Becker, Huselid & Ulrich — Linking people, strategy, and performance. Classic HR measurement framework.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Agile People",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Talent Strategy & People Ops",
+    "desc": "Pia-Maria Thoren — Radical HR approach that leads to motivated employees.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Good to Great",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Talent Strategy & People Ops",
+    "desc": "Jim Collins — Why some companies make the leap and others don't. First Who, then What — talent is central.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "People Strategy",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Talent Strategy & People Ops",
+    "desc": "Jack Altman — How to invest in people and make culture your competitive advantage.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Scaling Up Excellence",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Talent Strategy & People Ops",
+    "desc": "Sutton & Rao — Getting to more without settling for less. How to scale people and culture.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Superbosses",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Talent Strategy & People Ops",
+    "desc": "Sydney Finkelstein — How exceptional leaders master the flow of talent in their organizations.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Talent Relationship Management",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Talent Strategy & People Ops",
+    "desc": "Armin Trost — Competitive recruiting strategies in times of talent shortage.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "The Death of Best Practices",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Talent Strategy & People Ops",
+    "desc": "Susan P. Chen — Reimagining HR through cultivating a growth mindset.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Victory Through Organization",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Talent Strategy & People Ops",
+    "desc": "Dave Ulrich et al. — Why the war for talent is failing and what to do about it.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Work Rules!",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Talent Strategy & People Ops",
+    "desc": "Laszlo Bock — Insights from inside Google. The people ops bible — how data-driven hiring actually works.",
+    "pricing": "paid",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Athena Rising: Why Men Should Mentor Women",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Diversity, Equity & Inclusion",
+    "desc": "Johnson & Smith — Practical guide to cross-gender mentorship in the workplace.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Good Guys: Better Allies for Women in the Workplace",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Diversity, Equity & Inclusion",
+    "desc": "Smith & Johnson — How men can be better allies for women in the workplace.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Indivisible",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Diversity, Equity & Inclusion",
+    "desc": "Denise Hamilton — How to forge our differences into a stronger future.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Rebel Ideas: The Power of Diverse Thinking",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Diversity, Equity & Inclusion",
+    "desc": "Matthew Syed — Cognitive diversity as competitive advantage. Evidence-based case for inclusive hiring.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "The Culture Map",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Diversity, Equity & Inclusion",
+    "desc": "Erin Meyer — Decoding how people think and work across cultures. Essential for global recruiting teams.",
+    "pricing": "paid",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "An Elegant Puzzle: Systems of Engineering Management",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Leadership & Negotiation",
+    "desc": "Will Larson — Great context for anyone sourcing engineering leaders.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Grit: The Power of Passion and Perseverance",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Leadership & Negotiation",
+    "desc": "Angela Duckworth — The science of success. Useful lens for evaluating candidates beyond credentials.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Never Split the Difference",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Leadership & Negotiation",
+    "desc": "Chris Voss — FBI negotiation tactics applied to everyday life. Invaluable for offer negotiations.",
+    "pricing": "paid",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "No Hard Feelings",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Leadership & Negotiation",
+    "desc": "Fosslien & West Duffy — The secret power of embracing emotions at work.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Radical Candor",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Leadership & Negotiation",
+    "desc": "Kim Scott — Be a kickass boss without losing your humanity. Manager/leader essential.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Reset: How to Change What's Not Working",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Leadership & Negotiation",
+    "desc": "Dan Heath — Framework for identifying and fixing broken systems. Useful for TA ops redesign.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "The Manager's Path",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Leadership & Negotiation",
+    "desc": "Camille Fournier — Guide for tech leaders navigating growth and change. Essential context for technical recruiting.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "What Got You Here Won't Get You There",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Leadership & Negotiation",
+    "desc": "Marshall Goldsmith — 20 workplace habits successful people need to break.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "A Hacker's Mind",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Tech Context for Recruiters",
+    "desc": "Bruce Schneier — How the powerful bend society's rules. Systems thinking for sourcers.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Bad Blood",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Tech Context for Recruiters",
+    "desc": "John Carreyrou — Theranos story. Cautionary tale about culture, hiring, and leadership failure.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Employer Branding for Competitive Advantage",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Tech Context for Recruiters",
+    "desc": "Rana, Agarwal & Sharma — Models and implementation strategies for employer branding programs.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Fabless Semiconductor Manufacturing",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Tech Context for Recruiters",
+    "desc": "Chinmay K. Maiti — In the era of IoT. Context for anyone sourcing chip design and semiconductor talent.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Palo Alto: A History of California, Capitalism, and the World",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Tech Context for Recruiters",
+    "desc": "Malcolm Harris — Critical history of Silicon Valley. Useful context for tech talent markets.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Talk Tech to Me",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Tech Context for Recruiters",
+    "desc": "Brian Fink — The non-technical guide to technology recruiting. Understand what engineers actually do.",
+    "pricing": "paid",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "The Innovators",
+    "url": "https://amazon.com",
+    "section": "📚 Books & Reading Library",
+    "subsection": "Tech Context for Recruiters",
+    "desc": "Walter Isaacson — How hackers, geniuses, and geeks created the digital revolution. Context for tech recruiting.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "AmazingHiring",
+    "url": "https://amazinghiring.com",
+    "section": "🤖 AI Sourcing Platforms",
+    "subsection": null,
+    "desc": "Chrome extension + platform for tech sourcing. Aggregates 50+ professional networks including GitHub, Stack Overflow, and patent databases.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Apollo.io",
+    "url": "https://apollo.io",
+    "section": "🤖 AI Sourcing Platforms",
+    "subsection": null,
+    "desc": "Sales intelligence + contact database. 270M+ contacts, sequences. Strong for sourcing outside LinkedIn.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Covey Scout",
+    "url": "https://getcovey.com",
+    "section": "🤖 AI Sourcing Platforms",
+    "subsection": null,
+    "desc": "AI sourcing assistant you train in plain language. Describe how you'd evaluate a candidate; Scout builds and runs the bot. Inbound screening reviews thousands of profiles to surface top 5% within an hour.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Eightfold AI",
+    "url": "https://eightfold.ai",
+    "section": "🤖 AI Sourcing Platforms",
+    "subsection": null,
+    "desc": "Talent intelligence platform. Skills-based matching, internal mobility, DEI sourcing signals. 2B+ talent profiles. Fortune 500 standard.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Fetcher",
+    "url": "https://fetcher.ai",
+    "section": "🤖 AI Sourcing Platforms",
+    "subsection": null,
+    "desc": "AI identifies and scores candidates; a human curation team validates the shortlist before delivery. Hybrid model for teams that want automation without fully unreviewed AI output.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "ai-screening"
+    ],
+    "review": null
+  },
+  {
+    "name": "Findem",
+    "url": "https://findem.ai",
+    "section": "🤖 AI Sourcing Platforms",
+    "subsection": null,
+    "desc": "Attribute-based talent search. Finds candidates keyword search misses. Strong diversity and career-signal enrichment.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Gem",
+    "url": "https://gem.com",
+    "section": "🤖 AI Sourcing Platforms",
+    "subsection": null,
+    "desc": "All-in-one recruiting platform: ATS + CRM + AI sourcing + analytics. AI sourcing agent searches 800M+ profiles with full candidate history context. Now publicly traded.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "GoPerfect",
+    "url": "https://goperfect.com",
+    "section": "🤖 AI Sourcing Platforms",
+    "subsection": null,
+    "desc": "Autonomous AI sourcing. Scans 800M+ profiles, scores candidates, delivers shortlists. 60+ ATS integrations via Merge. Good for recurring role types at scale.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "ai-screening"
+    ],
+    "review": null
+  },
+  {
+    "name": "HeroHunt.ai",
+    "url": "https://herohunt.ai",
+    "section": "🤖 AI Sourcing Platforms",
+    "subsection": null,
+    "desc": "AI recruiter that searches 1B+ profiles across LinkedIn, GitHub, and Stack Overflow, then runs autopilot outreach. RecruitGPT natural-language search + contextual screening.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "hireEZ",
+    "url": "https://hireez.com",
+    "section": "🤖 AI Sourcing Platforms",
+    "subsection": null,
+    "desc": "AI-powered outbound recruiting platform. Cross-platform candidate search, outreach sequences, Workday integration.",
+    "pricing": "paid",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Hireflow",
+    "url": "https://www.hireflow.com",
+    "section": "🤖 AI Sourcing Platforms",
+    "subsection": null,
+    "desc": "Chrome extension sourcing + email drip campaigns + ATS sync. Treats recruiting like outbound sales.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Juicebox (PeopleGPT)",
+    "url": "https://juicebox.ai",
+    "section": "🤖 AI Sourcing Platforms",
+    "subsection": null,
+    "desc": "Natural language candidate search. 800M+ profiles, relationship tracking, AI outreach, 50+ ATS integrations. Conversational search launched late 2025.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Kula",
+    "url": "https://kula.ai",
+    "section": "🤖 AI Sourcing Platforms",
+    "subsection": null,
+    "desc": "Outbound recruiting platform. Sequences, referral automation, ATS sync. Built specifically for sourcing-led teams.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "LinkedIn Hiring Assistant",
+    "url": "https://www.linkedin.com/business/talent/blog/talent-acquisition/linkedin-hiring-assistant",
+    "section": "🤖 AI Sourcing Platforms",
+    "subsection": null,
+    "desc": "LinkedIn's first agentic AI product (launched Oct 2024, globally available 2025). Takes intake, builds qualified pipelines, reviews applicants, and answers candidate questions. Learns recruiter preferences over time.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "LinkedIn Recruiter",
+    "url": "https://business.linkedin.com/talent-solutions/recruiter",
+    "section": "🤖 AI Sourcing Platforms",
+    "subsection": null,
+    "desc": "The industry standard. 1B+ profiles, InMail, advanced filters. Generative AI search enhancements launched 2025.",
+    "pricing": "paid",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Loxo",
+    "url": "https://loxo.co",
+    "section": "🤖 AI Sourcing Platforms",
+    "subsection": null,
+    "desc": "Talent intelligence OS. CRM + sourcing + outreach in one. Good for agency and in-house teams.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Mercor",
+    "url": "https://mercor.com",
+    "section": "🤖 AI Sourcing Platforms",
+    "subsection": null,
+    "desc": "AI-powered hiring marketplace. Candidates complete an AI interview once; high scorers receive automated Instant Offers across future roles. Strong for sourcing pre-vetted global technical talent.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Moonhub",
+    "url": "https://moonhub.ai",
+    "section": "🤖 AI Sourcing Platforms",
+    "subsection": null,
+    "desc": "AI sourcing via natural language. Surfaces candidates keyword search misses across public web data. Founded by Nancy Xu.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Pin",
+    "url": "https://pin.com",
+    "section": "🤖 AI Sourcing Platforms",
+    "subsection": null,
+    "desc": "Full-stack AI recruiting: sourcing, outreach, screening, scheduling in one. 850M+ profiles, 48% avg reply rate, transparent pricing from $100/mo with a free tier. Strong for teams that want to replace 5 tools with one.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "SeekOut",
+    "url": "https://seekout.com",
+    "section": "🤖 AI Sourcing Platforms",
+    "subsection": null,
+    "desc": "Enterprise talent intelligence. Strong diversity filters, GitHub/patent enrichment, large database. Unmatched for DEI and hard-to-fill technical roles.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Tezi (Max)",
+    "url": "https://tezi.ai",
+    "section": "🤖 AI Sourcing Platforms",
+    "subsection": null,
+    "desc": "Autonomous AI recruiter. \"Max\" runs end-to-end — sourcing, screening, and scheduling — as a hands-off agent. For teams that want to delegate full req ownership to AI.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Turing",
+    "url": "https://turing.com",
+    "section": "🤖 AI Sourcing Platforms",
+    "subsection": null,
+    "desc": "Pre-vetted remote engineers matched via AI. 3M+ global developers on talent cloud, AI vetting across 100+ tech skills. Two-week risk-free trial. Good for building remote engineering teams quickly.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "ZoomInfo Talent",
+    "url": "https://zoominfo.com",
+    "section": "🤖 AI Sourcing Platforms",
+    "subsection": null,
+    "desc": "B2B data + recruiting. Company org charts, direct dials, intent signals. Best combined with another sourcing platform.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "40 Custom Search Engines by Irina Shamaeva",
+    "url": "https://booleanstrings.com/all-the-40-forty-custom-search-engines",
+    "section": "🔍 Search & OSINT",
+    "subsection": "Boolean & Sourcing Tools",
+    "desc": "Curated custom search engines for sourcing.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Balazs Boolean Builder",
+    "url": "https://bit.ly/balazs_boolean",
+    "section": "🔍 Search & OSINT",
+    "subsection": "Boolean & Sourcing Tools",
+    "desc": "Boolean builder for free LinkedIn. By Balazs Paroczay.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "BooleanStrings Bank",
+    "url": "https://scoperac.com/booleanstringbank",
+    "section": "🔍 Search & OSINT",
+    "subsection": "Boolean & Sourcing Tools",
+    "desc": "String directory maintained by sourcing community.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "CSE Utopia",
+    "url": "https://start.me/p/EL84Km/cse-utopia",
+    "section": "🔍 Search & OSINT",
+    "subsection": "Boolean & Sourcing Tools",
+    "desc": "Amazing list of public CSEs by Dean Da Costa.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Free People Search Tool",
+    "url": "https://freepeoplesearchtool.com",
+    "section": "🔍 Search & OSINT",
+    "subsection": "Boolean & Sourcing Tools",
+    "desc": "Search candidates across LinkedIn, GitHub, Twitter, Dribbble.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Grep.app",
+    "url": "https://grep.app",
+    "section": "🔍 Search & OSINT",
+    "subsection": "Boolean & Sourcing Tools",
+    "desc": "Search across all public GitHub repos by code. Find developers by what they build.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "I Search From",
+    "url": "http://isearchfrom.com",
+    "section": "🔍 Search & OSINT",
+    "subsection": "Boolean & Sourcing Tools",
+    "desc": "Simulate Google search from a different location and device.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Intelligence X",
+    "url": "https://intelx.io",
+    "section": "🔍 Search & OSINT",
+    "subsection": "Boolean & Sourcing Tools",
+    "desc": "OSINT search engine. Indexes dark web, leaked data, public archives.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "RecruitEm",
+    "url": "https://recruitin.net",
+    "section": "🔍 Search & OSINT",
+    "subsection": "Boolean & Sourcing Tools",
+    "desc": "Free Google X-ray search generator. Build boolean strings for LinkedIn, X, GitHub, Stack Overflow, and XING — paste a JD and let AI build the search.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "SourceGraph",
+    "url": "https://sourcegraph.com/search",
+    "section": "🔍 Search & OSINT",
+    "subsection": "Boolean & Sourcing Tools",
+    "desc": "Universal code search across GitHub, GitLab, Bitbucket.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Sourcing Games",
+    "url": "http://sourcing.games",
+    "section": "🔍 Search & OSINT",
+    "subsection": "Boolean & Sourcing Tools",
+    "desc": "Gamified sourcing challenges to sharpen OSINT and boolean skills.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Wayback Machine",
+    "url": "https://archive.org/web",
+    "section": "🔍 Search & OSINT",
+    "subsection": "Boolean & Sourcing Tools",
+    "desc": "Find old versions of profiles, company pages, removed content.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Answer The Public",
+    "url": "https://answerthepublic.com",
+    "section": "🔍 Search & OSINT",
+    "subsection": "Social Media Search",
+    "desc": "Surface questions people search — useful for JD keywords and EVP research.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Followerwonk",
+    "url": "https://followerwonk.com",
+    "section": "🔍 Search & OSINT",
+    "subsection": "Social Media Search",
+    "desc": "Twitter/X bio search. Find people by keywords in bios.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Searchmybio",
+    "url": "https://www.searchmy.bio",
+    "section": "🔍 Search & OSINT",
+    "subsection": "Social Media Search",
+    "desc": "Search Instagram user bios.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Social Searcher",
+    "url": "https://social-searcher.com",
+    "section": "🔍 Search & OSINT",
+    "subsection": "Social Media Search",
+    "desc": "Free social media search across platforms.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "WhoPostedWhat",
+    "url": "https://whopostedwhat.com",
+    "section": "🔍 Search & OSINT",
+    "subsection": "Social Media Search",
+    "desc": "Date-based Facebook post search. By Henk van Ess.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "LinkedIn Sales Nav Email Lookup",
+    "url": "https://www.linkedin.com/sales/gmail/profile/viewByEmail/PUTEMAILHERE",
+    "section": "🔍 Search & OSINT",
+    "subsection": "GitHub & Developer Search",
+    "desc": "Replace the end of the URL with any email to find a connected LinkedIn profile.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "OctoHR",
+    "url": "https://chrome.google.com/webstore/detail/beiklbdjdmfkgchmiabjejdlpaoicbef",
+    "section": "🔍 Search & OSINT",
+    "subsection": "GitHub & Developer Search",
+    "desc": "GitHub Chrome extension showing recruiter-friendly profile details.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Profile Summary for GitHub",
+    "url": "https://profile-summary-for-github.com/search",
+    "section": "🔍 Search & OSINT",
+    "subsection": "GitHub & Developer Search",
+    "desc": "Visual summary of any GitHub profile.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Anymail Finder",
+    "url": "https://anymailfinder.com",
+    "section": "☎️ Contact Info & Enrichment",
+    "subsection": null,
+    "desc": "Verified email finder. Only charges for verified results.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "privacy-data"
+    ],
+    "review": null
+  },
+  {
+    "name": "Apollo.io",
+    "url": "https://apollo.io",
+    "section": "☎️ Contact Info & Enrichment",
+    "subsection": null,
+    "desc": "270M+ contacts, email sequences, enrichment.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "privacy-data"
+    ],
+    "review": null
+  },
+  {
+    "name": "Clay",
+    "url": "https://clay.com",
+    "section": "☎️ Contact Info & Enrichment",
+    "subsection": null,
+    "desc": "Data enrichment + workflow automation. Pulls from 50+ sources.",
+    "pricing": "paid",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "privacy-data"
+    ],
+    "review": null
+  },
+  {
+    "name": "Clearbit",
+    "url": "https://clearbit.com",
+    "section": "☎️ Contact Info & Enrichment",
+    "subsection": null,
+    "desc": "B2B data enrichment. Company + person data via API. Now part of HubSpot — free tier via HubSpot.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "acquired",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "privacy-data"
+    ],
+    "review": null
+  },
+  {
+    "name": "ContactOut",
+    "url": "https://contactout.com",
+    "section": "☎️ Contact Info & Enrichment",
+    "subsection": null,
+    "desc": "Email + phone finder. Strong LinkedIn coverage.",
+    "pricing": "paid",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "privacy-data"
+    ],
+    "review": null
+  },
+  {
+    "name": "Datagma",
+    "url": "https://datagma.com",
+    "section": "☎️ Contact Info & Enrichment",
+    "subsection": null,
+    "desc": "GDPR-compliant email + phone finder. Strong European coverage. Pay-per-result model.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "eu"
+    ],
+    "format": null,
+    "caution": [
+      "privacy-data"
+    ],
+    "review": null
+  },
+  {
+    "name": "Hunter.io",
+    "url": "https://hunter.io",
+    "section": "☎️ Contact Info & Enrichment",
+    "subsection": null,
+    "desc": "Domain-based email search and verification. Great free tier.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "privacy-data"
+    ],
+    "review": null
+  },
+  {
+    "name": "Kaspr",
+    "url": "https://kaspr.io",
+    "section": "☎️ Contact Info & Enrichment",
+    "subsection": null,
+    "desc": "LinkedIn email + phone finder. ~500M verified contacts, strong European coverage. Free plan with unlimited B2B email credits.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "eu"
+    ],
+    "format": null,
+    "caution": [
+      "privacy-data"
+    ],
+    "review": null
+  },
+  {
+    "name": "Lusha",
+    "url": "https://lusha.com",
+    "section": "☎️ Contact Info & Enrichment",
+    "subsection": null,
+    "desc": "B2B contact data. Good direct dial coverage.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "privacy-data"
+    ],
+    "review": null
+  },
+  {
+    "name": "Nymeria",
+    "url": "https://nymeria.io",
+    "section": "☎️ Contact Info & Enrichment",
+    "subsection": null,
+    "desc": "Email finder with LinkedIn integration.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "privacy-data"
+    ],
+    "review": null
+  },
+  {
+    "name": "RocketReach",
+    "url": "https://rocketreach.co",
+    "section": "☎️ Contact Info & Enrichment",
+    "subsection": null,
+    "desc": "Email and phone finder. Large database, API available.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "privacy-data"
+    ],
+    "review": null
+  },
+  {
+    "name": "SalesQL",
+    "url": "https://salesql.com",
+    "section": "☎️ Contact Info & Enrichment",
+    "subsection": null,
+    "desc": "LinkedIn email + phone finder extension.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "privacy-data"
+    ],
+    "review": null
+  },
+  {
+    "name": "Signal Hire",
+    "url": "https://signalhire.com",
+    "section": "☎️ Contact Info & Enrichment",
+    "subsection": null,
+    "desc": "Email + phone finder with Chrome extension.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "privacy-data"
+    ],
+    "review": null
+  },
+  {
+    "name": "Swordfish AI",
+    "url": "https://swordfish.ai",
+    "section": "☎️ Contact Info & Enrichment",
+    "subsection": null,
+    "desc": "Direct dials and mobile numbers. Strong phone coverage.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "privacy-data"
+    ],
+    "review": null
+  },
+  {
+    "name": "Wiza",
+    "url": "https://wiza.co",
+    "section": "☎️ Contact Info & Enrichment",
+    "subsection": null,
+    "desc": "Verified emails + phone numbers from LinkedIn and Sales Navigator. Bulk export, real-time verification, job-change alerts. Free tier available.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "privacy-data"
+    ],
+    "review": null
+  },
+  {
+    "name": "Boomerang for Gmail",
+    "url": "https://boomeranggmail.com",
+    "section": "📫 Outreach & Email",
+    "subsection": "Sequencing & Automation",
+    "desc": "Email scheduling and reminders.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Chatkick (formerly Trinsly)",
+    "url": "https://chatkick.com",
+    "section": "📫 Outreach & Email",
+    "subsection": "Sequencing & Automation",
+    "desc": "Talent CRM + personalized email automation for recruiters. Trinsly rebranded to Chatkick.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "acquired",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Dripify",
+    "url": "https://dripify.com",
+    "section": "📫 Outreach & Email",
+    "subsection": "Sequencing & Automation",
+    "desc": "LinkedIn automation for sequences and drip campaigns.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "scraping"
+    ],
+    "review": null
+  },
+  {
+    "name": "Expandi",
+    "url": "https://expandi.io",
+    "section": "📫 Outreach & Email",
+    "subsection": "Sequencing & Automation",
+    "desc": "Safe LinkedIn automation. Mimics human behavior.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "scraping"
+    ],
+    "review": null
+  },
+  {
+    "name": "GMass",
+    "url": "https://gmass.co",
+    "section": "📫 Outreach & Email",
+    "subsection": "Sequencing & Automation",
+    "desc": "Mail-merge and cold email sequences right inside Gmail. Generous free tier for solo recruiters.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Instantly.ai",
+    "url": "https://instantly.ai",
+    "section": "📫 Outreach & Email",
+    "subsection": "Sequencing & Automation",
+    "desc": "Cold email at scale. Unlimited sending accounts, warm-up built in. Fast becoming the default for high-volume outreach.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Lemlist",
+    "url": "https://lemlist.com",
+    "section": "📫 Outreach & Email",
+    "subsection": "Sequencing & Automation",
+    "desc": "Personalized cold email with images and video. High deliverability focus.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "MixMax",
+    "url": "https://mixmax.com",
+    "section": "📫 Outreach & Email",
+    "subsection": "Sequencing & Automation",
+    "desc": "Gmail enhancement. Sequences, scheduling, tracking, templates.",
+    "pricing": "paid",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Smartlead",
+    "url": "https://smartlead.ai",
+    "section": "📫 Outreach & Email",
+    "subsection": "Sequencing & Automation",
+    "desc": "Multi-channel cold outreach (email + LinkedIn). Strong deliverability infrastructure. Popular for sourcing-as-sales workflows.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "SourceWhale",
+    "url": "https://sourcewhale.com",
+    "section": "📫 Outreach & Email",
+    "subsection": "Sequencing & Automation",
+    "desc": "Multi-step outreach across email, LinkedIn, SMS, WhatsApp, and phone. AI drafting, pipeline insights, 70+ ATS/CRM integrations. Built for recruiting teams.",
+    "pricing": "paid",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Waalaxy",
+    "url": "https://waalaxy.com",
+    "section": "📫 Outreach & Email",
+    "subsection": "Sequencing & Automation",
+    "desc": "LinkedIn + email outreach sequences. Great for sourcers.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "scraping"
+    ],
+    "review": null
+  },
+  {
+    "name": "Deepl Translator",
+    "url": "https://deepl.com/translator",
+    "section": "📫 Outreach & Email",
+    "subsection": "Email Utilities",
+    "desc": "Best-in-class AI translation. Better than Google Translate.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Email Subject Line Tester",
+    "url": "https://sendcheckit.com/email-subject-line-tester",
+    "section": "📫 Outreach & Email",
+    "subsection": "Email Utilities",
+    "desc": "Score and improve your subject lines.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Grammarly",
+    "url": "https://grammarly.com",
+    "section": "📫 Outreach & Email",
+    "subsection": "Email Utilities",
+    "desc": "Grammar, tone, and clarity check. Essential writing tool.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Hemingway Editor",
+    "url": "http://hemingwayapp.com",
+    "section": "📫 Outreach & Email",
+    "subsection": "Email Utilities",
+    "desc": "Readability check. Paste any outreach message here first.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Mailinator",
+    "url": "https://mailinator.com",
+    "section": "📫 Outreach & Email",
+    "subsection": "Email Utilities",
+    "desc": "Disposable email inboxes for one-time signups.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Temp-Mail",
+    "url": "https://temp-mail.org",
+    "section": "📫 Outreach & Email",
+    "subsection": "Email Utilities",
+    "desc": "Free throwaway email.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Draup",
+    "url": "https://draup.com",
+    "section": "📈 Talent Intelligence",
+    "subsection": null,
+    "desc": "AI-powered talent intelligence. Market mapping, skills data, competitor analysis, and location/workforce planning. Strong for strategic sourcing and workforce design.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Google Trends",
+    "url": "https://trends.google.com",
+    "section": "📈 Talent Intelligence",
+    "subsection": null,
+    "desc": "Search volume trends. Useful for role and skills demand signals.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Horsefly Analytics",
+    "url": "https://horseflyanalytics.com",
+    "section": "📈 Talent Intelligence",
+    "subsection": null,
+    "desc": "Labor market analytics. Real-time, localized supply/demand and cost insights for talent acquisition and location strategy.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Indeed Hiring Lab",
+    "url": "https://www.hiringlab.org",
+    "section": "📈 Talent Intelligence",
+    "subsection": null,
+    "desc": "Indeed's economic research arm. Labor market data, job posting trends, and wage analysis. (Replaced Indeed's retired Job Trends tool.)",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Layoffs.fyi",
+    "url": "https://layoffs.fyi",
+    "section": "📈 Talent Intelligence",
+    "subsection": null,
+    "desc": "Track tech layoffs in real time. Golden window sourcing.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Levels.fyi",
+    "url": "https://levels.fyi",
+    "section": "📈 Talent Intelligence",
+    "subsection": null,
+    "desc": "Crowdsourced compensation at tech companies. Extremely accurate.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Lightcast (EMSI Burning Glass)",
+    "url": "https://lightcast.io",
+    "section": "📈 Talent Intelligence",
+    "subsection": null,
+    "desc": "Labor market data. Job postings, skills demand, compensation.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "LinkedIn Talent Insights",
+    "url": "https://business.linkedin.com/talent-solutions/talent-insights",
+    "section": "📈 Talent Intelligence",
+    "subsection": null,
+    "desc": "Workforce analytics. Pool sizing, competitor mapping, skills trends.",
+    "pricing": "paid",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Pave",
+    "url": "https://pave.com",
+    "section": "📈 Talent Intelligence",
+    "subsection": null,
+    "desc": "Real-time compensation benchmarking.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "People Data Labs",
+    "url": "https://www.peopledatalabs.com",
+    "section": "📈 Talent Intelligence",
+    "subsection": null,
+    "desc": "Person and company data via API. Raw building block for custom talent-mapping and enrichment workflows.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Progression.fyi",
+    "url": "https://progression.fyi",
+    "section": "📈 Talent Intelligence",
+    "subsection": null,
+    "desc": "Open source career frameworks from top tech companies.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Ravio",
+    "url": "https://ravio.com",
+    "section": "📈 Talent Intelligence",
+    "subsection": null,
+    "desc": "European compensation data. Free if you contribute your data.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "eu"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Revelio Labs",
+    "url": "https://reveliolabs.com",
+    "section": "📈 Talent Intelligence",
+    "subsection": null,
+    "desc": "Workforce intelligence from public employment data.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "TalentNeuron",
+    "url": "https://talentneuron.com",
+    "section": "📈 Talent Intelligence",
+    "subsection": null,
+    "desc": "Global talent intelligence. Real-time labor market data.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "TechPays",
+    "url": "https://techpays.com",
+    "section": "📈 Talent Intelligence",
+    "subsection": null,
+    "desc": "Open source European tech compensation.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "eu"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "U.S. Semiconductor Ecosystem Map (SIA)",
+    "url": "https://semiconductors.org/ecosystem",
+    "section": "📈 Talent Intelligence",
+    "subsection": null,
+    "desc": "R&D, chip design, fabrication, and supplier locations across the US. Essential for semiconductor talent sourcing.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Ashby",
+    "url": "https://ashbyhq.com",
+    "section": "🗂️ ATS, CRM & Recruiting Ops",
+    "subsection": "ATS",
+    "desc": "Modern ATS with strong analytics built in. One of the fastest-growing tools in TA ops — particularly popular with tech companies.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Greenhouse",
+    "url": "https://www.greenhouse.com",
+    "section": "🗂️ ATS, CRM & Recruiting Ops",
+    "subsection": "ATS",
+    "desc": "Structured hiring + ATS. Strong integrations ecosystem.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Lever",
+    "url": "https://lever.co",
+    "section": "🗂️ ATS, CRM & Recruiting Ops",
+    "subsection": "ATS",
+    "desc": "ATS + CRM combined. Nurture + pipeline management. Part of Employ alongside JazzHR, Jobvite, and Pillar.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Manatal",
+    "url": "https://manatal.com",
+    "section": "🗂️ ATS, CRM & Recruiting Ops",
+    "subsection": "ATS",
+    "desc": "ATS + AI recommendations from $15/user/month. Good entry-level option for smaller or agency teams.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Pinpoint",
+    "url": "https://pinpointhq.com",
+    "section": "🗂️ ATS, CRM & Recruiting Ops",
+    "subsection": "ATS",
+    "desc": "ATS + talent CRM with strong candidate experience and reporting. Popular with mid-market in-house teams.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Rippling",
+    "url": "https://rippling.com",
+    "section": "🗂️ ATS, CRM & Recruiting Ops",
+    "subsection": "ATS",
+    "desc": "HR + ATS + payroll + IT in one platform. Good for teams consolidating their HR stack.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "SmartRecruiters (now SAP)",
+    "url": "https://smartrecruiters.com",
+    "section": "🗂️ ATS, CRM & Recruiting Ops",
+    "subsection": "ATS",
+    "desc": "AI-enabled ATS acquired by SAP (September 2025). High-volume recruiting, strong automation, good candidate experience. 4,000+ enterprise orgs. Will replace SuccessFactors Recruiting over 3-5 years.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "acquired",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Teamtailor",
+    "url": "https://teamtailor.com",
+    "section": "🗂️ ATS, CRM & Recruiting Ops",
+    "subsection": "ATS",
+    "desc": "ATS with strong employer branding and career site tools. Popular in EMEA.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "eu"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Workable",
+    "url": "https://workable.com",
+    "section": "🗂️ ATS, CRM & Recruiting Ops",
+    "subsection": "ATS",
+    "desc": "SMB-friendly ATS with built-in sourcing, AI recommendations, and video interviews.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Workday Recruiting",
+    "url": "https://workday.com",
+    "section": "🗂️ ATS, CRM & Recruiting Ops",
+    "subsection": "ATS",
+    "desc": "Enterprise ATS. Widely used at large orgs.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Avature",
+    "url": "https://avature.net",
+    "section": "🗂️ ATS, CRM & Recruiting Ops",
+    "subsection": "CRM & Talent Marketing",
+    "desc": "Enterprise CRM with heavy customization. Fortune 500 standard.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Beamery",
+    "url": "https://beamery.com",
+    "section": "🗂️ ATS, CRM & Recruiting Ops",
+    "subsection": "CRM & Talent Marketing",
+    "desc": "Talent CRM + lifecycle platform. AI-personalized outreach, career site, interview self-scheduling. Nurture passive pipelines at scale.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Gem",
+    "url": "https://gem.com",
+    "section": "🗂️ ATS, CRM & Recruiting Ops",
+    "subsection": "CRM & Talent Marketing",
+    "desc": "All-in-one ATS + CRM + sourcing. Strong analytics. Now public.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Phenom",
+    "url": "https://phenom.com",
+    "section": "🗂️ ATS, CRM & Recruiting Ops",
+    "subsection": "CRM & Talent Marketing",
+    "desc": "Talent experience platform. CRM, career site, internal mobility, AI throughout.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Adaface JD Generator",
+    "url": "https://www.adaface.com/job-description-generator",
+    "section": "🙋 Job Descriptions & Inclusive Hiring",
+    "subsection": null,
+    "desc": "Free templates to easily create job descriptions for popular tech roles.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "BeApplied",
+    "url": "https://textanalysis.beapplied.com",
+    "section": "🙋 Job Descriptions & Inclusive Hiring",
+    "subsection": null,
+    "desc": "JD text analysis for bias.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Datapeople",
+    "url": "https://datapeople.io",
+    "section": "🙋 Job Descriptions & Inclusive Hiring",
+    "subsection": null,
+    "desc": "Job description analytics and inclusive-writing guidance. Data-driven recommendations to reduce bias and widen candidate pools.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Gender Decoder",
+    "url": "http://gender-decoder.katmatfield.com",
+    "section": "🙋 Job Descriptions & Inclusive Hiring",
+    "subsection": null,
+    "desc": "Check JDs for gendered language.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Joblint",
+    "url": "http://joblint.org",
+    "section": "🙋 Job Descriptions & Inclusive Hiring",
+    "subsection": null,
+    "desc": "Flag toxic, unrealistic, or discriminatory language in JDs.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Jobpage Grader",
+    "url": "https://jobpagegrader.com",
+    "section": "🙋 Job Descriptions & Inclusive Hiring",
+    "subsection": null,
+    "desc": "Grade your job pages for candidate experience.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Ongig",
+    "url": "https://www.ongig.com",
+    "section": "🙋 Job Descriptions & Inclusive Hiring",
+    "subsection": null,
+    "desc": "Job description software with a 10,000+ biased-word database, inclusive replacements, readability tips, and JD templates.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Textio",
+    "url": "https://textio.com",
+    "section": "🙋 Job Descriptions & Inclusive Hiring",
+    "subsection": null,
+    "desc": "Augmented writing for JDs. Predicts impact of language on candidate pools.",
+    "pricing": "paid",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "HeyMilo",
+    "url": "https://www.heymilo.ai",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "AI Screening & Conversational Recruiting",
+    "desc": "AI voice screening. Two-way conversational voice interviews that screen and rank candidates automatically. Good for phone-screen-heavy pipelines.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "ai-screening"
+    ],
+    "review": null
+  },
+  {
+    "name": "HireVue",
+    "url": "https://hirevue.com",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "AI Screening & Conversational Recruiting",
+    "desc": "Video interviews + AI assessments. Enterprise scale. Masks PII during screening to reduce bias.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "ai-screening"
+    ],
+    "review": null
+  },
+  {
+    "name": "Humanly",
+    "url": "https://humanly.io",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "AI Screening & Conversational Recruiting",
+    "desc": "Conversational AI recruiter + talent CRM. Automates screening, scheduling, and structured interviews. Hires up to 8x faster for high-volume pipelines. Strong consent and data governance framework.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "ai-screening"
+    ],
+    "review": null
+  },
+  {
+    "name": "Paradox (Olivia)",
+    "url": "https://paradox.ai",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "AI Screening & Conversational Recruiting",
+    "desc": "Conversational AI for high-volume hiring. Screens, schedules, and engages candidates via text/SMS/WhatsApp 24/7. Acquired by Workday (September 2025). Best for retail, hospitality, and logistics at scale.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "acquired",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "ai-screening"
+    ],
+    "review": null
+  },
+  {
+    "name": "Sapia.ai",
+    "url": "https://sapia.ai",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "AI Screening & Conversational Recruiting",
+    "desc": "Text-based AI interviewing. Structured chat interviews that screen and rank candidates fairly at scale. Good for high-volume without the chatbot feel.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "ai-screening"
+    ],
+    "review": null
+  },
+  {
+    "name": "BrightHire",
+    "url": "https://brighthire.com",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Interview Intelligence",
+    "desc": "Records, transcribes, and highlights every interview. Structured guides, shared feedback, AI screening interviews. Reduces reliance on interviewer memory. Integrates with major ATS and video platforms.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Grain",
+    "url": "https://grain.com",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Interview Intelligence",
+    "desc": "Record, transcribe, and clip meeting highlights. Good for sharing interview moments with hiring managers.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Metaview",
+    "url": "https://metaview.ai",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Interview Intelligence",
+    "desc": "AI interview notes. Auto-generates structured summaries in the background — no behavior change needed.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Otter.ai",
+    "url": "https://otter.ai",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Interview Intelligence",
+    "desc": "Meeting transcription and notes. Good free entry point for interview notetaking.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Pillar → Employ",
+    "url": "https://www.employinc.com",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Interview Intelligence",
+    "desc": "Interview intelligence with scorecard completion, interviewer coaching, and first-year attrition tracking. Acquired by Employ in 2025; now integrated into Lever/Jobvite/JazzHR ecosystem.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "acquired",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Screenloop",
+    "url": "https://screenloop.com",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Interview Intelligence",
+    "desc": "AI-native hiring intelligence platform. Interview capture, structured feedback, bias reduction, recruiter analytics, and funnel optimization in one.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "BarRaiser",
+    "url": "https://barraiser.com",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Technical Interviews",
+    "desc": "AI-powered interview intelligence + structured interview training. Focuses on consistency and bias reduction across hiring panels.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "CodeInterview",
+    "url": "https://codeinterview.io",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Technical Interviews",
+    "desc": "Browser-based live coding interviews. Lightweight collaborative IDE for take-homes and pair-programming screens.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "CoderPad",
+    "url": "https://coderpad.io",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Technical Interviews",
+    "desc": "Real-time collaborative coding interviews in 40+ languages. The go-to live-coding tool for engineering panels.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "CodeSignal",
+    "url": "https://codesignal.com",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Technical Interviews",
+    "desc": "Skills-based technical assessments + live interviewing. Standardized scoring, strong anti-cheating, popular for engineering at scale.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Codility",
+    "url": "https://codility.com",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Technical Interviews",
+    "desc": "Technical coding assessments with detailed skill reporting.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "HackerRank",
+    "url": "https://hackerrank.com",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Technical Interviews",
+    "desc": "Coding challenges and assessments. Free tier available.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Karat",
+    "url": "https://karat.com",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Technical Interviews",
+    "desc": "Human-led, AI-enabled technical interviews as a service. Standardizes engineering interviews. \"NextGen Interviews\" launched December 2025. Used by Meta, Lyft, and others to reduce interviewer burden.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Calendly",
+    "url": "https://calendly.com",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Interview Scheduling",
+    "desc": "Scheduling tool. Share link, candidates pick a time. Free tier works for most individual recruiters.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "GoodTime",
+    "url": "https://goodtime.io",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Interview Scheduling",
+    "desc": "AI-powered interview scheduling. Automates up to 90% of coordination. Panel scheduling, interviewer load balancing, self-booking, reminders via email/SMS/WhatsApp.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Loom",
+    "url": "https://loom.com",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Interview Scheduling",
+    "desc": "Screen + webcam recording. Async video comms and candidate outreach.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "ModernLoop",
+    "url": "https://www.modernloop.io",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Interview Scheduling",
+    "desc": "Interview scheduling and coordination for complex panels. Load balancing, interviewer training tracking, and ATS sync.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Prelude (Calendly)",
+    "url": "https://www.prelude.co",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Interview Scheduling",
+    "desc": "Recruiting-specific scheduling: round-robin assignment, panel coordination, and native Greenhouse connectivity. Acquired by Calendly.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "acquired",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Spark Hire",
+    "url": "https://sparkhire.com",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Interview Scheduling",
+    "desc": "One-way and live video interviews.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Vidyard",
+    "url": "https://vidyard.com",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Interview Scheduling",
+    "desc": "Personalized video for outreach and screening.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Awesome Interview Questions (GitHub)",
+    "url": "https://github.com/DopplerHQ/awesome-interview-questions",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Assessments & Reference",
+    "desc": "Repo with interview guides for devs.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "SkillSurvey (now iCIMS)",
+    "url": "https://www.icims.com/products/skillsurvey/",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Assessments & Reference",
+    "desc": "Automated reference checks with benchmarking. Acquired by iCIMS.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "acquired",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Workable Interview Question Templates",
+    "url": "https://resources.workable.com/interview-questions",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Assessments & Reference",
+    "desc": "500+ interview question templates by role.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Xref Template Builder",
+    "url": "https://template-builder.xref.com",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Assessments & Reference",
+    "desc": "Free reference check question template builder.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Zinc Reference Generator",
+    "url": "https://zincwork.com",
+    "section": "🗣 Screening & Interviews",
+    "subsection": "Assessments & Reference",
+    "desc": "Free culture-fit reference question generator.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Apify",
+    "url": "https://apify.com",
+    "section": "🐿 Scraping & Automation",
+    "subsection": null,
+    "desc": "Web scraping + automation platform. 1500+ pre-built actors.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "scraping"
+    ],
+    "review": null
+  },
+  {
+    "name": "Bardeen",
+    "url": "https://bardeen.ai",
+    "section": "🐿 Scraping & Automation",
+    "subsection": null,
+    "desc": "Browser automation for repetitive sourcing tasks.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "scraping"
+    ],
+    "review": null
+  },
+  {
+    "name": "Browse AI",
+    "url": "https://www.browse.ai",
+    "section": "🐿 Scraping & Automation",
+    "subsection": null,
+    "desc": "No-code scraper that extracts structured data from web pages on a schedule. Good for lightweight monitoring and list extraction into sheets.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "scraping"
+    ],
+    "review": null
+  },
+  {
+    "name": "Captain Data",
+    "url": "https://www.captaindata.com",
+    "section": "🐿 Scraping & Automation",
+    "subsection": null,
+    "desc": "No-code data extraction + enrichment across LinkedIn and 100+ sources. Chain scraping, enrichment, and CRM push into automated workflows.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "scraping"
+    ],
+    "review": null
+  },
+  {
+    "name": "Clay",
+    "url": "https://clay.com",
+    "section": "🐿 Scraping & Automation",
+    "subsection": null,
+    "desc": "Data enrichment + workflow automation hub. Pulls from 50+ sources. Best in class.",
+    "pricing": "paid",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "scraping"
+    ],
+    "review": null
+  },
+  {
+    "name": "Instant Data Scraper",
+    "url": "https://chrome.google.com/webstore/detail/ofaokhiedipichpaobibbnahnkdoiiah",
+    "section": "🐿 Scraping & Automation",
+    "subsection": null,
+    "desc": "Chrome extension to scrape tables from any webpage.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "scraping"
+    ],
+    "review": null
+  },
+  {
+    "name": "Make",
+    "url": "https://make.com",
+    "section": "🐿 Scraping & Automation",
+    "subsection": null,
+    "desc": "Visual workflow automation. Great for recruiting ops.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "scraping"
+    ],
+    "review": null
+  },
+  {
+    "name": "n8n",
+    "url": "https://n8n.io",
+    "section": "🐿 Scraping & Automation",
+    "subsection": null,
+    "desc": "Open-source workflow automation. Self-hostable.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "scraping"
+    ],
+    "review": null
+  },
+  {
+    "name": "Phantombuster",
+    "url": "https://phantombuster.com",
+    "section": "🐿 Scraping & Automation",
+    "subsection": null,
+    "desc": "Automation agents for LinkedIn, Twitter, Instagram.",
+    "pricing": "paid",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "scraping"
+    ],
+    "review": null
+  },
+  {
+    "name": "Scrapy",
+    "url": "https://scrapy.org",
+    "section": "🐿 Scraping & Automation",
+    "subsection": null,
+    "desc": "Python web scraping framework.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "scraping"
+    ],
+    "review": null
+  },
+  {
+    "name": "Zapier",
+    "url": "https://zapier.com",
+    "section": "🐿 Scraping & Automation",
+    "subsection": null,
+    "desc": "App automation. Connect ATS, Slack, email, sheets.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [
+      "scraping"
+    ],
+    "review": null
+  },
+  {
+    "name": "ChatGPT",
+    "url": "https://chatgpt.com",
+    "section": "✨ AI Writing & Productivity",
+    "subsection": null,
+    "desc": "General purpose AI assistant. Great for drafts, ideation, and quick research.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Claude (Anthropic)",
+    "url": "https://claude.ai",
+    "section": "✨ AI Writing & Productivity",
+    "subsection": null,
+    "desc": "Best for long-form drafting, analysis, strategy docs, playbooks, and complex prompting. Handles nuanced recruiting tasks well.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Copy.ai",
+    "url": "https://copy.ai",
+    "section": "✨ AI Writing & Productivity",
+    "subsection": null,
+    "desc": "AI copywriting for JDs, outreach, and employer brand content.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Gamma.app",
+    "url": "https://gamma.app",
+    "section": "✨ AI Writing & Productivity",
+    "subsection": null,
+    "desc": "AI-generated presentations and docs. Fast stakeholder decks.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Gemini (Google)",
+    "url": "https://gemini.google.com",
+    "section": "✨ AI Writing & Productivity",
+    "subsection": null,
+    "desc": "Google's AI assistant. Strong for research, long context, and tight Google Workspace integration.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Glasp",
+    "url": "https://glasp.co",
+    "section": "✨ AI Writing & Productivity",
+    "subsection": null,
+    "desc": "Free web + PDF highlighter and summarizer. Good for building sourcing research workflows.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "NotebookLM (Google)",
+    "url": "https://notebooklm.google.com",
+    "section": "✨ AI Writing & Productivity",
+    "subsection": null,
+    "desc": "Upload sources and get grounded, cited answers + audio overviews. Great for digesting market reports and research.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Notion AI",
+    "url": "https://notion.so",
+    "section": "✨ AI Writing & Productivity",
+    "subsection": null,
+    "desc": "Writing assistant inside Notion. Good for playbooks and team docs.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Perplexity AI",
+    "url": "https://perplexity.ai",
+    "section": "✨ AI Writing & Productivity",
+    "subsection": null,
+    "desc": "AI search with citations. Great for real-time market intel and sourcing research.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Textio Loop",
+    "url": "https://textio.com",
+    "section": "✨ AI Writing & Productivity",
+    "subsection": null,
+    "desc": "On-brand job postings and candidate outreach copy. Predicts language impact on candidate pools.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Big List of Places to Post Jobs (Global)",
+    "url": "https://recruitingbrainfood.com/big-list-of-places-to-post-jobs-globally",
+    "section": "📣 Employer Brand & Job Marketing",
+    "subsection": null,
+    "desc": "Comprehensive global job posting list by Hung Lee.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Canva",
+    "url": "https://canva.com",
+    "section": "📣 Employer Brand & Job Marketing",
+    "subsection": null,
+    "desc": "Design tool. Fastest way to create employer brand assets.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Doodle Ipsum",
+    "url": "https://doodleipsum.com",
+    "section": "📣 Employer Brand & Job Marketing",
+    "subsection": null,
+    "desc": "Free custom illustrations for design work.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Flaticon",
+    "url": "https://flaticon.com",
+    "section": "📣 Employer Brand & Job Marketing",
+    "subsection": null,
+    "desc": "Free vector icons.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Jobboard Finder",
+    "url": "https://jobboardfinder.com/search",
+    "section": "📣 Employer Brand & Job Marketing",
+    "subsection": null,
+    "desc": "A search engine to find niche job boards globally.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Lempod",
+    "url": "https://lempod.com",
+    "section": "📣 Employer Brand & Job Marketing",
+    "subsection": null,
+    "desc": "Growth hacking tool to increase traction on LinkedIn posts.",
+    "pricing": "paid",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Pexels",
+    "url": "https://pexels.com",
+    "section": "📣 Employer Brand & Job Marketing",
+    "subsection": null,
+    "desc": "Free stock photos.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Remove.bg",
+    "url": "https://remove.bg",
+    "section": "📣 Employer Brand & Job Marketing",
+    "subsection": null,
+    "desc": "AI background remover for photos.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Simple Icons",
+    "url": "https://simpleicons.org",
+    "section": "📣 Employer Brand & Job Marketing",
+    "subsection": null,
+    "desc": "Free SVG brand icons — useful for tech stack visuals in JDs.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Undraw",
+    "url": "https://undraw.co",
+    "section": "📣 Employer Brand & Job Marketing",
+    "subsection": null,
+    "desc": "Free open-source illustrations. Use in JDs, career sites.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Unsplash",
+    "url": "https://unsplash.com",
+    "section": "📣 Employer Brand & Job Marketing",
+    "subsection": null,
+    "desc": "Free stock photos.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Bulk URL Opener",
+    "url": "https://chrome.google.com/webstore/detail/hgenngnjgfkdggambccohomebieocekm",
+    "section": "🛠️ Productivity & Browser Tools",
+    "subsection": "Must-Have Extensions",
+    "desc": "Open multiple URLs in bulk.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Extensity",
+    "url": "https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg",
+    "section": "🛠️ Productivity & Browser Tools",
+    "subsection": "Must-Have Extensions",
+    "desc": "Quickly enable/disable Chrome extensions. Essential for managing a large stack.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Highlight This",
+    "url": "https://chrome.google.com/webstore/detail/fgmbnmjmbjenlhbefngfibmjkpbcljaj",
+    "section": "🛠️ Productivity & Browser Tools",
+    "subsection": "Must-Have Extensions",
+    "desc": "Find and highlight keywords on any webpage.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Hypothesis",
+    "url": "https://hypothes.is",
+    "section": "🛠️ Productivity & Browser Tools",
+    "subsection": "Must-Have Extensions",
+    "desc": "Collaboratively annotate and highlight web pages and PDFs.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Linkclump",
+    "url": "https://chrome.google.com/webstore/detail/lfpjkncokllnfokkgpkobnkbkmelfefj",
+    "section": "🛠️ Productivity & Browser Tools",
+    "subsection": "Must-Have Extensions",
+    "desc": "Open/copy multiple links at once.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "OneTab",
+    "url": "https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall",
+    "section": "🛠️ Productivity & Browser Tools",
+    "subsection": "Must-Have Extensions",
+    "desc": "Collapse all tabs into a list. Saves up to 95% memory.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Text Blaze",
+    "url": "https://blaze.today",
+    "section": "🛠️ Productivity & Browser Tools",
+    "subsection": "Must-Have Extensions",
+    "desc": "Text snippet expansion. Speed up repetitive typing.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Toggl Track",
+    "url": "https://toggl.com",
+    "section": "🛠️ Productivity & Browser Tools",
+    "subsection": "Must-Have Extensions",
+    "desc": "Time tracking. Know where your sourcing hours actually go.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "uBlock Origin",
+    "url": "https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm",
+    "section": "🛠️ Productivity & Browser Tools",
+    "subsection": "Must-Have Extensions",
+    "desc": "Best ad + tracker blocker. Speeds up every page.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "JSON to CSV",
+    "url": "https://konklone.io/json/",
+    "section": "🛠️ Productivity & Browser Tools",
+    "subsection": "Dev & Data Tools",
+    "desc": "Convert JSON to CSV instantly.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "JSONView",
+    "url": "https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc",
+    "section": "🛠️ Productivity & Browser Tools",
+    "subsection": "Dev & Data Tools",
+    "desc": "Format JSON in browser.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Online Regex Tester",
+    "url": "https://regex101.com",
+    "section": "🛠️ Productivity & Browser Tools",
+    "subsection": "Dev & Data Tools",
+    "desc": "Build and test regex patterns.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Postman",
+    "url": "https://postman.com",
+    "section": "🛠️ Productivity & Browser Tools",
+    "subsection": "Dev & Data Tools",
+    "desc": "API testing and exploration tool.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Public APIs List",
+    "url": "https://public-apis.xyz",
+    "section": "🛠️ Productivity & Browser Tools",
+    "subsection": "Dev & Data Tools",
+    "desc": "Directory of free public APIs.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "VS Code",
+    "url": "https://code.visualstudio.com",
+    "section": "🛠️ Productivity & Browser Tools",
+    "subsection": "Dev & Data Tools",
+    "desc": "Lightweight code/text editor. Replaced Atom/Sublime.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "WhatRuns",
+    "url": "https://chrome.google.com/webstore/detail/cmkdbmfndkfgebldhnkbfhlneefdaaip",
+    "section": "🛠️ Productivity & Browser Tools",
+    "subsection": "Dev & Data Tools",
+    "desc": "See what tech stack a website runs on.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Calendly",
+    "url": "https://calendly.com",
+    "section": "🛠️ Productivity & Browser Tools",
+    "subsection": "Scheduling & Meetings",
+    "desc": "Scheduling tool. Share link, candidates pick a time.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Grain",
+    "url": "https://grain.com",
+    "section": "🛠️ Productivity & Browser Tools",
+    "subsection": "Scheduling & Meetings",
+    "desc": "Record, transcribe, and clip meeting highlights.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Krisp",
+    "url": "https://krisp.ai",
+    "section": "🛠️ Productivity & Browser Tools",
+    "subsection": "Scheduling & Meetings",
+    "desc": "Background noise removal for calls.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Otter.ai",
+    "url": "https://otter.ai",
+    "section": "🛠️ Productivity & Browser Tools",
+    "subsection": "Scheduling & Meetings",
+    "desc": "Meeting transcription and notes.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Momentum",
+    "url": "https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca",
+    "section": "🛠️ Productivity & Browser Tools",
+    "subsection": "Productivity",
+    "desc": "Personal dashboard designed to eliminate distraction.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "My Time Zone",
+    "url": "https://chrome.google.com/webstore/detail/fdmjemdmpmohggbjhmbeoipmheemmcpm",
+    "section": "🛠️ Productivity & Browser Tools",
+    "subsection": "Productivity",
+    "desc": "Automatic timezone conversion for scheduling.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Raycast",
+    "url": "https://www.raycast.com",
+    "section": "🛠️ Productivity & Browser Tools",
+    "subsection": "Productivity",
+    "desc": "Mac launcher + productivity hub. Snippets, clipboard history, window management, and AI in one keystroke.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Google",
+    "url": "https://www.google.com",
+    "section": "🔎 Search Engines & Reference",
+    "subsection": null,
+    "desc": "",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Bing",
+    "url": "https://www.bing.com/",
+    "section": "🔎 Search Engines & Reference",
+    "subsection": null,
+    "desc": "",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "DuckDuckGo",
+    "url": "https://duckduckgo.com/",
+    "section": "🔎 Search Engines & Reference",
+    "subsection": null,
+    "desc": "",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Open Corporates",
+    "url": "https://opencorporates.com/",
+    "section": "🔎 Search Engines & Reference",
+    "subsection": null,
+    "desc": "Largest open database of companies in the world.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Research Gate",
+    "url": "https://www.researchgate.net/",
+    "section": "🔎 Search Engines & Reference",
+    "subsection": null,
+    "desc": "Find researchers and publications.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Semantic Scholar",
+    "url": "https://www.semanticscholar.org/",
+    "section": "🔎 Search Engines & Reference",
+    "subsection": null,
+    "desc": "AI-powered academic search.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Wayback Machine",
+    "url": "https://archive.org/web/",
+    "section": "🔎 Search Engines & Reference",
+    "subsection": null,
+    "desc": "Find old versions of anything.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "World Bank Open Data",
+    "url": "https://data.worldbank.org/",
+    "section": "🔎 Search Engines & Reference",
+    "subsection": null,
+    "desc": "Free and open access to global development data.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "AmazingHiring Blog",
+    "url": "https://amazinghiring.com/blog/",
+    "section": "📓 Learning & Community",
+    "subsection": "Newsletters & Blogs",
+    "desc": "Sourcing tips and market insights.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "BooleanStrings",
+    "url": "http://booleanstrings.com",
+    "section": "📓 Learning & Community",
+    "subsection": "Newsletters & Blogs",
+    "desc": "Blog by Irina Shamaeva. Deep sourcing and boolean content.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Dr. John Sullivan",
+    "url": "https://drjohnsullivan.com",
+    "section": "📓 Learning & Community",
+    "subsection": "Newsletters & Blogs",
+    "desc": "Data-driven recruiting strategy. Hiring manager alignment, metrics, recruiting ROI.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "GlossaryTech",
+    "url": "https://blog.glossarytech.com",
+    "section": "📓 Learning & Community",
+    "subsection": "Newsletters & Blogs",
+    "desc": "Tech glossary for non-technical recruiters.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Katrina Collier",
+    "url": "https://www.katrinacollier.com",
+    "section": "📓 Learning & Community",
+    "subsection": "Newsletters & Blogs",
+    "desc": "Writing and resources on candidate engagement and human-centered hiring in an AI world.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Recruiting Brainfood",
+    "url": "https://recruitingbrainfood.com",
+    "section": "📓 Learning & Community",
+    "subsection": "Newsletters & Blogs",
+    "desc": "Weekly newsletter by Hung Lee. Essential reading.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Recruiting Toolbox",
+    "url": "https://recruitingtools.com",
+    "section": "📓 Learning & Community",
+    "subsection": "Newsletters & Blogs",
+    "desc": "Tools and resources for TA practitioners.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "RecruitingDaily",
+    "url": "https://recruitingdaily.com",
+    "section": "📓 Learning & Community",
+    "subsection": "Newsletters & Blogs",
+    "desc": "TA news, podcasts, and tools.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "SocialTalent Blog",
+    "url": "https://socialtalent.com/blog",
+    "section": "📓 Learning & Community",
+    "subsection": "Newsletters & Blogs",
+    "desc": "Recruiter training and content.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "SourceCon",
+    "url": "https://sourcecon.com",
+    "section": "📓 Learning & Community",
+    "subsection": "Newsletters & Blogs",
+    "desc": "Sourcing conference + blog. Original content and hackathons. (Now part of ERE.)",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "acquired",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Talent Edge Weekly",
+    "url": "https://talentedgeweekly.com",
+    "section": "📓 Learning & Community",
+    "subsection": "Newsletters & Blogs",
+    "desc": "Curated weekly roundup of recruiting and TA insights. Good signal-to-noise.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "WizardSourcer",
+    "url": "https://wizardsourcer.com/blog",
+    "section": "📓 Learning & Community",
+    "subsection": "Newsletters & Blogs",
+    "desc": "Practical sourcing tutorials by Jonathan Kidder.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Big List of Recruiting / HR Podcasts",
+    "url": "https://recruitingbrainfood.com/big-list-of-podcasts/",
+    "section": "📓 Learning & Community",
+    "subsection": "Audio",
+    "desc": "Comprehensive podcast list by Hung Lee.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Hiring on All Cylinders",
+    "url": "http://hiringonallcylinders.com",
+    "section": "📓 Learning & Community",
+    "subsection": "Audio",
+    "desc": "Recruiting strategy podcast.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Recruiting Future with Matt Alder",
+    "url": "https://recruitingfuture.com",
+    "section": "📓 Learning & Community",
+    "subsection": "Audio",
+    "desc": "The most-listened-to TA podcast. Future of recruiting, AI, and hiring innovation. Weekly interviews with practitioners and researchers.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Talk Talent to Me",
+    "url": "https://podcasts.apple.com/us/podcast/talk-talent-to-me/id1288771792",
+    "section": "📓 Learning & Community",
+    "subsection": "Audio",
+    "desc": "TA strategy conversations with practitioners. (Now sponsored by LHH; still going.)",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "The Chad & Cheese Podcast",
+    "url": "https://chadcheese.com",
+    "section": "📓 Learning & Community",
+    "subsection": "Audio",
+    "desc": "HRtech commentary, sometimes irreverent.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "The Sourcing School",
+    "url": "https://thesourcingschool.com",
+    "section": "📓 Learning & Community",
+    "subsection": "Audio",
+    "desc": "Sourcing-focused podcast by Maisha Cannon and Jeremy Roberts. Tactics, tools, and guest sourcers.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Dean Da Costa",
+    "url": "https://www.youtube.com/user/star4343/videos",
+    "section": "📓 Learning & Community",
+    "subsection": "Video",
+    "desc": "Sourcing tools deep dives.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Glen Cathey",
+    "url": "https://www.youtube.com/c/GlenCathey",
+    "section": "📓 Learning & Community",
+    "subsection": "Video",
+    "desc": "Sourcing pioneer. AI in sourcing, boolean, and talent strategy.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Jan Tegze",
+    "url": "https://www.youtube.com/@JanTegze",
+    "section": "📓 Learning & Community",
+    "subsection": "Video",
+    "desc": "Full Stack Recruiter author. Practical Google/sourcing tutorials.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Josef Kadlec",
+    "url": "https://www.youtube.com/user/josefkadlec/videos",
+    "section": "📓 Learning & Community",
+    "subsection": "Video",
+    "desc": "Tech sourcing tutorials.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "ohsusannamarie",
+    "url": "https://www.youtube.com/channel/UCMENmamzULqh7WHzNRdd0dQ/videos",
+    "section": "📓 Learning & Community",
+    "subsection": "Video",
+    "desc": "Sourcing tutorials and tips by Susanna Frazier.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Recruiting Future",
+    "url": "https://www.youtube.com/@RecruitingFuture",
+    "section": "📓 Learning & Community",
+    "subsection": "Video",
+    "desc": "Video edition of Matt Alder's podcast.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Sourcers Who Code",
+    "url": "https://www.youtube.com/playlist?list=PLh9V7buk0vuDxX9G_acEyuZ4VVMa7b51v",
+    "section": "📓 Learning & Community",
+    "subsection": "Video",
+    "desc": "Technical sourcing video series.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "ATAP",
+    "url": "https://atapglobal.org",
+    "section": "📓 Learning & Community",
+    "subsection": "Communities",
+    "desc": "Association of Talent Acquisition Professionals.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Big List of Online Recruiting Communities",
+    "url": "https://recruitingbrainfood.com/big-list-of-online-recruiter-communities",
+    "section": "📓 Learning & Community",
+    "subsection": "Communities",
+    "desc": "Comprehensive list by Hung Lee.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Secret Sourcing Group (Facebook)",
+    "url": "https://facebook.com/groups/secret.sourcing",
+    "section": "📓 Learning & Community",
+    "subsection": "Communities",
+    "desc": "Practitioner discussions on sourcing.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "SourceCon (Facebook)",
+    "url": "https://facebook.com/groups/151466298380729",
+    "section": "📓 Learning & Community",
+    "subsection": "Communities",
+    "desc": "SourceCon community group.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Sourcers Who Code (Facebook)",
+    "url": "https://facebook.com/groups/SourcersWhoCode",
+    "section": "📓 Learning & Community",
+    "subsection": "Communities",
+    "desc": "Active community for tech-savvy sourcers.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Glen Cathey",
+    "url": "https://www.linkedin.com/in/glencathey",
+    "section": "📓 Learning & Community",
+    "subsection": "Who to Follow",
+    "desc": "The \"Sourcing Sensei.\" Deep, thoughtful takes on AI in sourcing and the future of TA.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Hung Lee",
+    "url": "https://recruitingbrainfood.com",
+    "section": "📓 Learning & Community",
+    "subsection": "Who to Follow",
+    "desc": "Curator of Recruiting Brainfood and the field's best-connected aggregator of what matters this week.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Irina Shamaeva",
+    "url": "https://www.linkedin.com/in/irinashamaeva",
+    "section": "📓 Learning & Community",
+    "subsection": "Who to Follow",
+    "desc": "Boolean and X-ray queen. Endless practical sourcing tips.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Jan Tegze",
+    "url": "https://www.youtube.com/@JanTegze",
+    "section": "📓 Learning & Community",
+    "subsection": "Who to Follow",
+    "desc": "Full Stack Recruiter author. Tools, tactics, and sourcing experiments.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Jonathan Kidder",
+    "url": "https://wizardsourcer.com",
+    "section": "📓 Learning & Community",
+    "subsection": "Who to Follow",
+    "desc": "WizardSourcer. Tutorials, tool reviews, and \"sourcers to follow\" lists.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Katrina Collier",
+    "url": "https://www.katrinacollier.com",
+    "section": "📓 Learning & Community",
+    "subsection": "Who to Follow",
+    "desc": "Candidate engagement and the human side of hiring.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Maisha Cannon",
+    "url": "https://www.linkedin.com/in/maishac",
+    "section": "📓 Learning & Community",
+    "subsection": "Who to Follow",
+    "desc": "The Sourcing School. Practical sourcing and community-building.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "ERE Recruiting Innovation Summit",
+    "url": "https://www.ere.net",
+    "section": "📓 Learning & Community",
+    "subsection": "Conferences & Events",
+    "desc": "Premier event for in-house TA leaders and strategists. Home of SourceCon sessions.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": "irl",
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "HR Technology Conference",
+    "url": "https://www.hrtechnologyconference.com",
+    "section": "📓 Learning & Community",
+    "subsection": "Conferences & Events",
+    "desc": "The biggest HR/recruiting tech expo. See every tool on this list under one roof.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": "irl",
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "LinkedIn Talent Connect",
+    "url": "https://www.linkedin.com/talent/talent-connect",
+    "section": "📓 Learning & Community",
+    "subsection": "Conferences & Events",
+    "desc": "LinkedIn's flagship TA event. Product launches and big-picture trends.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": "hybrid",
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "RecFest",
+    "url": "https://www.recfest.com",
+    "section": "📓 Learning & Community",
+    "subsection": "Conferences & Events",
+    "desc": "Festival-style recruiting conference. UK (Knebworth) + USA (Nashville) editions. Deep sourcing, employer brand, and modern workflows.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": "irl",
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "SourceCon",
+    "url": "https://www.sourcecon.com",
+    "section": "📓 Learning & Community",
+    "subsection": "Conferences & Events",
+    "desc": "The sourcing conference. Hackathons, boolean deep dives, OSINT. Now run under ERE.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": "hybrid",
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Sourcing Summit (SOSU)",
+    "url": "https://sourcingsummit.com",
+    "section": "📓 Learning & Community",
+    "subsection": "Conferences & Events",
+    "desc": "Global sourcing conference series (Europe, APAC, and online editions).",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "eu",
+      "apac"
+    ],
+    "format": "hybrid",
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Talent Acquisition Week",
+    "url": "https://talentacquisitionweek.com",
+    "section": "📓 Learning & Community",
+    "subsection": "Conferences & Events",
+    "desc": "Three co-located conferences: Talent Sourcing Strategies, Social Recruiting Strategies, and Employer Branding.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": "irl",
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Talent42",
+    "url": "https://talent42.com",
+    "section": "📓 Learning & Community",
+    "subsection": "Conferences & Events",
+    "desc": "The only conference built specifically for technical recruiting. In-person + virtual.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": "hybrid",
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "UNLEASH",
+    "url": "https://www.unleash.ai",
+    "section": "📓 Learning & Community",
+    "subsection": "Conferences & Events",
+    "desc": "Future-of-work, AI, and HR innovation. America + World editions.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": "irl",
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Bellingcat's Online Investigation Toolkit",
+    "url": "https://bellingcat.gitbook.io/toolkit",
+    "section": "📓 Learning & Community",
+    "subsection": "Cool Lists by Cool People",
+    "desc": "OSINT toolkit from investigative journalists. (Current GitBook edition — the old Google Doc was retired.)",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Big List of Places to Post Jobs (Global)",
+    "url": "https://www.recruitingbrainfood.com/big-list-of-places-to-post-jobs-globally/",
+    "section": "📓 Learning & Community",
+    "subsection": "Cool Lists by Cool People",
+    "desc": "By Hung Lee.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "CSE Utopia",
+    "url": "https://start.me/p/EL84Km/cse-utopia",
+    "section": "📓 Learning & Community",
+    "subsection": "Cool Lists by Cool People",
+    "desc": "Amazing list of public CSEs by Dean Da Costa.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "SSaR",
+    "url": "https://start.me/p/GE7Ebm/ssar",
+    "section": "📓 Learning & Community",
+    "subsection": "Cool Lists by Cool People",
+    "desc": "Huge tools list by Dean Da Costa.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "CB Insights",
+    "url": "https://www.cbinsights.com/",
+    "section": "🌍 Relocation, Compensation & Research",
+    "subsection": null,
+    "desc": "Company research, funding data, market maps.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Levels.fyi",
+    "url": "https://levels.fyi",
+    "section": "🌍 Relocation, Compensation & Research",
+    "subsection": null,
+    "desc": "Crowdsourced compensation at tech companies.",
+    "pricing": "free",
+    "favorite": true,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Numbeo",
+    "url": "http://www.numbeo.com/cost-of-living/",
+    "section": "🌍 Relocation, Compensation & Research",
+    "subsection": null,
+    "desc": "Calculate the cost of living by city.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Open Corporates",
+    "url": "https://opencorporates.com/",
+    "section": "🌍 Relocation, Compensation & Research",
+    "subsection": null,
+    "desc": "Largest open database of companies globally.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Payscale",
+    "url": "https://www.payscale.com",
+    "section": "🌍 Relocation, Compensation & Research",
+    "subsection": null,
+    "desc": "Salary data by role, location, and experience.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Progression.fyi",
+    "url": "https://progression.fyi",
+    "section": "🌍 Relocation, Compensation & Research",
+    "subsection": null,
+    "desc": "Open source career frameworks.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Ravio",
+    "url": "https://ravio.com",
+    "section": "🌍 Relocation, Compensation & Research",
+    "subsection": null,
+    "desc": "Real-time European compensation insights.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "eu"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Relocate.me",
+    "url": "http://relocate.me/",
+    "section": "🌍 Relocation, Compensation & Research",
+    "subsection": null,
+    "desc": "Job board for people who want to relocate.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Salary.com",
+    "url": "http://salary.com/",
+    "section": "🌍 Relocation, Compensation & Research",
+    "subsection": null,
+    "desc": "Compensation data and benchmarking.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "TechPays",
+    "url": "https://techpays.com",
+    "section": "🌍 Relocation, Compensation & Research",
+    "subsection": null,
+    "desc": "Open source compensation info for European tech roles.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "eu"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  },
+  {
+    "name": "Travelscope",
+    "url": "https://www.markuslerner.com/travelscope/",
+    "section": "🌍 Relocation, Compensation & Research",
+    "subsection": null,
+    "desc": "Worldwide Visa check.",
+    "pricing": "free",
+    "favorite": false,
+    "new_2026": false,
+    "status": "active",
+    "region": [
+      "global"
+    ],
+    "format": null,
+    "caution": [],
+    "review": null
+  }
+]
