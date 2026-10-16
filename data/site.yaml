@@ -1534,6 +1534,17 @@ sections:
       - global
       _raw: '- [Intelligence X](https://intelx.io) — OSINT search engine. Indexes dark web, leaked data, public archives.'
   - entry:
+      name: OutreachGenie LinkedIn Boolean Search Builder
+      url: https://www.outreachgenie.ai/linkedin-boolean-search-builder
+      desc: Free browser-based builder for LinkedIn Boolean queries. Group alternative titles,
+        required phrases, and exclusions; review the query and copy it. No signup or extension required.
+      pricing: free
+      favorite: false
+      new_2026: true
+      status: active
+      region:
+      - global
+  - entry:
       name: RecruitEm
       url: https://recruitin.net
       desc: ❤️ Free Google X-ray search generator. Build boolean strings for LinkedIn, X, GitHub, Stack Overflow, and XING — paste a JD and let AI build the search.

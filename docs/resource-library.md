@@ -240,6 +240,7 @@ New to sourcing, or building your stack from scratch? Start with these. One batt
 - [Grep.app](https://grep.app) — Search across all public GitHub repos by code. Find developers by what they build.
 - [I Search From](http://isearchfrom.com) — Simulate Google search from a different location and device.
 - [Intelligence X](https://intelx.io) — OSINT search engine. Indexes dark web, leaked data, public archives.
+- [OutreachGenie LinkedIn Boolean Search Builder](https://www.outreachgenie.ai/linkedin-boolean-search-builder) — Free browser-based builder for LinkedIn Boolean queries. Group alternative titles, required phrases, and exclusions; review the query and copy it. No signup or extension required.
 - [RecruitEm](https://recruitin.net) — ❤️ Free Google X-ray search generator. Build boolean strings for LinkedIn, X, GitHub, Stack Overflow, and XING — paste a JD and let AI build the search.
 - [SourceGraph](https://sourcegraph.com/search) — Universal code search across GitHub, GitLab, Bitbucket.
 - [Sourcing Games](http://sourcing.games) — ❤️ Gamified sourcing challenges to sharpen OSINT and boolean skills.
