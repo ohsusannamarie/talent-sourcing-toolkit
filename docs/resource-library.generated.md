@@ -370,6 +370,7 @@ New to sourcing, or building your stack from scratch? Start with these. One batt
 
 #### AI Screening & Conversational Recruiting
 
+- [AnswerReel](https://answerreel.com/one-way-video-interview) — One-way video interviews. Candidates answer set questions in their own time by video, voice or text, with no account or app. AI can ask one follow-up, and scores experience answers 1–5 against criteria you write; any score above 1 comes with a quote from the answer. Free for 10 answers a month.
 - [HeyMilo](https://www.heymilo.ai) — 💰 AI voice screening. Two-way conversational voice interviews that screen and rank candidates automatically. Good for phone-screen-heavy pipelines.
 - [HireVue](https://hirevue.com) — 💰 Video interviews + AI assessments. Enterprise scale. Masks PII during screening to reduce bias.
 - [Humanly](https://humanly.io) — 💰 Conversational AI recruiter + talent CRM. Automates screening, scheduling, and structured interviews. Hires up to 8x faster for high-volume pipelines. Strong consent and data governance framework.

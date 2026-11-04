@@ -2525,6 +2525,19 @@ sections:
   - raw: '#### AI Screening & Conversational Recruiting'
   - raw: ''
   - entry:
+      name: AnswerReel
+      url: https://answerreel.com/one-way-video-interview
+      desc: One-way video interviews. Candidates answer set questions in their own time by video, voice or text, with no account or app. AI can ask one follow-up, and scores experience answers 1–5 against criteria you write; any score above 1 comes with a quote from the answer. Free for 10 answers a month.
+      pricing: free
+      favorite: false
+      new_2026: false
+      status: active
+      region:
+      - global
+      _raw: '- [AnswerReel](https://answerreel.com/one-way-video-interview) — One-way video interviews. Candidates answer set questions in their own time by video, voice or text, with no account or app. AI can ask one follow-up, and scores experience answers 1–5 against criteria you write; any score above 1 comes with a quote from the answer. Free for 10 answers a month.'
+      caution:
+      - ai-screening
+  - entry:
       name: HeyMilo
       url: https://www.heymilo.ai
       desc: 💰 AI voice screening. Two-way conversational voice interviews that screen and rank candidates automatically. Good for phone-screen-heavy pipelines.
